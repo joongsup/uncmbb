@@ -2,8 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
-scratch.R
-data_scrap.R
-data_gen.R
-add_inserts.R
-notes
+data-raw/scratch.R
+data-raw/data_scrap.R
+data-raw/data_gen.R
+data-raw/add_inserts.R
+data-raw/notes

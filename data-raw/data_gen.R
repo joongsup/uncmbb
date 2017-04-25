@@ -65,7 +65,7 @@ d <- d[, final_cols]
 #write.table(matchresults, file = "data-raw/matchresults.csv", col.names = TRUE, row.names = FALSE, quote = FALSE, sep = ",")
 
 dukeresults <- d
-write.table(dukeresults, file = "data-raw/dukeresults.csv", col.names = TRUE, row.names = FALSE, quote = FALSE, sep = ",")
+#write.table(dukeresults, file = "data-raw/dukeresults.csv", col.names = TRUE, row.names = FALSE, quote = FALSE, sep = ",")
 
 #----------------------------------------
 # overall records from other source
