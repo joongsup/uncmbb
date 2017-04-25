@@ -21,7 +21,7 @@ extract_ranking <- function(df){
   df
 }
 
-formate_date <- function(df){
+fix_date <- function(df){
   df$Game_Day <- substr(df$Date, 1, 3)
   df$Game_Date <- substr(df$Date, 6, length(df$Date))
   df$Game_Date <- mdy(df$Game_Date)
@@ -35,7 +35,7 @@ fix_where <- function(df){
   df
   }
 
-fill_emply <- function(df){
+na_empty <- function(df){
   df$OT <- ifelse(df$OT == "", NA, df$OT)
   df$Arena <- ifelse(df$Arena == "", NA, df$Arena)
   df$Conf <- ifelse(df$Conf == "", NA, df$Conf)
@@ -44,6 +44,7 @@ fill_emply <- function(df){
 }
 
 fix_type <- function(df){
+  # don't forget Game_Date is of type Date
   df$G <- as.numeric(df$G)
   df$Tm <- as.numeric(df$Tm)
   df$Opp <- as.numeric(df$Opp)
@@ -53,5 +54,4 @@ fix_type <- function(df){
 
   df
 }
-
 

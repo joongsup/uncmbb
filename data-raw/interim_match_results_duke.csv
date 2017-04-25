@@ -1,0 +1,2153 @@
+Season,G,Game_Date,Game_Day,Type,Where,Opponent_School,Opponent_Ranking,Conf,Result,Tm,Opp,OT,W,L,Streak,Arena
+1950,1,1949-12-03,Sat,REG,A,Hanes Hosiery,NA,NA,L,52,53,NA,0,1,L 1,NA
+1950,2,1949-12-06,Tue,REG,H,Hampden-Sydney,NA,NA,W,74,59,NA,1,1,W 1,Cameron Indoor Stadium
+1950,3,1949-12-08,Thu,REG,A,McCrary Hosiery,NA,NA,L,54,60,NA,1,2,L 1,McCrary Gym
+1950,4,1949-12-10,Sat,REG,A,Virginia,NA,Ind,W,82,61,NA,2,2,W 1,Municipal Auditorium
+1950,5,1949-12-15,Thu,REG,A,Davidson,NA,Southern,W,66,49,NA,3,2,W 2,Johnston Gym
+1950,6,1949-12-17,Sat,REG,A,Washington & Lee,NA,Southern,W,81,67,OT,4,2,W 3,Lynchburg City Armory
+1950,7,1949-12-20,Tue,REG,A,South Carolina,NA,Southern,L,44,54,NA,4,3,L 1,Carolina Fieldhouse
+1950,8,1949-12-28,Wed,REG,H,Penn State,NA,Ind,L,48,51,NA,4,4,L 2,Reynolds Coliseum
+1950,9,1949-12-29,Thu,REG,N,North Carolina,NA,Southern,L,52,59,NA,4,5,L 3,Reynolds Coliseum
+1950,10,1949-12-30,Fri,REG,N,Wake Forest,NA,Southern,W,54,52,NA,5,5,W 1,Reynolds Coliseum
+1950,11,1950-01-04,Wed,REG,H,Maryland,NA,Southern,W,58,46,NA,6,5,W 2,Cameron Indoor Stadium
+1950,12,1950-01-07,Sat,REG,H,North Carolina State,7,Southern,W,58,55,NA,7,5,W 3,Cameron Indoor Stadium
+1950,13,1950-01-12,Thu,REG,A,New York University,NA,Metro NY,L,64,80,NA,7,6,L 1,Madison Square Garden (III)
+1950,14,1950-01-14,Sat,REG,A,Temple,NA,Ind,L,49,59,NA,7,7,L 2,Convention Hall
+1950,15,1950-01-17,Tue,REG,H,South Carolina,NA,Southern,W,79,60,NA,8,7,W 1,Cameron Indoor Stadium
+1950,16,1950-01-27,Fri,REG,H,Davidson,NA,Southern,W,69,59,NA,9,7,W 2,Cameron Indoor Stadium
+1950,17,1950-01-28,Sat,REG,H,Wake Forest,NA,Southern,W,65,55,NA,10,7,W 3,Cameron Indoor Stadium
+1950,18,1950-02-04,Sat,REG,H,Navy,NA,Ind,W,68,53,NA,11,7,W 4,Cameron Indoor Stadium
+1950,19,1950-02-07,Tue,REG,H,Citadel,NA,Southern,W,65,39,NA,12,7,W 5,Cameron Indoor Stadium
+1950,20,1950-02-10,Fri,REG,A,Maryland,NA,Southern,L,57,67,NA,12,8,L 1,Ritchie Gymnasium
+1950,21,1950-02-11,Sat,REG,A,George Washington,NA,Southern,L,55,62,2OT,12,9,L 2,Uline Arena
+1950,22,1950-02-14,Tue,REG,A,North Carolina State,8,Southern,L,50,68,NA,12,10,L 3,Reynolds Coliseum
+1950,23,1950-02-17,Fri,REG,A,North Carolina,NA,Southern,L,55,58,NA,12,11,L 4,Woollen Gymnasium
+1950,24,1950-02-18,Sat,REG,H,George Washington,NA,Southern,W,55,52,NA,13,11,W 1,Cameron Indoor Stadium
+1950,25,1950-02-21,Tue,REG,A,Wake Forest,NA,Southern,L,54,72,NA,13,12,L 1,Gore Gymnasium
+1950,26,1950-02-24,Fri,REG,H,North Carolina,NA,Southern,L,46,64,NA,13,13,L 2,Cameron Indoor Stadium
+1950,27,1950-03-02,Thu,CTOURN,H,South Carolina,NA,Southern,W,53,41,NA,14,13,W 1,Cameron Indoor Stadium
+1950,28,1950-03-03,Fri,CTOURN,H,William & Mary,NA,Southern,W,60,50,NA,15,13,W 2,Cameron Indoor Stadium
+1950,29,1950-03-04,Sat,CTOURN,H,North Carolina State,8,Southern,L,47,67,NA,15,14,L 1,Cameron Indoor Stadium
+1950,30,1950-03-08,Wed,REG,A,Pennsylvania,NA,Ivy,L,50,68,NA,15,15,L 2,The Palestra
+1951,1,1950-12-02,Sat,REG,A,Hanes Hosiery,NA,NA,W,76,71,NA,1,0,W 1,NA
+1951,2,1950-12-05,Tue,REG,A,McCrary Hosiery,NA,NA,W,72,60,NA,2,0,W 2,McCrary Gym
+1951,3,1950-12-09,Sat,REG,A,Virginia,NA,Ind,W,77,57,NA,3,0,W 3,Municipal Auditorium
+1951,4,1950-12-15,Fri,REG,A,Virginia Military Institute,NA,Southern,W,86,66,NA,4,0,W 4,VMI Field House
+1951,5,1950-12-16,Sat,REG,A,Washington & Lee,NA,Southern,W,97,69,NA,5,0,W 5,Lynchburg City Armory
+1951,6,1950-12-22,Fri,REG,A,George Washington,NA,Southern,W,70,67,NA,6,0,W 6,Uline Arena
+1951,7,1950-12-23,Sat,REG,A,Bradley,2,MVC,L,58,93,NA,6,1,L 1,Robertson Memorial Field House
+1951,8,1950-12-28,Thu,REG,H,Colgate,NA,Ind,L,69,84,NA,6,2,L 2,Reynolds Coliseum
+1951,9,1950-12-29,Fri,REG,N,North Carolina,NA,Southern,W,71,63,NA,7,2,W 1,Reynolds Coliseum
+1951,10,1950-12-30,Sat,REG,H,Tulane,NA,SEC,W,74,72,NA,8,2,W 2,Reynolds Coliseum
+1951,11,1951-01-01,Mon,REG,A,Canisius,NA,WNY3,L,57,69,NA,8,3,L 1,Buffalo Memorial Auditorium
+1951,12,1951-01-03,Wed,REG,A,Pennsylvania,NA,Ivy,L,76,85,NA,8,4,L 2,The Palestra
+1951,13,1951-01-06,Sat,REG,H,North Carolina State,7,Southern,L,71,77,OT,8,5,L 3,Cameron Indoor Stadium
+1951,14,1951-01-11,Thu,REG,H,South Carolina,NA,Southern,W,60,58,NA,9,5,W 1,Cameron Indoor Stadium
+1951,15,1951-01-13,Sat,REG,H,West Virginia,NA,Southern,W,77,73,NA,10,5,W 2,Cameron Indoor Stadium
+1951,16,1951-01-15,Mon,REG,A,William & Mary,NA,Southern,L,57,74,NA,10,6,L 1,Blow Gym
+1951,17,1951-01-27,Sat,REG,H,Wake Forest,NA,Southern,L,56,65,NA,10,7,L 2,Cameron Indoor Stadium
+1951,18,1951-01-29,Mon,REG,H,Davidson,NA,Southern,W,90,68,NA,11,7,W 1,Cameron Indoor Stadium
+1951,19,1951-01-30,Tue,REG,A,South Carolina,NA,Southern,L,62,82,NA,11,8,L 1,Carolina Fieldhouse
+1951,20,1951-02-02,Fri,REG,A,North Carolina,NA,Southern,L,68,71,NA,11,9,L 2,Woollen Gymnasium
+1951,21,1951-02-03,Sat,REG,H,New York University,NA,Metro NY,L,73,79,NA,11,10,L 3,Cameron Indoor Stadium
+1951,22,1951-02-05,Mon,REG,H,George Washington,NA,Southern,W,85,70,NA,12,10,W 1,Cameron Indoor Stadium
+1951,23,1951-02-06,Tue,REG,H,William & Mary,NA,Southern,W,61,54,NA,13,10,W 2,Cameron Indoor Stadium
+1951,24,1951-02-10,Sat,REG,A,North Carolina State,10,Southern,L,65,75,NA,13,11,L 1,Reynolds Coliseum
+1951,25,1951-02-12,Mon,REG,A,Davidson,NA,Southern,W,94,73,NA,14,11,W 1,Johnston Gym
+1951,26,1951-02-14,Wed,REG,H,Washington & Lee,NA,Southern,W,94,68,NA,15,11,W 2,Cameron Indoor Stadium
+1951,27,1951-02-16,Fri,REG,A,Maryland,NA,Southern,W,49,40,NA,16,11,W 3,Ritchie Gymnasium
+1951,28,1951-02-17,Sat,REG,A,Navy,NA,Ind,L,60,85,NA,16,12,L 1,Bancroft Hall Gym
+1951,29,1951-02-19,Mon,REG,A,Wake Forest,NA,Southern,W,69,64,NA,17,12,W 1,Gore Gymnasium
+1951,30,1951-02-23,Fri,REG,H,North Carolina,NA,Southern,W,84,72,NA,18,12,W 2,Cameron Indoor Stadium
+1951,31,1951-03-01,Thu,CTOURN,H,Virginia Tech,NA,Southern,W,64,61,NA,19,12,W 3,Reynolds Coliseum
+1951,32,1951-03-02,Fri,CTOURN,H,William & Mary,NA,Southern,W,71,69,NA,20,12,W 4,Reynolds Coliseum
+1951,33,1951-03-03,Sat,CTOURN,A,North Carolina State,8,Southern,L,63,67,NA,20,13,L 1,Reynolds Coliseum
+1952,1,1951-12-01,Sat,REG,H,Temple,NA,Ind,W,85,48,NA,1,0,W 1,Cameron Indoor Stadium
+1952,2,1951-12-03,Mon,REG,A,Hanes Hosiery,NA,NA,W,78,68,NA,2,0,W 2,NA
+1952,3,1951-12-05,Wed,REG,H,North Carolina,NA,Southern,W,77,59,NA,3,0,W 3,Cameron Indoor Stadium
+1952,4,1951-12-08,Sat,REG,H,Bradley,NA,Ind,W,87,69,NA,4,0,W 4,Cameron Indoor Stadium
+1952,5,1951-12-11,Tue,REG,A,Furman,NA,Southern,L,72,73,NA,4,1,L 1,Shelby Memorial Community Center
+1952,6,1951-12-15,Sat,REG,H,Virginia Military Institute,NA,Southern,W,102,45,NA,5,1,W 1,Cameron Indoor Stadium
+1952,7,1951-12-18,Tue,REG,H,Davidson,NA,Southern,W,88,49,NA,6,1,W 2,Cameron Indoor Stadium
+1952,8,1951-12-21,Fri,REG,A,George Washington,NA,Southern,W,98,76,NA,7,1,W 3,Uline Arena
+1952,9,1951-12-22,Sat,REG,A,West Virginia,NA,Southern,L,74,95,NA,7,2,L 1,Stansbury Hall
+1952,10,1951-12-27,Thu,REG,H,Columbia,NA,Ivy,L,58,66,NA,7,3,L 2,Reynolds Coliseum
+1952,11,1951-12-28,Fri,REG,N,Wake Forest,NA,Southern,W,79,74,NA,8,3,W 1,Reynolds Coliseum
+1952,12,1951-12-29,Sat,REG,H,Southern California,NA,PCC,L,69,87,NA,8,4,L 1,Reynolds Coliseum
+1952,13,1952-01-02,Wed,REG,H,Pennsylvania,NA,Ivy,W,62,52,NA,9,4,W 1,Cameron Indoor Stadium
+1952,14,1952-01-05,Sat,REG,H,North Carolina State,17,Southern,L,70,72,2OT,9,5,L 1,Cameron Indoor Stadium
+1952,15,1952-01-10,Thu,REG,A,New York University,13,Metro NY,W,74,72,NA,10,5,W 1,Madison Square Garden (III)
+1952,16,1952-01-12,Sat,REG,A,Temple,NA,Ind,W,86,65,NA,11,5,W 2,Convention Hall
+1952,17,1952-01-26,Sat,REG,H,Wake Forest,NA,Southern,W,90,69,NA,12,5,W 3,Cameron Indoor Stadium
+1952,18,1952-02-01,Fri,REG,A,North Carolina,NA,Southern,W,73,66,NA,13,5,W 4,Woollen Gymnasium
+1952,19,1952-02-02,Sat,REG,H,George Washington,NA,Southern,W,89,74,NA,14,5,W 5,Cameron Indoor Stadium
+1952,20,1952-02-07,Thu,REG,H,William & Mary,NA,Southern,W,68,62,NA,15,5,W 6,Cameron Indoor Stadium
+1952,21,1952-02-09,Sat,REG,A,Navy,NA,Ind,W,70,68,OT,16,5,W 7,Bancroft Hall Gym
+1952,22,1952-02-12,Tue,REG,A,North Carolina State,NA,Southern,W,71,58,NA,17,5,W 8,Reynolds Coliseum
+1952,23,1952-02-18,Mon,REG,H,Maryland,NA,Southern,W,56,51,NA,18,5,W 9,Cameron Indoor Stadium
+1952,24,1952-02-21,Thu,REG,A,Wake Forest,NA,Southern,W,87,62,NA,19,5,W 10,Gore Gymnasium
+1952,25,1952-02-23,Sat,REG,A,South Carolina,NA,Southern,W,96,82,NA,20,5,W 11,Carolina Fieldhouse
+1952,26,1952-02-26,Tue,REG,A,Davidson,NA,Southern,W,58,50,NA,21,5,W 12,Johnston Gym
+1952,27,1952-02-29,Fri,REG,H,North Carolina,NA,Southern,W,94,64,NA,22,5,W 13,Cameron Indoor Stadium
+1952,28,1952-03-06,Thu,CTOURN,H,Maryland,NA,Southern,W,51,48,NA,23,5,W 14,Reynolds Coliseum
+1952,29,1952-03-07,Fri,CTOURN,H,West Virginia,9,Southern,W,90,88,NA,24,5,W 15,Reynolds Coliseum
+1952,30,1952-03-08,Sat,CTOURN,A,North Carolina State,NA,Southern,L,68,77,NA,24,6,L 1,Reynolds Coliseum
+1953,1,1952-12-01,Mon,REG,H,Vanderbilt,NA,SEC,W,94,88,NA,1,0,W 1,Cameron Indoor Stadium
+1953,2,1952-12-06,Sat,REG,H,Wake Forest,NA,Southern,L,86,91,NA,1,1,L 1,Cameron Indoor Stadium
+1953,3,1952-12-09,Tue,REG,A,Washington & Lee,NA,Southern,W,91,80,NA,2,1,W 1,Lynchburg City Armory
+1953,4,1952-12-13,Sat,REG,A,Tennessee,NA,SEC,W,89,82,NA,3,1,W 2,Alumni Memorial Gymnasium
+1953,5,1952-12-16,Tue,REG,H,Davidson,NA,Southern,W,94,65,NA,4,1,W 3,Cameron Indoor Stadium
+1953,6,1952-12-20,Sat,REG,A,Temple,NA,Ind,L,64,67,NA,4,2,L 1,Convention Hall
+1953,7,1952-12-22,Mon,REG,A,George Washington,NA,Southern,L,87,113,NA,4,3,L 2,Uline Arena
+1953,8,1952-12-29,Mon,REG,H,Brigham Young,NA,MSAC,L,68,69,NA,4,4,L 3,Reynolds Coliseum
+1953,9,1952-12-30,Tue,REG,H,Pennsylvania,NA,Ivy,L,80,97,NA,4,5,L 4,Reynolds Coliseum
+1953,10,1952-12-31,Wed,REG,H,Princeton,NA,Ivy,W,74,59,NA,5,5,W 1,Reynolds Coliseum
+1953,11,1953-01-07,Wed,REG,A,South Carolina,NA,Southern,W,76,67,NA,6,5,W 2,Carolina Fieldhouse
+1953,12,1953-01-10,Sat,REG,H,North Carolina State,9,Southern,L,64,82,NA,6,6,L 1,Cameron Indoor Stadium
+1953,13,1953-01-13,Tue,REG,H,Virginia Military Institute,NA,Southern,W,78,55,NA,7,6,W 1,Cameron Indoor Stadium
+1953,14,1953-01-31,Sat,REG,H,Navy,16,Ind,W,78,73,NA,8,6,W 2,Cameron Indoor Stadium
+1953,15,1953-02-03,Tue,REG,H,West Virginia,NA,Southern,W,91,86,NA,9,6,W 3,Cameron Indoor Stadium
+1953,16,1953-02-05,Thu,REG,H,New York University,NA,Metro NY,W,89,82,NA,10,6,W 4,Cameron Indoor Stadium
+1953,17,1953-02-06,Fri,REG,A,North Carolina,12,Southern,W,95,89,NA,11,6,W 5,Woollen Gymnasium
+1953,18,1953-02-09,Mon,REG,H,George Washington,NA,Southern,W,83,80,NA,12,6,W 6,Cameron Indoor Stadium
+1953,19,1953-02-12,Thu,REG,A,Wake Forest,NA,Southern,W,101,99,OT,13,6,W 7,Gore Gymnasium
+1953,20,1953-02-14,Sat,REG,A,North Carolina State,12,Southern,W,84,82,NA,14,6,W 8,Reynolds Coliseum
+1953,21,1953-02-19,Thu,REG,A,William & Mary,NA,Southern,L,82,85,OT,14,7,L 1,Blow Gym
+1953,22,1953-02-21,Sat,REG,H,South Carolina,NA,Southern,W,98,68,NA,15,7,W 1,Cameron Indoor Stadium
+1953,23,1953-02-23,Mon,REG,A,Davidson,NA,Southern,W,99,72,NA,16,7,W 2,Johnston Gym
+1953,24,1953-02-27,Fri,REG,H,North Carolina,NA,Southern,W,83,58,NA,17,7,W 3,Cameron Indoor Stadium
+1953,25,1953-03-05,Thu,CTOURN,H,Maryland,NA,Southern,L,65,74,NA,17,8,L 1,Reynolds Coliseum
+1954,1,1953-12-02,Wed,REG,H,Furman,NA,Southern,W,110,76,NA,1,0,W 1,Cameron Indoor Stadium
+1954,2,1953-12-05,Sat,REG,H,Tennessee,NA,SEC,W,101,61,NA,2,0,W 2,Cameron Indoor Stadium
+1954,3,1953-12-07,Mon,REG,A,Vanderbilt,NA,SEC,L,66,71,NA,2,1,L 1,Memorial Gymnasium
+1954,4,1953-12-12,Sat,REG,H,William & Mary,NA,Southern,W,109,44,NA,3,1,W 1,Cameron Indoor Stadium
+1954,5,1953-12-15,Tue,REG,H,Davidson,NA,Southern,W,78,37,NA,4,1,W 2,Cameron Indoor Stadium
+1954,6,1953-12-19,Sat,REG,A,West Virginia,NA,Southern,W,67,64,NA,5,1,W 3,Stansbury Hall
+1954,7,1953-12-21,Mon,REG,A,Kentucky,2,SEC,L,69,85,NA,5,2,L 1,Memorial Coliseum
+1954,8,1953-12-22,Tue,REG,N,UCLA,13,PCC,L,67,72,NA,5,3,L 2,Jefferson County Armory
+1954,9,1953-12-28,Mon,REG,H,Oregon State,12,PCC,W,71,61,NA,6,3,W 1,Reynolds Coliseum
+1954,10,1953-12-29,Tue,REG,N,Wake Forest,NA,ACC,W,83,66,NA,7,3,W 2,Reynolds Coliseum
+1954,11,1953-12-30,Wed,REG,H,Navy,NA,Ind,W,98,83,NA,8,3,W 3,Reynolds Coliseum
+1954,12,1954-01-02,Sat,REG,H,Virginia,NA,ACC,W,86,64,NA,9,3,W 4,Cameron Indoor Stadium
+1954,13,1954-01-04,Mon,REG,A,South Carolina,NA,ACC,W,89,69,NA,10,3,W 5,Carolina Fieldhouse
+1954,14,1954-01-06,Wed,REG,H,Virginia Tech,NA,Southern,W,82,45,NA,11,3,W 6,Cameron Indoor Stadium
+1954,15,1954-01-09,Sat,REG,H,North Carolina State,20,ACC,W,87,85,NA,12,3,W 7,Cameron Indoor Stadium
+1954,16,1954-01-12,Tue,REG,A,Wake Forest,NA,ACC,L,89,96,NA,12,4,L 1,Gore Gymnasium
+1954,17,1954-01-30,Sat,REG,A,Navy,NA,Ind,W,82,65,NA,13,4,W 1,Dahlgren Hall
+1954,18,1954-02-04,Thu,REG,H,North Carolina,NA,ACC,W,63,47,NA,14,4,W 2,Cameron Indoor Stadium
+1954,19,1954-02-06,Sat,REG,H,George Washington,11,Southern,L,71,76,NA,14,5,L 1,Cameron Indoor Stadium
+1954,20,1954-02-09,Tue,REG,A,North Carolina State,19,ACC,W,90,89,NA,15,5,W 1,Reynolds Coliseum
+1954,21,1954-02-13,Sat,REG,A,Virginia Tech,NA,Southern,W,107,53,NA,16,5,W 2,War Memorial Hall
+1954,22,1954-02-16,Tue,REG,A,Maryland,11,ACC,W,68,61,NA,17,5,W 3,Ritchie Gymnasium
+1954,23,1954-02-20,Sat,REG,A,North Carolina,NA,ACC,W,67,63,NA,18,5,W 4,Woollen Gymnasium
+1954,24,1954-02-23,Tue,REG,H,South Carolina,NA,ACC,W,89,55,NA,19,5,W 5,Cameron Indoor Stadium
+1954,25,1954-02-26,Fri,REG,H,Wake Forest,NA,ACC,W,90,81,NA,20,5,W 6,Cameron Indoor Stadium
+1954,26,1954-03-04,Thu,CTOURN,H,Virginia,NA,ACC,W,96,68,NA,21,5,W 7,Reynolds Coliseum
+1954,27,1954-03-05,Fri,CTOURN,N,North Carolina State,18,ACC,L,75,79,NA,21,6,L 1,Reynolds Coliseum
+1955,1,1954-12-03,Fri,REG,H,Clemson,NA,ACC,W,115,54,NA,1,0,W 1,Cameron Indoor Stadium
+1955,2,1954-12-07,Tue,REG,A,Maryland,NA,ACC,L,47,49,NA,1,1,L 1,Ritchie Gymnasium
+1955,3,1954-12-10,Fri,REG,H,South Carolina,NA,ACC,W,95,55,NA,2,1,W 1,Cameron Indoor Stadium
+1955,4,1954-12-14,Tue,REG,A,Davidson,NA,Southern,W,107,75,NA,3,1,W 2,Johnston Gym
+1955,5,1954-12-17,Fri,REG,H,Maryland,NA,ACC,W,68,61,NA,4,1,W 3,Cameron Indoor Stadium
+1955,6,1954-12-20,Mon,REG,A,Pittsburgh,NA,Ind,W,90,68,NA,5,1,W 4,Fitzgerald Fieldhouse
+1955,7,1954-12-27,Mon,REG,H,West Virginia,12,Southern,W,92,79,NA,6,1,W 5,Reynolds Coliseum
+1955,8,1954-12-28,Tue,REG,H,Minnesota,NA,Big Ten,L,73,79,NA,6,2,L 1,Raleigh Memorial Auditorium
+1955,9,1954-12-29,Wed,REG,N,North Carolina,NA,ACC,L,52,65,NA,6,3,L 2,Raleigh Memorial Auditorium
+1955,10,1955-01-03,Mon,REG,H,Florida State,NA,NA,W,97,75,NA,7,3,W 1,Cameron Indoor Stadium
+1955,11,1955-01-05,Wed,REG,H,Temple,NA,Ind,W,81,64,NA,8,3,W 2,Cameron Indoor Stadium
+1955,12,1955-01-08,Sat,REG,H,North Carolina State,3,ACC,L,91,96,NA,8,4,L 1,Cameron Indoor Stadium
+1955,13,1955-01-11,Tue,REG,A,Clemson,NA,ACC,W,75,66,NA,9,4,W 1,Clemson Field House
+1955,14,1955-01-12,Wed,REG,A,South Carolina,NA,ACC,W,82,64,NA,10,4,W 2,Carolina Fieldhouse
+1955,15,1955-01-15,Sat,REG,H,Virginia,NA,ACC,W,109,89,NA,11,4,W 3,Cameron Indoor Stadium
+1955,16,1955-01-31,Mon,REG,A,George Washington,6,Southern,L,73,92,NA,11,5,L 1,Washington-Lee High School Gym
+1955,17,1955-02-04,Fri,REG,A,North Carolina,NA,ACC,W,91,68,NA,12,5,W 1,Woollen Gymnasium
+1955,18,1955-02-05,Sat,REG,H,West Virginia,NA,Southern,W,115,75,NA,13,5,W 2,Cameron Indoor Stadium
+1955,19,1955-02-09,Wed,REG,A,Wake Forest,NA,ACC,W,75,73,NA,14,5,W 3,Gore Gymnasium
+1955,20,1955-02-12,Sat,REG,A,Navy,NA,Ind,W,76,56,NA,15,5,W 4,Bancroft Hall Gym
+1955,21,1955-02-15,Tue,REG,A,North Carolina State,7,ACC,L,78,84,NA,15,6,L 1,Reynolds Coliseum
+1955,22,1955-02-19,Sat,REG,H,Wake Forest,NA,ACC,W,84,65,NA,16,6,W 1,Cameron Indoor Stadium
+1955,23,1955-02-22,Tue,REG,A,Virginia,NA,ACC,W,106,92,NA,17,6,W 2,Memorial Gymnasium
+1955,24,1955-02-25,Fri,REG,H,North Carolina,NA,ACC,W,96,74,NA,18,6,W 3,Cameron Indoor Stadium
+1955,25,1955-03-03,Thu,CTOURN,H,South Carolina,NA,ACC,W,83,67,NA,19,6,W 4,Reynolds Coliseum
+1955,26,1955-03-04,Fri,CTOURN,H,Virginia,NA,ACC,W,90,77,OT,20,6,W 5,Reynolds Coliseum
+1955,27,1955-03-05,Sat,CTOURN,A,North Carolina State,5,ACC,L,77,87,NA,20,7,L 1,Reynolds Coliseum
+1955,28,1955-03-08,Tue,NCAA,N,Villanova,NA,Ind,L,73,74,NA,20,8,L 2,NA
+1956,1,1955-12-02,Fri,REG,H,Clemson,NA,ACC,W,97,63,NA,1,0,W 1,Cameron Indoor Stadium
+1956,2,1955-12-09,Fri,REG,H,South Carolina,NA,ACC,W,82,67,NA,2,0,W 2,Cameron Indoor Stadium
+1956,3,1955-12-10,Sat,REG,H,Georgia Tech,NA,SEC,W,87,66,NA,3,0,W 3,Cameron Indoor Stadium
+1956,4,1955-12-16,Fri,REG,A,Pennsylvania,NA,Ivy,W,98,80,NA,4,0,W 4,The Palestra
+1956,5,1955-12-17,Sat,REG,A,Villanova,NA,Ind,W,86,76,NA,5,0,W 5,The Palestra
+1956,6,1955-12-20,Tue,REG,A,Pittsburgh,NA,Ind,W,92,54,NA,6,0,W 6,Fitzgerald Fieldhouse
+1956,7,1955-12-29,Thu,REG,H,Wyoming,NA,MSAC,W,71,54,NA,7,0,W 7,Raleigh Memorial Auditorium
+1956,8,1955-12-30,Fri,REG,N,North Carolina,4,ACC,L,64,74,NA,7,1,L 1,Raleigh Memorial Auditorium
+1956,9,1955-12-31,Sat,REG,N,Wake Forest,NA,ACC,W,64,52,NA,8,1,W 1,Raleigh Memorial Auditorium
+1956,10,1956-01-04,Wed,REG,A,Wake Forest,NA,ACC,L,71,84,NA,8,2,L 1,Gore Gymnasium
+1956,11,1956-01-07,Sat,REG,H,North Carolina State,2,ACC,W,68,58,NA,9,2,W 1,Cameron Indoor Stadium
+1956,12,1956-01-10,Tue,REG,A,South Carolina,NA,ACC,W,63,52,NA,10,2,W 2,Carolina Fieldhouse
+1956,13,1956-01-11,Wed,REG,A,Clemson,NA,ACC,W,109,80,NA,11,2,W 3,Clemson Field House
+1956,14,1956-01-14,Sat,REG,H,Maryland,NA,ACC,W,76,62,NA,12,2,W 4,Cameron Indoor Stadium
+1956,15,1956-02-01,Wed,REG,A,Kentucky,8,SEC,L,76,81,NA,12,3,L 1,Memorial Coliseum
+1956,16,1956-02-04,Sat,REG,H,North Carolina,9,ACC,W,64,59,NA,13,3,W 1,Cameron Indoor Stadium
+1956,17,1956-02-07,Tue,REG,A,Maryland,NA,ACC,W,82,70,NA,14,3,W 2,Cole Fieldhouse
+1956,18,1956-02-09,Thu,REG,H,Virginia,NA,ACC,W,74,59,NA,15,3,W 3,Cameron Indoor Stadium
+1956,19,1956-02-11,Sat,REG,H,Wake Forest,NA,ACC,L,77,80,NA,15,4,L 1,Cameron Indoor Stadium
+1956,20,1956-02-14,Tue,REG,A,North Carolina State,5,ACC,L,81,90,NA,15,5,L 2,Reynolds Coliseum
+1956,21,1956-02-18,Sat,REG,H,Navy,NA,Ind,W,93,70,NA,16,5,W 1,Cameron Indoor Stadium
+1956,22,1956-02-21,Tue,REG,A,Virginia,NA,ACC,W,92,58,NA,17,5,W 2,Memorial Gymnasium
+1956,23,1956-02-24,Fri,REG,A,North Carolina,9,ACC,L,65,73,NA,17,6,L 1,Woollen Gymnasium
+1956,24,1956-02-25,Sat,REG,H,George Washington,19,Southern,W,90,71,NA,18,6,W 1,Cameron Indoor Stadium
+1956,25,1956-03-01,Thu,CTOURN,H,Maryland,NA,ACC,W,94,69,NA,19,6,W 2,Reynolds Coliseum
+1956,26,1956-03-02,Fri,CTOURN,A,North Carolina State,5,ACC,L,79,91,NA,19,7,L 1,Reynolds Coliseum
+1957,1,1956-11-30,Fri,REG,A,Georgia Tech,NA,SEC,W,71,61,NA,1,0,W 1,Alexander Memorial Coliseum
+1957,2,1956-12-04,Tue,REG,A,Clemson,NA,ACC,W,84,78,NA,2,0,W 2,Clemson Field House
+1957,3,1956-12-05,Wed,REG,H,South Carolina,NA,ACC,W,104,76,NA,3,0,W 3,Charlotte Coliseum
+1957,4,1956-12-14,Fri,REG,A,Alabama,9,SEC,W,89,78,NA,4,0,W 4,Birmingham City Auditorium
+1957,5,1956-12-15,Sat,REG,N,West Virginia,13,Southern,L,82,83,NA,4,1,L 1,Birmingham City Auditorium
+1957,6,1956-12-18,Tue,REG,H,Kentucky,7,SEC,W,85,84,NA,5,1,W 1,Cameron Indoor Stadium
+1957,7,1956-12-27,Thu,REG,H,West Virginia,4,Southern,W,73,67,NA,6,1,W 2,Reynolds Coliseum
+1957,8,1956-12-28,Fri,REG,N,North Carolina,2,ACC,L,71,87,NA,6,2,L 1,Raleigh Memorial Auditorium
+1957,9,1956-12-29,Sat,REG,A,North Carolina State,NA,ACC,L,80,102,NA,6,3,L 2,Reynolds Coliseum
+1957,10,1957-01-05,Sat,REG,H,North Carolina State,NA,ACC,W,92,85,NA,7,3,W 1,Cameron Indoor Stadium
+1957,11,1957-01-10,Thu,REG,A,Maryland,NA,ACC,L,51,62,NA,7,4,L 1,Cole Fieldhouse
+1957,12,1957-01-12,Sat,REG,H,Clemson,NA,ACC,W,80,70,NA,8,4,W 1,Cameron Indoor Stadium
+1957,13,1957-01-29,Tue,REG,A,Wake Forest,13,ACC,L,59,77,NA,8,5,L 1,Winston-Salem Memorial Coliseum
+1957,14,1957-01-31,Thu,REG,H,Maryland,NA,ACC,W,72,60,NA,9,5,W 1,Cameron Indoor Stadium
+1957,15,1957-02-02,Sat,REG,A,Navy,NA,Ind,L,69,71,OT,9,6,L 1,Halsey Field House
+1957,16,1957-02-05,Tue,REG,H,Pittsburgh,NA,Ind,W,90,72,NA,10,6,W 1,Cameron Indoor Stadium
+1957,17,1957-02-09,Sat,REG,A,North Carolina,1,ACC,L,73,75,NA,10,7,L 1,Woollen Gymnasium
+1957,18,1957-02-12,Tue,REG,A,North Carolina State,NA,ACC,L,72,79,NA,10,8,L 2,Reynolds Coliseum
+1957,19,1957-02-16,Sat,REG,H,Wake Forest,11,ACC,W,75,64,NA,11,8,W 1,Cameron Indoor Stadium
+1957,20,1957-02-19,Tue,REG,A,Virginia,NA,ACC,L,81,90,NA,11,9,L 1,Memorial Gymnasium
+1957,21,1957-02-23,Sat,REG,H,South Carolina,NA,ACC,W,94,81,NA,12,9,W 1,Cameron Indoor Stadium
+1957,22,1957-02-27,Wed,REG,H,Virginia,NA,ACC,W,81,66,NA,13,9,W 2,Cameron Indoor Stadium
+1957,23,1957-03-01,Fri,REG,H,North Carolina,1,ACC,L,72,86,NA,13,10,L 1,Cameron Indoor Stadium
+1957,24,1957-03-07,Thu,CTOURN,H,South Carolina,NA,ACC,L,81,84,NA,13,11,L 2,Reynolds Coliseum
+1958,1,1957-12-02,Mon,REG,A,Kentucky,NA,SEC,L,74,78,NA,0,1,L 1,Memorial Coliseum
+1958,2,1957-12-06,Fri,REG,H,Clemson,NA,ACC,W,79,66,NA,1,1,W 1,Cameron Indoor Stadium
+1958,3,1957-12-14,Sat,REG,H,Villanova,NA,Ind,W,60,53,NA,2,1,W 2,Cameron Indoor Stadium
+1958,4,1957-12-17,Tue,REG,A,South Carolina,NA,ACC,L,51,62,NA,2,2,L 1,Carolina Fieldhouse
+1958,5,1957-12-21,Sat,REG,A,Pittsburgh,NA,Ind,L,84,87,2OT,2,3,L 2,Fitzgerald Fieldhouse
+1958,6,1957-12-26,Thu,REG,H,Seton Hall,NA,Ind,W,69,62,NA,3,3,W 1,Raleigh Memorial Auditorium
+1958,7,1957-12-27,Fri,REG,N,North Carolina,4,ACC,L,62,76,NA,3,4,L 1,Raleigh Memorial Auditorium
+1958,8,1957-12-28,Sat,REG,N,Wake Forest,NA,ACC,W,79,75,OT,4,4,W 1,Raleigh Memorial Auditorium
+1958,9,1958-01-04,Sat,REG,A,New York University,NA,Metro NY,W,67,60,NA,5,4,W 2,Madison Square Garden (III)
+1958,10,1958-01-08,Wed,REG,A,Maryland,11,ACC,L,49,74,NA,5,5,L 1,Cole Fieldhouse
+1958,11,1958-01-11,Sat,REG,H,North Carolina State,13,ACC,W,76,75,2OT,6,5,W 1,Cameron Indoor Stadium
+1958,12,1958-01-27,Mon,REG,H,West Virginia,1,Southern,W,72,68,NA,7,5,W 2,Cameron Indoor Stadium
+1958,13,1958-01-30,Thu,REG,H,Virginia,NA,ACC,W,88,71,NA,8,5,W 3,Cameron Indoor Stadium
+1958,14,1958-02-01,Sat,REG,A,Wake Forest,NA,ACC,W,70,56,NA,9,5,W 4,Winston-Salem Memorial Coliseum
+1958,15,1958-02-03,Mon,REG,H,South Carolina,NA,ACC,W,61,49,NA,10,5,W 5,Cameron Indoor Stadium
+1958,16,1958-02-04,Tue,REG,H,Clemson,NA,ACC,W,73,57,NA,11,5,W 6,Charlotte Coliseum
+1958,17,1958-02-08,Sat,REG,A,North Carolina,7,ACC,W,91,75,NA,12,5,W 7,Woollen Gymnasium
+1958,18,1958-02-11,Tue,REG,A,North Carolina State,10,ACC,W,65,48,NA,13,5,W 8,Reynolds Coliseum
+1958,19,1958-02-15,Sat,REG,H,Wake Forest,NA,ACC,W,71,59,NA,14,5,W 9,Cameron Indoor Stadium
+1958,20,1958-02-19,Wed,REG,A,Navy,NA,Ind,W,77,63,NA,15,5,W 10,Halsey Field House
+1958,21,1958-02-21,Fri,REG,H,Maryland,14,ACC,W,68,59,NA,16,5,W 11,Cameron Indoor Stadium
+1958,22,1958-02-25,Tue,REG,A,Virginia,NA,ACC,L,68,70,3OT,16,6,L 1,Memorial Gymnasium
+1958,23,1958-02-28,Fri,REG,H,North Carolina,9,ACC,W,59,46,NA,17,6,W 1,Cameron Indoor Stadium
+1958,24,1958-03-06,Thu,CTOURN,H,Wake Forest,NA,ACC,W,51,44,NA,18,6,W 2,Raleigh Memorial Auditorium
+1958,25,1958-03-07,Fri,CTOURN,H,Maryland,17,ACC,L,65,71,OT,18,7,L 1,Reynolds Coliseum
+1959,1,1958-12-05,Fri,REG,A,Clemson,NA,ACC,L,55,56,NA,0,1,L 1,Clemson Field House
+1959,2,1958-12-08,Mon,REG,H,Kentucky,NA,SEC,L,64,78,NA,0,2,L 2,Cameron Indoor Stadium
+1959,3,1958-12-12,Fri,REG,A,West Virginia,4,Southern,L,63,101,NA,0,3,L 3,Stansbury Hall
+1959,4,1958-12-15,Mon,REG,H,South Carolina,NA,ACC,W,68,61,NA,1,3,W 1,Cameron Indoor Stadium
+1959,5,1958-12-19,Fri,REG,A,Pennsylvania,NA,Ivy,W,66,57,NA,2,3,W 2,The Palestra
+1959,6,1958-12-20,Sat,REG,A,Villanova,NA,Ind,L,67,74,NA,2,4,L 1,The Palestra
+1959,7,1958-12-29,Mon,REG,H,Michigan State,9,Big Ten,L,57,82,NA,2,5,L 2,Raleigh Memorial Auditorium
+1959,8,1958-12-30,Tue,REG,H,Yale,NA,Ivy,W,56,53,NA,3,5,W 1,Raleigh Memorial Auditorium
+1959,9,1958-12-31,Wed,REG,H,Louisville,NA,Ind,W,57,54,NA,4,5,W 2,Raleigh Memorial Auditorium
+1959,10,1959-01-05,Mon,REG,A,Wake Forest,NA,ACC,W,58,57,NA,5,5,W 3,Winston-Salem Memorial Coliseum
+1959,11,1959-01-07,Wed,REG,A,Maryland,NA,ACC,L,33,64,NA,5,6,L 1,Cole Fieldhouse
+1959,12,1959-01-10,Sat,REG,H,North Carolina State,2,ACC,L,60,67,NA,5,7,L 2,Cameron Indoor Stadium
+1959,13,1959-01-13,Tue,REG,H,Clemson,NA,ACC,W,45,41,NA,6,7,W 1,Cameron Indoor Stadium
+1959,14,1959-01-15,Thu,REG,A,Virginia,NA,ACC,L,67,86,NA,6,8,L 1,Memorial Gymnasium
+1959,15,1959-01-17,Sat,REG,H,Maryland,NA,ACC,W,78,69,NA,7,8,W 1,Cameron Indoor Stadium
+1959,16,1959-01-31,Sat,REG,H,Pittsburgh,NA,Ind,W,75,66,NA,8,8,W 2,Cameron Indoor Stadium
+1959,17,1959-02-03,Tue,REG,A,South Carolina,NA,ACC,W,80,72,NA,9,8,W 3,Carolina Fieldhouse
+1959,18,1959-02-06,Fri,REG,H,North Carolina,2,ACC,L,80,89,NA,9,9,L 1,Cameron Indoor Stadium
+1959,19,1959-02-10,Tue,REG,A,North Carolina State,6,ACC,L,72,80,NA,9,10,L 2,Reynolds Coliseum
+1959,20,1959-02-14,Sat,REG,H,Navy,NA,Ind,W,64,63,NA,10,10,W 1,Cameron Indoor Stadium
+1959,21,1959-02-17,Tue,REG,H,Wake Forest,NA,ACC,W,85,78,NA,11,10,W 2,Cameron Indoor Stadium
+1959,22,1959-02-20,Fri,REG,H,Virginia,NA,ACC,W,71,63,NA,12,10,W 3,Cameron Indoor Stadium
+1959,23,1959-02-28,Sat,REG,A,North Carolina,3,ACC,L,62,72,NA,12,11,L 1,Woollen Gymnasium
+1959,24,1959-03-05,Thu,CTOURN,H,Wake Forest,NA,ACC,W,78,71,NA,13,11,W 1,Reynolds Coliseum
+1959,25,1959-03-06,Fri,CTOURN,N,North Carolina,5,ACC,L,71,74,NA,13,12,L 1,Reynolds Coliseum
+1960,1,1959-12-01,Tue,REG,H,Georgia Tech,NA,SEC,L,49,59,NA,0,1,L 1,Cameron Indoor Stadium
+1960,2,1959-12-05,Sat,REG,H,Clemson,NA,ACC,W,68,59,NA,1,1,W 1,Cameron Indoor Stadium
+1960,3,1959-12-12,Sat,REG,A,South Carolina,NA,ACC,W,72,70,NA,2,1,W 2,Carolina Fieldhouse
+1960,4,1959-12-18,Fri,REG,A,Alabama,NA,SEC,W,78,60,NA,3,1,W 3,Birmingham City Auditorium
+1960,5,1959-12-19,Sat,REG,N,Navy,NA,Ind,W,76,71,NA,4,1,W 4,Birmingham City Auditorium
+1960,6,1959-12-28,Mon,REG,H,Utah,6,MSAC,W,63,52,NA,5,1,W 5,Raleigh Memorial Auditorium
+1960,7,1959-12-29,Tue,REG,N,North Carolina,NA,ACC,L,53,75,NA,5,2,L 1,Raleigh Memorial Auditorium
+1960,8,1959-12-30,Wed,REG,H,Dayton,NA,Ind,L,63,71,3OT,5,3,L 2,Raleigh Memorial Auditorium
+1960,9,1960-01-04,Mon,REG,H,Bucknell,NA,Mid-Atl,W,72,36,NA,6,3,W 1,Cameron Indoor Stadium
+1960,10,1960-01-09,Sat,REG,H,North Carolina State,NA,ACC,W,47,34,NA,7,3,W 2,Cameron Indoor Stadium
+1960,11,1960-01-12,Tue,REG,A,Clemson,NA,ACC,W,50,41,NA,8,3,W 3,Clemson Field House
+1960,12,1960-01-16,Sat,REG,H,Maryland,NA,ACC,L,48,56,NA,8,4,L 1,Cameron Indoor Stadium
+1960,13,1960-01-30,Sat,REG,H,South Carolina,NA,ACC,W,79,65,NA,9,4,W 1,Cameron Indoor Stadium
+1960,14,1960-02-03,Wed,REG,A,Wake Forest,NA,ACC,L,63,80,NA,9,5,L 1,Greensboro Coliseum
+1960,15,1960-02-06,Sat,REG,A,Navy,NA,Ind,W,58,48,NA,10,5,W 1,Halsey Field House
+1960,16,1960-02-09,Tue,REG,A,North Carolina State,NA,ACC,L,53,63,NA,10,6,L 1,Reynolds Coliseum
+1960,17,1960-02-13,Sat,REG,A,North Carolina,13,ACC,L,57,84,NA,10,7,L 2,Woollen Gymnasium
+1960,18,1960-02-16,Tue,REG,H,Virginia,NA,ACC,W,78,66,NA,11,7,W 1,Cameron Indoor Stadium
+1960,19,1960-02-18,Thu,REG,A,Maryland,NA,ACC,L,61,71,NA,11,8,L 1,Cole Fieldhouse
+1960,20,1960-02-20,Sat,REG,H,Wake Forest,NA,ACC,L,64,83,NA,11,9,L 2,Cameron Indoor Stadium
+1960,21,1960-02-22,Mon,REG,A,Virginia,NA,ACC,W,79,63,NA,12,9,W 1,Memorial Gymnasium
+1960,22,1960-02-27,Sat,REG,H,North Carolina,NA,ACC,L,50,75,NA,12,10,L 1,Cameron Indoor Stadium
+1960,23,1960-03-03,Thu,CTOURN,H,South Carolina,NA,ACC,W,82,69,NA,13,10,W 1,Reynolds Coliseum
+1960,24,1960-03-04,Fri,CTOURN,N,North Carolina,16,ACC,W,71,69,NA,14,10,W 2,Reynolds Coliseum
+1960,25,1960-03-05,Sat,CTOURN,H,Wake Forest,18,ACC,W,63,59,NA,15,10,W 3,Reynolds Coliseum
+1960,26,1960-03-08,Tue,NCAA,N,Princeton,NA,Ivy,W,84,60,NA,16,10,W 4,NA
+1960,27,1960-03-11,Fri,NCAA,N,Saint Joseph's,NA,Mid-Atl,W,58,56,NA,17,10,W 5,NA
+1960,28,1960-03-12,Sat,NCAA,N,New York University,12,Metro NY,L,59,74,NA,17,11,L 1,NA
+1961,1,1960-12-03,Sat,REG,H,Louisiana State,NA,SEC,W,80,74,OT,1,0,W 1,Cameron Indoor Stadium
+1961,2,1960-12-09,Fri,REG,H,Penn State,NA,Ind,W,69,46,NA,2,0,W 2,Charlotte Coliseum
+1961,3,1960-12-10,Sat,REG,H,West Virginia,NA,Southern,W,66,64,NA,3,0,W 3,Charlotte Coliseum
+1961,4,1960-12-12,Mon,REG,H,South Carolina,NA,ACC,W,107,79,NA,4,0,W 4,Cameron Indoor Stadium
+1961,5,1960-12-15,Thu,REG,A,Clemson,NA,ACC,W,75,58,NA,5,0,W 5,Clemson Field House
+1961,6,1960-12-19,Mon,REG,A,Georgia Tech,15,SEC,W,61,48,NA,6,0,W 6,Alexander Memorial Coliseum
+1961,7,1960-12-21,Wed,REG,A,Florida,NA,SEC,W,83,64,NA,7,0,W 7,Florida Gymnasium
+1961,8,1960-12-29,Thu,REG,H,Wyoming,NA,MSAC,W,86,59,NA,8,0,W 8,Raleigh Memorial Auditorium
+1961,9,1960-12-30,Fri,REG,H,Marquette,NA,Ind,W,86,73,NA,9,0,W 9,Raleigh Memorial Auditorium
+1961,10,1960-12-31,Sat,REG,N,North Carolina,11,ACC,L,71,76,NA,9,1,L 1,Raleigh Memorial Auditorium
+1961,11,1961-01-03,Tue,REG,H,Navy,NA,Ind,W,78,63,NA,10,1,W 1,Greensboro Coliseum
+1961,12,1961-01-07,Sat,REG,H,North Carolina State,NA,ACC,W,81,67,NA,11,1,W 2,Cameron Indoor Stadium
+1961,13,1961-01-11,Wed,REG,A,Virginia,NA,ACC,W,92,90,OT,12,1,W 3,Memorial Gymnasium
+1961,14,1961-01-14,Sat,REG,H,Maryland,NA,ACC,W,70,62,NA,13,1,W 4,Cameron Indoor Stadium
+1961,15,1961-01-28,Sat,REG,H,Clemson,NA,ACC,W,79,59,NA,14,1,W 5,Cameron Indoor Stadium
+1961,16,1961-01-31,Tue,REG,A,South Carolina,NA,ACC,W,107,94,NA,15,1,W 6,Carolina Fieldhouse
+1961,17,1961-02-04,Sat,REG,H,North Carolina,5,ACC,W,81,77,NA,16,1,W 7,Cameron Indoor Stadium
+1961,18,1961-02-07,Tue,REG,A,North Carolina State,NA,ACC,L,59,61,NA,16,2,L 1,Reynolds Coliseum
+1961,19,1961-02-09,Thu,REG,H,Wake Forest,NA,ACC,W,100,90,NA,17,2,W 1,Cameron Indoor Stadium
+1961,20,1961-02-14,Tue,REG,A,Wake Forest,NA,ACC,L,89,103,NA,17,3,L 1,Winston-Salem Memorial Coliseum
+1961,21,1961-02-16,Thu,REG,A,Maryland,NA,ACC,L,71,76,NA,17,4,L 2,Cole Fieldhouse
+1961,22,1961-02-18,Sat,REG,A,Navy,NA,Ind,W,75,73,NA,18,4,W 1,Halsey Field House
+1961,23,1961-02-20,Mon,REG,H,Virginia,NA,ACC,W,77,66,NA,19,4,W 2,Cameron Indoor Stadium
+1961,24,1961-02-23,Thu,REG,N,Seton Hall,NA,Ind,W,112,78,NA,20,4,W 3,Madison Square Garden (III)
+1961,25,1961-02-25,Sat,REG,A,North Carolina,7,ACC,L,66,69,OT,20,5,L 1,Woollen Gymnasium
+1961,26,1961-03-02,Thu,CTOURN,H,Virginia,NA,ACC,W,89,54,NA,21,5,W 1,Reynolds Coliseum
+1961,27,1961-03-03,Fri,CTOURN,H,South Carolina,NA,ACC,W,92,75,NA,22,5,W 2,Reynolds Coliseum
+1961,28,1961-03-04,Sat,CTOURN,H,Wake Forest,NA,ACC,L,81,96,NA,22,6,L 1,Raleigh Memorial Auditorium
+1962,1,1961-12-01,Fri,REG,H,Florida,NA,SEC,W,80,58,NA,1,0,W 1,Cameron Indoor Stadium
+1962,2,1961-12-05,Tue,REG,H,Davidson,NA,Southern,W,117,72,NA,2,0,W 2,Cameron Indoor Stadium
+1962,3,1961-12-08,Fri,REG,H,Louisville,NA,Ind,W,86,56,NA,3,0,W 3,Cameron Indoor Stadium
+1962,4,1961-12-11,Mon,REG,H,Clemson,NA,ACC,W,89,66,NA,4,0,W 4,Cameron Indoor Stadium
+1962,5,1961-12-13,Wed,REG,A,South Carolina,NA,ACC,W,76,69,NA,5,0,W 5,Carolina Fieldhouse
+1962,6,1961-12-15,Fri,REG,A,Duquesne,NA,Ind,L,61,66,NA,5,1,L 1,Fitzgerald Fieldhouse
+1962,7,1961-12-16,Sat,REG,N,Arizona,NA,Ind,W,78,47,NA,6,1,W 1,Fitzgerald Fieldhouse
+1962,8,1961-12-18,Mon,REG,A,West Virginia,NA,Southern,W,69,65,NA,7,1,W 2,Stansbury Hall
+1962,9,1961-12-30,Sat,REG,N,Wake Forest,NA,ACC,W,75,73,NA,8,1,W 3,Greensboro Coliseum
+1962,10,1962-01-03,Wed,REG,H,Penn State,NA,Ind,W,95,55,NA,9,1,W 4,Cameron Indoor Stadium
+1962,11,1962-01-06,Sat,REG,H,North Carolina State,NA,ACC,L,60,61,NA,9,2,L 1,Cameron Indoor Stadium
+1962,12,1962-01-11,Thu,REG,A,Clemson,NA,ACC,W,104,96,NA,10,2,W 1,Clemson Field House
+1962,13,1962-01-13,Sat,REG,H,Maryland,NA,ACC,W,84,68,NA,11,2,W 2,Cameron Indoor Stadium
+1962,14,1962-01-27,Sat,REG,H,Wake Forest,NA,ACC,W,82,68,NA,12,2,W 3,Cameron Indoor Stadium
+1962,15,1962-01-30,Tue,REG,H,South Carolina,NA,ACC,W,89,73,NA,13,2,W 4,Cameron Indoor Stadium
+1962,16,1962-02-03,Sat,REG,H,North Carolina,NA,ACC,W,79,57,NA,14,2,W 5,Cameron Indoor Stadium
+1962,17,1962-02-06,Tue,REG,A,North Carolina State,NA,ACC,L,55,71,NA,14,3,L 1,Reynolds Coliseum
+1962,18,1962-02-10,Sat,REG,H,Virginia,NA,ACC,W,101,75,NA,15,3,W 1,Cameron Indoor Stadium
+1962,19,1962-02-13,Tue,REG,A,Maryland,NA,ACC,W,79,53,NA,16,3,W 2,Cole Fieldhouse
+1962,20,1962-02-15,Thu,REG,A,Wake Forest,NA,ACC,L,79,97,NA,16,4,L 1,Winston-Salem Memorial Coliseum
+1962,21,1962-02-17,Sat,REG,H,Navy,NA,Ind,W,91,72,NA,17,4,W 1,Cameron Indoor Stadium
+1962,22,1962-02-19,Mon,REG,A,Virginia,NA,ACC,W,97,71,NA,18,4,W 2,Memorial Gymnasium
+1962,23,1962-02-24,Sat,REG,A,North Carolina,NA,ACC,W,82,74,NA,19,4,W 3,Woollen Gymnasium
+1962,24,1962-03-01,Thu,CTOURN,H,Maryland,NA,ACC,W,71,58,NA,20,4,W 4,Reynolds Coliseum
+1962,25,1962-03-02,Fri,CTOURN,H,Clemson,NA,ACC,L,72,77,NA,20,5,L 1,Reynolds Coliseum
+1963,1,1962-12-01,Sat,REG,H,Davidson,NA,Southern,W,76,68,NA,1,0,W 1,Cameron Indoor Stadium
+1963,2,1962-12-04,Tue,REG,H,South Carolina,NA,ACC,W,95,63,NA,2,0,W 2,Cameron Indoor Stadium
+1963,3,1962-12-08,Sat,REG,H,Maryland,NA,ACC,W,92,56,NA,3,0,W 3,Cameron Indoor Stadium
+1963,4,1962-12-11,Tue,REG,H,Vanderbilt,NA,SEC,W,90,70,NA,4,0,W 4,Cameron Indoor Stadium
+1963,5,1962-12-13,Thu,REG,A,Clemson,NA,ACC,W,92,67,NA,5,0,W 5,Clemson Field House
+1963,6,1962-12-15,Sat,REG,A,Louisville,NA,Ind,W,76,75,NA,6,0,W 6,Freedom Hall
+1963,7,1962-12-18,Tue,REG,A,Davidson,NA,Southern,L,69,72,NA,6,1,L 1,Charlotte Coliseum
+1963,8,1962-12-21,Fri,REG,A,Miami,NA,Ind,L,69,71,NA,6,2,L 2,Miami Beach Convention Center
+1963,9,1962-12-28,Fri,REG,H,Princeton,NA,Ivy,W,85,74,NA,7,2,W 1,Cameron Indoor Stadium
+1963,10,1962-12-29,Sat,REG,N,Wake Forest,NA,ACC,W,113,87,NA,8,2,W 2,Greensboro Coliseum
+1963,11,1963-01-02,Wed,REG,H,Virginia,NA,ACC,W,82,65,NA,9,2,W 3,Cameron Indoor Stadium
+1963,12,1963-01-05,Sat,REG,H,North Carolina State,NA,ACC,W,78,52,NA,10,2,W 4,Cameron Indoor Stadium
+1963,13,1963-01-09,Wed,REG,A,Navy,NA,Ind,W,85,70,NA,11,2,W 5,Halsey Field House
+1963,14,1963-01-12,Sat,REG,H,Clemson,NA,ACC,W,78,67,NA,12,2,W 6,Cameron Indoor Stadium
+1963,15,1963-01-26,Sat,REG,H,West Virginia,6,Southern,W,111,71,NA,13,2,W 7,Cameron Indoor Stadium
+1963,16,1963-01-29,Tue,REG,A,South Carolina,NA,ACC,W,88,70,NA,14,2,W 8,Carolina Fieldhouse
+1963,17,1963-02-02,Sat,REG,A,North Carolina,NA,ACC,W,77,69,NA,15,2,W 9,Woollen Gymnasium
+1963,18,1963-02-06,Wed,REG,A,Wake Forest,NA,ACC,W,97,66,NA,16,2,W 10,Winston-Salem Memorial Coliseum
+1963,19,1963-02-09,Sat,REG,A,North Carolina State,NA,ACC,W,56,55,NA,17,2,W 11,Reynolds Coliseum
+1963,20,1963-02-13,Wed,REG,A,Virginia,NA,ACC,W,79,74,NA,18,2,W 12,Memorial Gymnasium
+1963,21,1963-02-16,Sat,REG,H,Wake Forest,NA,ACC,W,73,60,NA,19,2,W 13,Cameron Indoor Stadium
+1963,22,1963-02-19,Tue,REG,A,Maryland,NA,ACC,W,76,70,NA,20,2,W 14,Cole Fieldhouse
+1963,23,1963-02-23,Sat,REG,H,North Carolina,NA,ACC,W,106,93,NA,21,2,W 15,Cameron Indoor Stadium
+1963,24,1963-02-28,Thu,CTOURN,H,Virginia,NA,ACC,W,89,70,NA,22,2,W 16,Reynolds Coliseum
+1963,25,1963-03-01,Fri,CTOURN,A,North Carolina State,NA,ACC,W,82,65,NA,23,2,W 17,Reynolds Coliseum
+1963,26,1963-03-02,Sat,CTOURN,N,Wake Forest,NA,ACC,W,68,57,NA,24,2,W 18,Reynolds Coliseum
+1963,27,1963-03-15,Fri,NCAA,N,New York University,9,Metro NY,W,81,76,NA,25,2,W 19,NA
+1963,28,1963-03-16,Sat,NCAA,N,Saint Joseph's,NA,Mid-Atl,W,73,59,NA,26,2,W 20,NA
+1963,29,1963-03-22,Fri,NCAA,N,Loyola,3,Ind,L,75,94,NA,26,3,L 1,NA
+1963,30,1963-03-23,Sat,NCAA,N,Oregon State,NA,Ind,W,85,63,NA,27,3,W 1,NA
+1964,1,1963-11-30,Sat,REG,H,Penn State,NA,Ind,W,92,62,NA,1,0,W 1,Cameron Indoor Stadium
+1964,2,1963-12-06,Fri,REG,N,Ohio State,7,Big Ten,W,76,75,NA,2,0,W 2,Stansbury Hall
+1964,3,1963-12-07,Sat,REG,A,West Virginia,NA,Southern,W,86,81,NA,3,0,W 3,Stansbury Hall
+1964,4,1963-12-11,Wed,REG,A,Vanderbilt,NA,SEC,L,92,97,OT,3,1,L 1,Memorial Gymnasium
+1964,5,1963-12-14,Sat,REG,H,Clemson,NA,ACC,W,75,52,NA,4,1,W 1,Cameron Indoor Stadium
+1964,6,1963-12-16,Mon,REG,A,South Carolina,NA,ACC,W,77,70,NA,5,1,W 2,Carolina Fieldhouse
+1964,7,1963-12-19,Thu,REG,H,Virginia,NA,ACC,W,84,73,NA,6,1,W 3,Cameron Indoor Stadium
+1964,8,1963-12-21,Sat,REG,A,Michigan,3,Big Ten,L,67,83,NA,6,2,L 1,Yost Field House
+1964,9,1963-12-30,Mon,REG,N,Auburn,NA,SEC,W,84,67,NA,7,2,W 1,Municipal Auditorium
+1964,10,1963-12-31,Tue,REG,N,Kentucky,1,SEC,L,79,81,NA,7,3,L 1,The Field House
+1964,11,1964-01-04,Sat,REG,H,North Carolina State,NA,ACC,W,91,70,NA,8,3,W 1,Cameron Indoor Stadium
+1964,12,1964-01-08,Wed,REG,A,Clemson,NA,ACC,W,81,75,NA,9,3,W 2,Clemson Field House
+1964,13,1964-01-11,Sat,REG,H,North Carolina,NA,ACC,W,84,64,NA,10,3,W 3,Cameron Indoor Stadium
+1964,14,1964-01-25,Sat,REG,H,Tennessee,NA,SEC,W,67,65,2OT,11,3,W 4,Greensboro Coliseum
+1964,15,1964-01-30,Thu,REG,H,South Carolina,NA,ACC,W,80,67,NA,12,3,W 5,Cameron Indoor Stadium
+1964,16,1964-02-01,Sat,REG,H,Navy,NA,Ind,W,121,63,NA,13,3,W 6,Cameron Indoor Stadium
+1964,17,1964-02-05,Wed,REG,A,North Carolina State,NA,ACC,W,66,48,NA,14,3,W 7,Reynolds Coliseum
+1964,18,1964-02-08,Sat,REG,A,Maryland,NA,ACC,W,104,72,NA,15,3,W 8,Cole Fieldhouse
+1964,19,1964-02-10,Mon,REG,A,Virginia,NA,ACC,W,80,59,NA,16,3,W 9,Memorial Gymnasium
+1964,20,1964-02-15,Sat,REG,H,Davidson,4,Southern,W,82,75,NA,17,3,W 10,Cameron Indoor Stadium
+1964,21,1964-02-18,Tue,REG,A,Wake Forest,NA,ACC,L,71,72,NA,17,4,L 1,Winston-Salem Memorial Coliseum
+1964,22,1964-02-22,Sat,REG,H,Maryland,NA,ACC,W,84,63,NA,18,4,W 1,Cameron Indoor Stadium
+1964,23,1964-02-25,Tue,REG,H,Wake Forest,NA,ACC,W,98,83,NA,19,4,W 2,Cameron Indoor Stadium
+1964,24,1964-02-29,Sat,REG,A,North Carolina,NA,ACC,W,104,69,NA,20,4,W 3,Woollen Gymnasium
+1964,25,1964-03-05,Thu,CTOURN,A,North Carolina State,NA,ACC,W,75,44,NA,21,4,W 4,Reynolds Coliseum
+1964,26,1964-03-06,Fri,CTOURN,N,North Carolina,NA,ACC,W,65,49,NA,22,4,W 5,Reynolds Coliseum
+1964,27,1964-03-07,Sat,CTOURN,H,Wake Forest,NA,ACC,W,80,59,NA,23,4,W 6,Reynolds Coliseum
+1964,28,1964-03-13,Fri,NCAA,N,Villanova,7,Ind,W,87,73,NA,24,4,W 7,NA
+1964,29,1964-03-14,Sat,NCAA,N,Connecticut,NA,Yankee,W,101,54,NA,25,4,W 8,NA
+1964,30,1964-03-20,Fri,NCAA,N,Michigan,2,Big Ten,W,91,80,NA,26,4,W 9,NA
+1964,31,1964-03-21,Sat,NCAA,N,UCLA,1,AAWU,L,83,98,NA,26,5,L 1,NA
+1965,1,1964-12-01,Tue,REG,H,Virginia Tech,NA,Southern,W,98,63,NA,1,0,W 1,Greensboro Coliseum
+1965,2,1964-12-05,Sat,REG,H,Michigan,1,Big Ten,L,79,86,NA,1,1,L 1,Cameron Indoor Stadium
+1965,3,1964-12-10,Thu,REG,A,Navy,NA,Ind,W,93,87,OT,2,1,W 1,1st Mariner Arena
+1965,4,1964-12-12,Sat,REG,H,South Carolina,NA,ACC,W,111,72,NA,3,1,W 2,Cameron Indoor Stadium
+1965,5,1964-12-16,Wed,REG,A,Clemson,NA,ACC,W,80,79,NA,4,1,W 3,Clemson Field House
+1965,6,1964-12-19,Sat,REG,A,Virginia,NA,ACC,W,104,91,NA,5,1,W 4,Memorial Gymnasium
+1965,7,1964-12-30,Wed,REG,A,Ohio State,NA,Big Ten,W,94,89,2OT,6,1,W 5,St. John Arena
+1965,8,1965-01-02,Sat,REG,N,Wake Forest,NA,ACC,W,91,86,NA,7,1,W 6,Greensboro Coliseum
+1965,9,1965-01-05,Tue,REG,H,Penn State,NA,Ind,W,121,88,NA,8,1,W 7,Cameron Indoor Stadium
+1965,10,1965-01-09,Sat,REG,H,North Carolina,NA,ACC,L,62,65,NA,8,2,L 1,Cameron Indoor Stadium
+1965,11,1965-01-12,Tue,REG,H,Clemson,NA,ACC,W,106,81,NA,9,2,W 1,Cameron Indoor Stadium
+1965,12,1965-01-16,Sat,REG,H,Wake Forest,NA,ACC,W,105,77,NA,10,2,W 2,Cameron Indoor Stadium
+1965,13,1965-02-01,Mon,REG,H,Maryland,NA,ACC,W,82,64,NA,11,2,W 3,Cameron Indoor Stadium
+1965,14,1965-02-03,Wed,REG,A,North Carolina State,NA,ACC,W,84,74,NA,12,2,W 4,Raleigh Memorial Auditorium
+1965,15,1965-02-06,Sat,REG,H,West Virginia,NA,Southern,W,109,89,NA,13,2,W 5,Cameron Indoor Stadium
+1965,16,1965-02-09,Tue,REG,H,North Carolina State,NA,ACC,W,78,67,OT,14,2,W 6,Cameron Indoor Stadium
+1965,17,1965-02-11,Thu,REG,H,Virginia,NA,ACC,W,136,72,NA,15,2,W 7,Cameron Indoor Stadium
+1965,18,1965-02-13,Sat,REG,A,Wake Forest,NA,ACC,W,93,80,NA,16,2,W 8,Greensboro Coliseum
+1965,19,1965-02-17,Wed,REG,A,South Carolina,NA,ACC,W,87,59,NA,17,2,W 9,Carolina Fieldhouse
+1965,20,1965-02-20,Sat,REG,N,Notre Dame,NA,Ind,W,101,88,NA,18,2,W 10,Chicago Stadium
+1965,21,1965-02-23,Tue,REG,A,Maryland,NA,ACC,L,82,85,NA,18,3,L 1,Cole Fieldhouse
+1965,22,1965-02-27,Sat,REG,A,North Carolina,NA,ACC,L,66,71,NA,18,4,L 2,Woollen Gymnasium
+1965,23,1965-03-04,Thu,CTOURN,H,South Carolina,NA,ACC,W,62,60,NA,19,4,W 1,Raleigh Memorial Auditorium
+1965,24,1965-03-05,Fri,CTOURN,H,Wake Forest,NA,ACC,W,101,81,NA,20,4,W 2,Reynolds Coliseum
+1965,25,1965-03-06,Sat,CTOURN,A,North Carolina State,NA,ACC,L,85,91,NA,20,5,L 1,Reynolds Coliseum
+1966,1,1965-12-01,Wed,REG,H,Virginia Tech,NA,Ind,W,112,79,NA,1,0,W 1,Greensboro Coliseum
+1966,2,1965-12-04,Sat,REG,H,Clemson,NA,ACC,W,83,68,NA,2,0,W 2,Cameron Indoor Stadium
+1966,3,1965-12-06,Mon,REG,A,South Carolina,NA,ACC,L,71,73,NA,2,1,L 1,Carolina Fieldhouse
+1966,4,1965-12-10,Fri,REG,H,UCLA,1,AAWU,W,82,66,NA,3,1,W 1,Cameron Indoor Stadium
+1966,5,1965-12-11,Sat,REG,H,UCLA,1,AAWU,W,94,75,NA,4,1,W 2,Charlotte Coliseum
+1966,6,1965-12-14,Tue,REG,H,Furman,NA,Southern,W,102,67,NA,5,1,W 3,Cameron Indoor Stadium
+1966,7,1965-12-18,Sat,REG,A,Virginia,NA,ACC,W,75,72,NA,6,1,W 4,University Hall
+1966,8,1965-12-21,Tue,REG,A,Michigan,3,Big Ten,W,100,93,OT,7,1,W 5,Cobo Arena
+1966,9,1965-12-31,Fri,REG,H,Notre Dame,NA,Ind,W,95,73,NA,8,1,W 6,Greensboro Coliseum
+1966,10,1966-01-01,Sat,REG,N,Wake Forest,NA,ACC,W,92,76,NA,9,1,W 7,Greensboro Coliseum
+1966,11,1966-01-03,Mon,REG,H,Penn State,NA,Ind,W,83,58,NA,10,1,W 8,Cameron Indoor Stadium
+1966,12,1966-01-08,Sat,REG,A,North Carolina,NA,ACC,W,88,77,NA,11,1,W 9,Carmichael Auditorium
+1966,13,1966-01-11,Tue,REG,A,Clemson,NA,ACC,W,87,85,NA,12,1,W 10,Clemson Field House
+1966,14,1966-01-13,Thu,REG,H,Maryland,NA,ACC,W,76,61,NA,13,1,W 11,Cameron Indoor Stadium
+1966,15,1966-01-15,Sat,REG,H,Wake Forest,NA,ACC,W,101,81,NA,14,1,W 12,Cameron Indoor Stadium
+1966,16,1966-01-29,Sat,REG,H,North Carolina State,NA,ACC,W,84,77,NA,15,1,W 13,Cameron Indoor Stadium
+1966,17,1966-02-07,Mon,REG,A,West Virginia,NA,Southern,L,90,94,NA,15,2,L 1,Charleston Civic Center
+1966,18,1966-02-10,Thu,REG,A,North Carolina State,NA,ACC,W,78,74,NA,16,2,W 1,Raleigh Memorial Auditorium
+1966,19,1966-02-12,Sat,REG,H,Virginia,NA,ACC,W,81,55,NA,17,2,W 2,Cameron Indoor Stadium
+1966,20,1966-02-14,Mon,REG,H,South Carolina,NA,ACC,W,41,38,NA,18,2,W 3,Cameron Indoor Stadium
+1966,21,1966-02-19,Sat,REG,A,Maryland,NA,ACC,W,74,69,NA,19,2,W 4,Cole Fieldhouse
+1966,22,1966-02-22,Tue,REG,A,Wake Forest,NA,ACC,L,98,99,OT,19,3,L 1,Winston-Salem Memorial Coliseum
+1966,23,1966-02-26,Sat,REG,H,North Carolina,NA,ACC,W,77,63,NA,20,3,W 1,Cameron Indoor Stadium
+1966,24,1966-03-03,Thu,CTOURN,H,Wake Forest,NA,ACC,W,103,73,NA,21,3,W 2,Reynolds Coliseum
+1966,25,1966-03-04,Fri,CTOURN,N,North Carolina,NA,ACC,W,21,20,NA,22,3,W 3,Reynolds Coliseum
+1966,26,1966-03-05,Sat,CTOURN,A,North Carolina State,NA,ACC,W,71,66,NA,23,3,W 4,Reynolds Coliseum
+1966,27,1966-03-11,Fri,NCAA,N,Saint Joseph's,5,Mid-Atl,W,76,74,NA,24,3,W 5,NA
+1966,28,1966-03-12,Sat,NCAA,N,Syracuse,NA,Ind,W,91,81,NA,25,3,W 6,NA
+1966,29,1966-03-18,Fri,NCAA,N,Kentucky,1,SEC,L,79,83,NA,25,4,L 1,NA
+1966,30,1966-03-19,Sat,NCAA,N,Utah,NA,WAC,W,79,77,NA,26,4,W 1,NA
+1967,1,1966-12-02,Fri,REG,H,Virginia Tech,NA,Ind,L,71,85,NA,0,1,L 1,Charlotte Coliseum
+1967,2,1966-12-03,Sat,REG,H,Michigan,NA,Big Ten,W,96,75,NA,1,1,W 1,Cameron Indoor Stadium
+1967,3,1966-12-09,Fri,REG,A,UCLA,1,AAWU,L,54,88,NA,1,2,L 1,Pauley Pavilion
+1967,4,1966-12-10,Sat,REG,A,UCLA,1,AAWU,L,87,107,NA,1,3,L 2,Pauley Pavilion
+1967,5,1966-12-13,Tue,REG,H,Vanderbilt,NA,SEC,W,97,89,NA,2,3,W 1,Cameron Indoor Stadium
+1967,6,1966-12-16,Fri,REG,H,Virginia,NA,ACC,W,98,82,NA,3,3,W 2,Cameron Indoor Stadium
+1967,7,1966-12-29,Thu,REG,H,Ohio State,NA,Big Ten,L,82,83,NA,3,4,L 1,Greensboro Coliseum
+1967,8,1966-12-30,Fri,REG,N,Wake Forest,NA,ACC,W,78,73,NA,4,4,W 1,Greensboro Coliseum
+1967,9,1967-01-03,Tue,REG,H,Penn State,NA,Ind,W,89,84,NA,5,4,W 2,Cameron Indoor Stadium
+1967,10,1967-01-07,Sat,REG,H,North Carolina,3,ACC,L,56,59,NA,5,5,L 1,Cameron Indoor Stadium
+1967,11,1967-01-10,Tue,REG,H,Clemson,NA,ACC,W,85,61,NA,6,5,W 1,Cameron Indoor Stadium
+1967,12,1967-01-14,Sat,REG,A,Maryland,NA,ACC,W,72,69,OT,7,5,W 2,Cole Fieldhouse
+1967,13,1967-01-28,Sat,REG,H,North Carolina State,NA,ACC,W,99,60,NA,8,5,W 3,Cameron Indoor Stadium
+1967,14,1967-02-01,Wed,REG,A,Virginia,NA,ACC,W,100,77,NA,9,5,W 4,University Hall
+1967,15,1967-02-04,Sat,REG,H,West Virginia,NA,Southern,W,91,75,NA,10,5,W 5,Greensboro Coliseum
+1967,16,1967-02-08,Wed,REG,A,North Carolina State,NA,ACC,W,69,65,NA,11,5,W 6,Raleigh Memorial Auditorium
+1967,17,1967-02-11,Sat,REG,H,Louisiana-Lafayette,NA,NA,W,94,83,NA,12,5,W 7,Cameron Indoor Stadium
+1967,18,1967-02-14,Tue,REG,A,Clemson,NA,ACC,L,68,73,NA,12,6,L 1,Clemson Field House
+1967,19,1967-02-18,Sat,REG,H,Maryland,NA,ACC,W,81,58,NA,13,6,W 1,Cameron Indoor Stadium
+1967,20,1967-02-21,Tue,REG,H,Wake Forest,NA,ACC,W,97,84,NA,14,6,W 2,Cameron Indoor Stadium
+1967,21,1967-02-25,Sat,REG,H,Notre Dame,NA,Ind,W,77,65,NA,15,6,W 3,Charlotte Coliseum
+1967,22,1967-02-28,Tue,REG,A,Wake Forest,NA,ACC,W,113,71,NA,16,6,W 4,Winston-Salem Memorial Coliseum
+1967,23,1967-03-04,Sat,REG,A,North Carolina,3,ACC,L,79,92,NA,16,7,L 1,Carmichael Auditorium
+1967,24,1967-03-09,Thu,CTOURN,N,Virginia,NA,ACC,W,99,78,NA,17,7,W 1,Greensboro Coliseum
+1967,25,1967-03-10,Fri,CTOURN,N,South Carolina,NA,ACC,W,69,66,NA,18,7,W 2,Greensboro Coliseum
+1967,26,1967-03-11,Sat,CTOURN,N,North Carolina,4,ACC,L,73,82,NA,18,8,L 1,Greensboro Coliseum
+1967,27,1967-03-13,Mon,NIT,N,Southern Illinois,NA,Ind,L,63,72,NA,18,9,L 2,Madison Square Garden (III)
+1968,1,1967-12-01,Fri,REG,H,Virginia Tech,NA,Ind,W,74,66,NA,1,0,W 1,NA
+1968,2,1967-12-06,Wed,REG,A,Michigan,NA,Big Ten,W,93,72,NA,2,0,W 2,Crisler Arena
+1968,3,1967-12-09,Sat,REG,A,Alabama,NA,SEC,W,86,80,NA,3,0,W 3,Foster Auditorium
+1968,4,1967-12-13,Wed,REG,H,Virginia,NA,ACC,W,103,61,NA,4,0,W 4,Cameron Indoor Stadium
+1968,5,1967-12-16,Sat,REG,A,Vanderbilt,3,SEC,L,75,76,NA,4,1,L 1,Memorial Gymnasium
+1968,6,1967-12-19,Tue,REG,H,Princeton,NA,Ivy,W,85,79,NA,5,1,W 1,Cameron Indoor Stadium
+1968,7,1967-12-30,Sat,REG,N,Wake Forest,NA,ACC,W,103,76,NA,6,1,W 2,Greensboro Coliseum
+1968,8,1968-01-03,Wed,REG,H,Davidson,NA,Southern,W,89,84,NA,7,1,W 3,Cameron Indoor Stadium
+1968,9,1968-01-06,Sat,REG,A,North Carolina,3,ACC,L,72,75,NA,7,2,L 1,Carmichael Auditorium
+1968,10,1968-01-09,Tue,REG,H,Clemson,NA,ACC,W,101,79,NA,8,2,W 1,Cameron Indoor Stadium
+1968,11,1968-01-13,Sat,REG,A,Maryland,NA,ACC,W,84,52,NA,9,2,W 2,Cole Fieldhouse
+1968,12,1968-01-27,Sat,REG,H,North Carolina State,NA,ACC,W,82,76,NA,10,2,W 3,Cameron Indoor Stadium
+1968,13,1968-01-30,Tue,REG,A,South Carolina,NA,ACC,L,80,83,NA,10,3,L 1,Carolina Fieldhouse
+1968,14,1968-02-01,Thu,REG,A,Virginia,NA,ACC,W,90,78,NA,11,3,W 1,University Hall
+1968,15,1968-02-06,Tue,REG,H,Maryland,NA,ACC,W,85,64,NA,12,3,W 2,Cameron Indoor Stadium
+1968,16,1968-02-08,Thu,REG,N,Southern Illinois,NA,Ind,W,78,54,NA,13,3,W 3,Madison Square Garden (III)
+1968,17,1968-02-10,Sat,REG,N,Notre Dame,NA,Ind,W,73,67,NA,14,3,W 4,Chicago Stadium
+1968,18,1968-02-14,Wed,REG,H,Wake Forest,NA,ACC,W,105,65,NA,15,3,W 5,Cameron Indoor Stadium
+1968,19,1968-02-17,Sat,REG,H,Temple,NA,Mid-Atl,W,92,57,NA,16,3,W 6,Cameron Indoor Stadium
+1968,20,1968-02-20,Tue,REG,A,Clemson,NA,ACC,W,82,70,NA,17,3,W 7,Clemson Field House
+1968,21,1968-02-22,Thu,REG,A,Wake Forest,NA,ACC,W,50,41,NA,18,3,W 8,Winston-Salem Memorial Coliseum
+1968,22,1968-02-24,Sat,REG,H,South Carolina,NA,ACC,L,50,56,NA,18,4,L 1,Cameron Indoor Stadium
+1968,23,1968-02-28,Wed,REG,A,North Carolina State,NA,ACC,W,71,61,NA,19,4,W 1,Reynolds Coliseum
+1968,24,1968-03-02,Sat,REG,H,North Carolina,3,ACC,W,87,86,3OT,20,4,W 2,Cameron Indoor Stadium
+1968,25,1968-03-07,Thu,CTOURN,N,Clemson,NA,ACC,W,43,40,NA,21,4,W 3,Charlotte Coliseum
+1968,26,1968-03-08,Fri,CTOURN,N,North Carolina State,NA,ACC,L,10,12,NA,21,5,L 1,Charlotte Coliseum
+1968,27,1968-03-14,Thu,NIT,N,Oklahoma City,NA,Ind,W,97,81,NA,22,5,W 1,Madison Square Garden (III)
+1968,28,1968-03-18,Mon,NIT,N,Saint Peter's,NA,MCC,L,71,100,NA,22,6,L 1,Madison Square Garden (III)
+1969,1,1968-11-30,Sat,REG,H,Virginia Tech,NA,Ind,W,87,76,NA,1,0,W 1,Greensboro Coliseum
+1969,2,1968-12-02,Mon,REG,H,Alabama,NA,SEC,W,86,48,NA,2,0,W 2,Cameron Indoor Stadium
+1969,3,1968-12-07,Sat,REG,N,Princeton,NA,Ivy,W,81,62,NA,3,0,W 3,Madison Square Garden (IV)
+1969,4,1968-12-09,Mon,REG,H,Michigan,NA,Big Ten,L,80,90,NA,3,1,L 1,Cameron Indoor Stadium
+1969,5,1968-12-11,Wed,REG,A,Virginia,NA,ACC,L,75,81,NA,3,2,L 2,University Hall
+1969,6,1968-12-14,Sat,REG,H,East Tennessee State,NA,OVC,L,63,71,NA,3,3,L 3,Cameron Indoor Stadium
+1969,7,1968-12-20,Fri,REG,N,Wake Forest,NA,ACC,L,78,106,NA,3,4,L 4,Greensboro Coliseum
+1969,8,1968-12-28,Sat,REG,H,Clemson,NA,ACC,W,96,70,NA,4,4,W 1,Cameron Indoor Stadium
+1969,9,1968-12-30,Mon,REG,N,Western Kentucky,NA,OVC,W,73,72,NA,5,4,W 2,Municipal Auditorium
+1969,10,1968-12-31,Tue,REG,N,Iowa,NA,Big Ten,W,85,82,NA,6,4,W 3,Municipal Auditorium
+1969,11,1969-01-04,Sat,REG,A,North Carolina,4,ACC,L,70,94,NA,6,5,L 1,Carmichael Auditorium
+1969,12,1969-01-08,Wed,REG,A,Wake Forest,NA,ACC,W,85,81,NA,7,5,W 1,Winston-Salem Memorial Coliseum
+1969,13,1969-01-11,Sat,REG,H,Maryland,NA,ACC,W,96,85,NA,8,5,W 2,Cameron Indoor Stadium
+1969,14,1969-01-25,Sat,REG,H,North Carolina State,NA,ACC,L,74,77,NA,8,6,L 1,Cameron Indoor Stadium
+1969,15,1969-01-28,Tue,REG,A,Temple,NA,Mid-Atl,L,69,73,NA,8,7,L 2,Convention Hall
+1969,16,1969-02-01,Sat,REG,A,South Carolina,19,ACC,L,57,64,NA,8,8,L 3,Carolina Fieldhouse
+1969,17,1969-02-05,Wed,REG,A,Clemson,NA,ACC,W,85,76,NA,9,8,W 1,Littlejohn Coliseum
+1969,18,1969-02-08,Sat,REG,H,South Carolina,NA,ACC,L,72,82,NA,9,9,L 1,Cameron Indoor Stadium
+1969,19,1969-02-10,Mon,REG,A,Maryland,NA,ACC,W,93,83,NA,10,9,W 1,Cole Fieldhouse
+1969,20,1969-02-12,Wed,REG,H,Wake Forest,NA,ACC,W,122,93,NA,11,9,W 2,Cameron Indoor Stadium
+1969,21,1969-02-15,Sat,REG,A,West Virginia,NA,Ind,L,88,90,NA,11,10,L 1,Charleston Civic Center
+1969,22,1969-02-17,Mon,REG,H,Virginia,NA,ACC,W,100,81,NA,12,10,W 1,Cameron Indoor Stadium
+1969,23,1969-02-19,Wed,REG,A,Davidson,5,Southern,L,80,88,OT,12,11,L 1,Charlotte Coliseum
+1969,24,1969-02-26,Wed,REG,A,North Carolina State,NA,ACC,L,73,88,NA,12,12,L 2,Reynolds Coliseum
+1969,25,1969-03-01,Sat,REG,H,North Carolina,2,ACC,W,87,81,NA,13,12,W 1,Cameron Indoor Stadium
+1969,26,1969-03-06,Thu,CTOURN,N,Virginia,NA,ACC,W,99,86,NA,14,12,W 2,Charlotte Coliseum
+1969,27,1969-03-07,Fri,CTOURN,N,South Carolina,13,ACC,W,68,59,NA,15,12,W 3,Charlotte Coliseum
+1969,28,1969-03-08,Sat,CTOURN,N,North Carolina,4,ACC,L,74,85,NA,15,13,L 1,Charlotte Coliseum
+1970,1,1969-12-01,Mon,REG,H,Virginia Tech,NA,Ind,W,66,63,2OT,1,0,W 1,Greensboro Coliseum
+1970,2,1969-12-06,Sat,REG,H,Virginia,NA,ACC,W,57,45,NA,2,0,W 2,Cameron Indoor Stadium
+1970,3,1969-12-10,Wed,REG,A,Michigan,NA,Big Ten,W,73,68,NA,3,0,W 3,Crisler Arena
+1970,4,1969-12-13,Sat,REG,H,William & Mary,NA,Southern,W,84,77,NA,4,0,W 4,Cameron Indoor Stadium
+1970,5,1969-12-15,Mon,REG,H,East Carolina,NA,Southern,W,80,65,NA,5,0,W 5,Cameron Indoor Stadium
+1970,6,1969-12-19,Fri,REG,N,Dayton,NA,Ind,W,72,67,NA,6,0,W 6,Memorial Coliseum
+1970,7,1969-12-20,Sat,REG,A,Kentucky,1,SEC,L,76,98,NA,6,1,L 1,Memorial Coliseum
+1970,8,1969-12-23,Tue,REG,N,Wake Forest,NA,ACC,W,98,90,NA,7,1,W 1,Greensboro Coliseum
+1970,9,1970-01-03,Sat,REG,H,Penn State,NA,Ind,W,93,43,NA,8,1,W 2,Cameron Indoor Stadium
+1970,10,1970-01-07,Wed,REG,H,Wake Forest,NA,ACC,W,78,72,OT,9,1,W 3,Cameron Indoor Stadium
+1970,11,1970-01-10,Sat,REG,A,North Carolina,4,ACC,L,78,86,NA,9,2,L 1,Carmichael Auditorium
+1970,12,1970-01-24,Sat,REG,H,North Carolina State,10,ACC,L,76,77,NA,9,3,L 2,Cameron Indoor Stadium
+1970,13,1970-01-28,Wed,REG,A,Maryland,NA,ACC,L,50,52,NA,9,4,L 3,Cole Fieldhouse
+1970,14,1970-01-31,Sat,REG,H,South Carolina,4,ACC,L,55,67,NA,9,5,L 4,Cameron Indoor Stadium
+1970,15,1970-02-04,Wed,REG,A,Clemson,NA,ACC,W,92,88,NA,10,5,W 1,Littlejohn Coliseum
+1970,16,1970-02-07,Sat,REG,H,West Virginia,NA,Ind,W,82,70,NA,11,5,W 2,Greensboro Coliseum
+1970,17,1970-02-09,Mon,REG,H,Clemson,NA,ACC,W,91,75,NA,12,5,W 3,Cameron Indoor Stadium
+1970,18,1970-02-11,Wed,REG,A,Wake Forest,NA,ACC,W,67,65,NA,13,5,W 4,Winston-Salem Memorial Coliseum
+1970,19,1970-02-14,Sat,REG,A,South Carolina,2,ACC,L,65,82,NA,13,6,L 1,Carolina Coliseum
+1970,20,1970-02-18,Wed,REG,A,Davidson,9,Southern,W,79,76,OT,14,6,W 1,Charlotte Coliseum
+1970,21,1970-02-21,Sat,REG,H,Maryland,NA,ACC,W,87,76,NA,15,6,W 2,Cameron Indoor Stadium
+1970,22,1970-02-23,Mon,REG,A,Virginia,NA,ACC,L,57,61,NA,15,7,L 1,University Hall
+1970,23,1970-02-25,Wed,REG,A,North Carolina State,14,ACC,W,71,69,NA,16,7,W 1,Reynolds Coliseum
+1970,24,1970-02-28,Sat,REG,H,North Carolina,19,ACC,W,91,83,NA,17,7,W 2,Cameron Indoor Stadium
+1970,25,1970-03-05,Thu,CTOURN,N,Wake Forest,NA,ACC,L,73,81,NA,17,8,L 1,Charlotte Coliseum
+1970,26,1970-03-14,Sat,NIT,N,Utah,NA,WAC,L,75,78,NA,17,9,L 2,Madison Square Garden (IV)
+1971,1,1970-12-01,Tue,REG,H,Princeton,NA,Ivy,W,79,75,NA,1,0,W 1,Greensboro Coliseum
+1971,2,1970-12-05,Sat,REG,A,Virginia,NA,ACC,L,70,75,NA,1,1,L 1,University Hall
+1971,3,1970-12-07,Mon,REG,H,Michigan,NA,Big Ten,W,95,74,NA,2,1,W 1,Cameron Indoor Stadium
+1971,4,1970-12-12,Sat,REG,A,South Carolina,2,ACC,L,78,98,NA,2,2,L 1,Carolina Coliseum
+1971,5,1970-12-15,Tue,REG,H,Virginia Tech,NA,Ind,W,104,75,NA,3,2,W 1,Cameron Indoor Stadium
+1971,6,1970-12-18,Fri,REG,N,Wake Forest,NA,ACC,L,77,83,NA,3,3,L 1,Greensboro Coliseum
+1971,7,1970-12-19,Sat,REG,N,North Carolina,20,ACC,L,81,83,NA,3,4,L 2,Greensboro Coliseum
+1971,8,1970-12-22,Tue,REG,A,Dayton,NA,Ind,W,70,64,NA,4,4,W 1,University of Dayton Arena
+1971,9,1970-12-26,Sat,REG,H,Santa Clara,NA,WCAC,W,86,80,NA,5,4,W 2,Cameron Indoor Stadium
+1971,10,1970-12-29,Tue,REG,H,Northwestern,NA,Big Ten,W,93,87,NA,6,4,W 3,Greensboro Coliseum
+1971,11,1970-12-30,Wed,REG,H,Penn State,NA,Ind,W,67,56,NA,7,4,W 4,Greensboro Coliseum
+1971,12,1971-01-06,Wed,REG,A,Wake Forest,NA,ACC,W,68,67,NA,8,4,W 5,Winston-Salem Memorial Coliseum
+1971,13,1971-01-09,Sat,REG,A,North Carolina,20,ACC,L,74,79,NA,8,5,L 1,Carmichael Auditorium
+1971,14,1971-01-13,Wed,REG,H,North Carolina State,NA,ACC,L,89,93,NA,8,6,L 2,Cameron Indoor Stadium
+1971,15,1971-01-16,Sat,REG,A,Clemson,NA,ACC,W,82,56,NA,9,6,W 1,Littlejohn Coliseum
+1971,16,1971-02-01,Mon,REG,H,South Carolina,10,ACC,W,82,71,NA,10,6,W 2,Cameron Indoor Stadium
+1971,17,1971-02-06,Sat,REG,H,Maryland,NA,ACC,L,79,88,NA,10,7,L 1,Cameron Indoor Stadium
+1971,18,1971-02-10,Wed,REG,H,Wake Forest,NA,ACC,W,83,78,NA,11,7,W 1,Cameron Indoor Stadium
+1971,19,1971-02-13,Sat,REG,A,Maryland,NA,ACC,W,70,67,NA,12,7,W 2,Cole Fieldhouse
+1971,20,1971-02-16,Tue,REG,N,Davidson,NA,Southern,W,64,55,NA,13,7,W 3,Greensboro Coliseum
+1971,21,1971-02-20,Sat,REG,H,Virginia,NA,ACC,W,101,69,NA,14,7,W 4,Cameron Indoor Stadium
+1971,22,1971-02-24,Wed,REG,A,North Carolina State,NA,ACC,W,82,78,NA,15,7,W 5,Reynolds Coliseum
+1971,23,1971-02-27,Sat,REG,N,Seton Hall,NA,Ind,W,89,61,NA,16,7,W 6,Madison Square Garden (IV)
+1971,24,1971-03-02,Tue,REG,H,Clemson,NA,ACC,W,70,60,NA,17,7,W 7,Cameron Indoor Stadium
+1971,25,1971-03-06,Sat,REG,H,North Carolina,12,ACC,W,92,83,NA,18,7,W 8,Cameron Indoor Stadium
+1971,26,1971-03-11,Thu,CTOURN,N,North Carolina State,NA,ACC,L,61,68,NA,18,8,L 1,Greensboro Coliseum
+1971,27,1971-03-20,Sat,NIT,N,Dayton,NA,Ind,W,68,60,NA,19,8,W 1,Madison Square Garden (IV)
+1971,28,1971-03-22,Mon,NIT,N,Tennessee,17,SEC,W,78,64,NA,20,8,W 2,Madison Square Garden (IV)
+1971,29,1971-03-25,Thu,NIT,N,North Carolina,13,ACC,L,67,73,NA,20,9,L 1,Madison Square Garden (IV)
+1971,30,1971-03-27,Sat,NIT,N,St. Bonaventure,NA,Ind,L,88,92,OT,20,10,L 2,Madison Square Garden (IV)
+1972,1,1971-12-01,Wed,REG,H,Richmond,NA,Southern,W,54,42,NA,1,0,W 1,Cameron Indoor Stadium
+1972,2,1971-12-04,Sat,REG,H,Virginia,NA,ACC,L,77,86,NA,1,1,L 1,Cameron Indoor Stadium
+1972,3,1971-12-07,Tue,REG,H,Pennsylvania,10,Ivy,L,49,50,OT,1,2,L 2,Cameron Indoor Stadium
+1972,4,1971-12-11,Sat,REG,H,East Carolina,NA,Southern,W,71,62,NA,2,2,W 1,Cameron Indoor Stadium
+1972,5,1971-12-17,Fri,REG,N,North Carolina State,NA,ACC,L,62,67,NA,2,3,L 1,Greensboro Coliseum
+1972,6,1971-12-18,Sat,REG,N,Wake Forest,NA,ACC,W,70,58,NA,3,3,W 1,Greensboro Coliseum
+1972,7,1971-12-23,Thu,REG,H,Dayton,NA,Ind,W,68,66,NA,4,3,W 2,Cameron Indoor Stadium
+1972,8,1971-12-27,Mon,REG,N,Saint Peter's,NA,Ind,L,74,77,NA,4,4,L 1,Madison Square Garden (IV)
+1972,9,1971-12-28,Tue,REG,N,Syracuse,NA,Ind,L,72,74,NA,4,5,L 2,Madison Square Garden (IV)
+1972,10,1972-01-05,Wed,REG,H,Virginia Tech,NA,Ind,W,83,73,NA,5,5,W 1,Charlotte Coliseum
+1972,11,1972-01-12,Wed,REG,A,North Carolina State,NA,ACC,L,58,85,NA,5,6,L 1,Reynolds Coliseum
+1972,12,1972-01-15,Sat,REG,H,Clemson,NA,ACC,W,71,69,NA,6,6,W 1,Cameron Indoor Stadium
+1972,13,1972-01-19,Wed,REG,H,Canisius,NA,Ind,W,86,58,NA,7,6,W 2,Cameron Indoor Stadium
+1972,14,1972-01-22,Sat,REG,H,North Carolina,3,ACC,W,76,74,NA,8,6,W 3,Cameron Indoor Stadium
+1972,15,1972-01-26,Wed,REG,H,Wake Forest,NA,ACC,W,77,66,NA,9,6,W 4,Cameron Indoor Stadium
+1972,16,1972-02-05,Sat,REG,A,Maryland,NA,ACC,L,58,77,NA,9,7,L 1,Cole Fieldhouse
+1972,17,1972-02-09,Wed,REG,A,Wake Forest,NA,ACC,L,57,62,NA,9,8,L 2,Winston-Salem Memorial Coliseum
+1972,18,1972-02-12,Sat,REG,H,William & Mary,NA,Southern,W,87,69,NA,10,8,W 1,Cameron Indoor Stadium
+1972,19,1972-02-16,Wed,REG,A,Davidson,NA,Southern,L,72,74,NA,10,9,L 1,Charlotte Coliseum
+1972,20,1972-02-19,Sat,REG,A,Virginia,6,ACC,W,86,76,NA,11,9,W 1,University Hall
+1972,21,1972-02-23,Wed,REG,H,North Carolina State,NA,ACC,W,74,73,OT,12,9,W 2,Cameron Indoor Stadium
+1972,22,1972-02-26,Sat,REG,H,Maryland,12,ACC,W,68,59,NA,13,9,W 3,Cameron Indoor Stadium
+1972,23,1972-03-01,Wed,REG,A,Clemson,NA,ACC,L,40,59,NA,13,10,L 1,Littlejohn Coliseum
+1972,24,1972-03-04,Sat,REG,A,North Carolina,3,ACC,L,69,93,NA,13,11,L 2,Carmichael Auditorium
+1972,25,1972-03-09,Thu,CTOURN,N,North Carolina State,NA,ACC,W,73,60,NA,14,11,W 1,Greensboro Coliseum
+1972,26,1972-03-10,Fri,CTOURN,N,North Carolina,3,ACC,L,48,63,NA,14,12,L 1,Greensboro Coliseum
+1973,1,1972-12-02,Sat,REG,H,William & Mary,NA,Southern,W,98,74,NA,1,0,W 1,Cameron Indoor Stadium
+1973,2,1972-12-08,Fri,REG,A,Santa Clara,NA,WCAC,W,69,65,NA,2,0,W 2,War Memorial Gymnasium
+1973,3,1972-12-09,Sat,REG,A,San Francisco,NA,WCAC,L,68,72,NA,2,1,L 1,War Memorial Gymnasium
+1973,4,1972-12-12,Tue,REG,H,East Carolina,NA,Southern,W,108,74,NA,3,1,W 1,Cameron Indoor Stadium
+1973,5,1972-12-15,Fri,REG,N,North Carolina,11,ACC,L,86,91,NA,3,2,L 1,Greensboro Coliseum
+1973,6,1972-12-16,Sat,REG,N,Wake Forest,NA,ACC,W,80,67,NA,4,2,W 1,Greensboro Coliseum
+1973,7,1972-12-27,Wed,REG,A,Nevada-Las Vegas,NA,WCAC,L,83,89,NA,4,3,L 1,Las Vegas Convention Center
+1973,8,1972-12-28,Thu,REG,N,Purdue,NA,Big Ten,L,77,82,NA,4,4,L 2,Las Vegas Convention Center
+1973,9,1972-12-30,Sat,REG,H,Harvard,NA,Ivy,W,102,76,NA,5,4,W 1,Cameron Indoor Stadium
+1973,10,1973-01-03,Wed,REG,A,Virginia,NA,ACC,L,74,80,OT,5,5,L 1,University Hall
+1973,11,1973-01-06,Sat,REG,A,Wake Forest,NA,ACC,L,80,83,NA,5,6,L 2,Winston-Salem Memorial Coliseum
+1973,12,1973-01-10,Wed,REG,A,North Carolina State,3,ACC,L,87,94,NA,5,7,L 3,Reynolds Coliseum
+1973,13,1973-01-13,Sat,REG,H,Clemson,NA,ACC,W,75,73,NA,6,7,W 1,Cameron Indoor Stadium
+1973,14,1973-01-17,Wed,REG,A,Davidson,NA,Southern,W,78,75,NA,7,7,W 2,Charlotte Coliseum
+1973,15,1973-01-20,Sat,REG,A,North Carolina,4,ACC,L,71,82,NA,7,8,L 1,Carmichael Auditorium
+1973,16,1973-01-24,Wed,REG,A,Richmond,NA,Southern,W,70,66,NA,8,8,W 1,Robins Center
+1973,17,1973-01-27,Sat,REG,A,Georgia Tech,NA,Ind,L,86,88,NA,8,9,L 1,Alexander Memorial Coliseum
+1973,18,1973-02-03,Sat,REG,H,Maryland,3,ACC,W,85,81,NA,9,9,W 1,Cameron Indoor Stadium
+1973,19,1973-02-07,Wed,REG,H,Wake Forest,NA,ACC,W,84,71,NA,10,9,W 2,Cameron Indoor Stadium
+1973,20,1973-02-13,Tue,REG,H,Virginia,NA,ACC,W,90,66,NA,11,9,W 3,Cameron Indoor Stadium
+1973,21,1973-02-17,Sat,REG,H,Notre Dame,NA,Ind,W,86,74,NA,12,9,W 4,Cameron Indoor Stadium
+1973,22,1973-02-21,Wed,REG,H,North Carolina State,2,ACC,L,50,74,NA,12,10,L 1,Cameron Indoor Stadium
+1973,23,1973-02-24,Sat,REG,A,Maryland,8,ACC,L,68,96,NA,12,11,L 2,Cole Fieldhouse
+1973,24,1973-02-28,Wed,REG,A,Clemson,NA,ACC,L,50,75,NA,12,12,L 3,Littlejohn Coliseum
+1973,25,1973-03-03,Sat,REG,H,North Carolina,7,ACC,L,70,72,NA,12,13,L 4,Cameron Indoor Stadium
+1973,26,1973-03-08,Thu,CTOURN,N,Virginia,NA,ACC,L,55,59,NA,12,14,L 5,Greensboro Coliseum
+1974,1,1973-12-01,Sat,REG,H,East Carolina,NA,Southern,W,82,69,NA,1,0,W 1,Cameron Indoor Stadium
+1974,2,1973-12-03,Mon,REG,A,William & Mary,NA,Southern,W,93,79,NA,2,0,W 2,Kaplan Arena at William and Mary Hall
+1974,3,1973-12-08,Sat,REG,A,Virginia,NA,ACC,L,82,104,NA,2,1,L 1,University Hall
+1974,4,1973-12-10,Mon,REG,H,Appalachian State,NA,Southern,W,83,53,NA,3,1,W 1,Cameron Indoor Stadium
+1974,5,1973-12-26,Wed,REG,N,Western Kentucky,NA,OVC,W,75,69,NA,4,1,W 2,Jacksonville Memorial Coliseum
+1974,6,1973-12-27,Thu,REG,A,Florida,NA,SEC,L,60,77,NA,4,2,L 1,Jacksonville Memorial Coliseum
+1974,7,1973-12-29,Sat,REG,H,Yale,NA,Ivy,W,105,80,NA,5,2,W 1,Cameron Indoor Stadium
+1974,8,1974-01-04,Fri,REG,N,Wake Forest,NA,ACC,L,61,64,NA,5,3,L 1,Greensboro Coliseum
+1974,9,1974-01-05,Sat,REG,N,North Carolina,4,ACC,L,75,84,NA,5,4,L 2,Greensboro Coliseum
+1974,10,1974-01-12,Sat,REG,A,Pittsburgh,NA,Ind,L,46,62,NA,5,5,L 3,Fitzgerald Fieldhouse
+1974,11,1974-01-16,Wed,REG,H,Clemson,NA,ACC,W,63,50,NA,6,5,W 1,Cameron Indoor Stadium
+1974,12,1974-01-19,Sat,REG,H,North Carolina,5,ACC,L,71,73,NA,6,6,L 1,Cameron Indoor Stadium
+1974,13,1974-01-23,Wed,REG,H,Wake Forest,NA,ACC,L,71,90,NA,6,7,L 2,Cameron Indoor Stadium
+1974,14,1974-01-26,Sat,REG,A,Princeton,NA,Ivy,W,73,65,NA,7,7,W 1,Jadwin Gymnasium
+1974,15,1974-01-30,Wed,REG,H,Davidson,NA,Southern,W,89,72,NA,8,7,W 2,Cameron Indoor Stadium
+1974,16,1974-02-02,Sat,REG,A,Maryland,6,ACC,L,83,104,NA,8,8,L 1,Cole Fieldhouse
+1974,17,1974-02-04,Mon,REG,H,North Carolina State,2,ACC,L,78,92,NA,8,9,L 2,Cameron Indoor Stadium
+1974,18,1974-02-06,Wed,REG,A,Wake Forest,NA,ACC,L,67,74,NA,8,10,L 3,Winston-Salem Memorial Coliseum
+1974,19,1974-02-09,Sat,REG,A,Notre Dame,3,Ind,L,68,87,NA,8,11,L 4,Purcell Pavilion at the Joyce Center
+1974,20,1974-02-13,Wed,REG,H,Virginia,NA,ACC,W,88,78,NA,9,11,W 1,Cameron Indoor Stadium
+1974,21,1974-02-16,Sat,REG,H,Georgia Tech,NA,Ind,W,70,60,NA,10,11,W 2,Cameron Indoor Stadium
+1974,22,1974-02-20,Wed,REG,A,North Carolina State,1,ACC,L,87,113,NA,10,12,L 1,Reynolds Coliseum
+1974,23,1974-02-23,Sat,REG,H,Maryland,5,ACC,L,61,64,NA,10,13,L 2,Cameron Indoor Stadium
+1974,24,1974-02-27,Wed,REG,A,Clemson,NA,ACC,L,68,74,NA,10,14,L 3,Littlejohn Coliseum
+1974,25,1974-03-02,Sat,REG,A,North Carolina,4,ACC,L,92,96,OT,10,15,L 4,Carmichael Auditorium
+1974,26,1974-03-07,Thu,CTOURN,N,Maryland,4,ACC,L,66,85,NA,10,16,L 5,Greensboro Coliseum
+1975,1,1974-11-30,Sat,REG,H,Cornell,NA,Ivy,W,100,62,NA,1,0,W 1,Cameron Indoor Stadium
+1975,2,1974-12-04,Wed,REG,H,East Carolina,NA,Southern,W,79,73,NA,2,0,W 2,Cameron Indoor Stadium
+1975,3,1974-12-20,Fri,REG,N,Louisiana State,NA,SEC,L,95,105,NA,2,1,L 1,Carolina Coliseum
+1975,4,1974-12-21,Sat,REG,N,Princeton,NA,Ivy,W,66,57,NA,3,1,W 1,Carolina Coliseum
+1975,5,1974-12-27,Fri,REG,H,Pittsburgh,NA,Ind,W,89,75,NA,4,1,W 2,Raleigh Memorial Auditorium
+1975,6,1974-12-28,Sat,REG,H,Kent State,NA,MAC,W,83,65,NA,5,1,W 3,Raleigh Memorial Auditorium
+1975,7,1975-01-03,Fri,REG,N,North Carolina,8,ACC,W,99,96,OT,6,1,W 4,Greensboro Coliseum
+1975,8,1975-01-04,Sat,REG,N,Wake Forest,NA,ACC,L,71,75,NA,6,2,L 1,Greensboro Coliseum
+1975,9,1975-01-08,Wed,REG,A,Maryland,5,ACC,L,77,83,NA,6,3,L 2,Cole Fieldhouse
+1975,10,1975-01-11,Sat,REG,H,South Florida,NA,Ind,W,95,86,NA,7,3,W 1,Cameron Indoor Stadium
+1975,11,1975-01-15,Wed,REG,H,Clemson,NA,ACC,W,75,72,NA,8,3,W 2,Cameron Indoor Stadium
+1975,12,1975-01-18,Sat,REG,A,Virginia,NA,ACC,L,56,60,NA,8,4,L 1,University Hall
+1975,13,1975-01-22,Wed,REG,A,Wake Forest,NA,ACC,L,109,122,NA,8,5,L 2,Winston-Salem Memorial Coliseum
+1975,14,1975-01-25,Sat,REG,H,Princeton,NA,Ivy,W,90,73,NA,9,5,W 1,Cameron Indoor Stadium
+1975,15,1975-01-27,Mon,REG,H,North Carolina State,5,ACC,L,71,95,NA,9,6,L 1,Cameron Indoor Stadium
+1975,16,1975-01-29,Wed,REG,A,Davidson,NA,Southern,W,113,76,NA,10,6,W 1,Charlotte Coliseum
+1975,17,1975-02-01,Sat,REG,H,Virginia,NA,ACC,L,85,92,OT,10,7,L 1,Cameron Indoor Stadium
+1975,18,1975-02-05,Wed,REG,H,Wake Forest,NA,ACC,W,75,68,NA,11,7,W 1,Cameron Indoor Stadium
+1975,19,1975-02-08,Sat,REG,H,Maryland,4,ACC,L,80,104,NA,11,8,L 1,Cameron Indoor Stadium
+1975,20,1975-02-10,Mon,REG,H,Duquesne,NA,Ind,W,80,73,NA,12,8,W 1,Cameron Indoor Stadium
+1975,21,1975-02-12,Wed,REG,A,North Carolina,11,ACC,L,70,78,NA,12,9,L 1,Carmichael Auditorium
+1975,22,1975-02-15,Sat,REG,A,Clemson,18,ACC,L,66,100,NA,12,10,L 2,Littlejohn Coliseum
+1975,23,1975-02-19,Wed,REG,A,North Carolina State,4,ACC,L,78,92,NA,12,11,L 3,Reynolds Coliseum
+1975,24,1975-02-22,Sat,REG,H,Georgia Tech,NA,Ind,W,107,86,NA,13,11,W 1,Cameron Indoor Stadium
+1975,25,1975-03-01,Sat,REG,H,North Carolina,14,ACC,L,70,74,NA,13,12,L 1,Cameron Indoor Stadium
+1975,26,1975-03-06,Thu,CTOURN,N,Clemson,14,ACC,L,76,78,NA,13,13,L 2,Greensboro Coliseum
+1976,1,1975-11-29,Sat,REG,H,Johns Hopkins,NA,NA,W,103,72,NA,1,0,W 1,Cameron Indoor Stadium
+1976,2,1975-12-03,Wed,REG,H,Tennessee,8,SEC,L,80,86,NA,1,1,L 1,Cameron Indoor Stadium
+1976,3,1975-12-06,Sat,REG,H,Virginia,NA,ACC,W,81,79,NA,2,1,W 1,Cameron Indoor Stadium
+1976,4,1975-12-10,Wed,REG,H,East Carolina,NA,Southern,W,93,74,NA,3,1,W 2,Cameron Indoor Stadium
+1976,5,1975-12-26,Fri,REG,H,Auburn,NA,SEC,W,85,74,NA,4,1,W 3,Raleigh Memorial Auditorium
+1976,6,1975-12-27,Sat,REG,H,Western Kentucky,NA,OVC,W,111,90,NA,5,1,W 4,Raleigh Memorial Auditorium
+1976,7,1975-12-30,Tue,REG,H,Vermont,NA,Yankee,W,94,77,NA,6,1,W 5,Cameron Indoor Stadium
+1976,8,1976-01-02,Fri,REG,N,North Carolina State,9,ACC,L,95,104,NA,6,2,L 1,Greensboro Coliseum
+1976,9,1976-01-03,Sat,REG,N,North Carolina,3,ACC,L,74,77,NA,6,3,L 2,Greensboro Coliseum
+1976,10,1976-01-07,Wed,REG,A,Tulane,NA,Metro,L,82,92,NA,6,4,L 3,Avron B. Fogelman Arena
+1976,11,1976-01-09,Fri,REG,A,Georgia Tech,NA,Metro,W,91,71,NA,7,4,W 1,Alexander Memorial Coliseum
+1976,12,1976-01-14,Wed,REG,A,Clemson,NA,ACC,L,96,102,OT,7,5,L 1,Littlejohn Coliseum
+1976,13,1976-01-17,Sat,REG,H,North Carolina,7,ACC,L,87,89,NA,7,6,L 2,Cameron Indoor Stadium
+1976,14,1976-01-19,Mon,REG,H,Virginia Tech,NA,Ind,W,79,72,NA,8,6,W 1,Greensboro Coliseum
+1976,15,1976-01-21,Wed,REG,H,Wake Forest,14,ACC,W,97,93,OT,9,6,W 2,Cameron Indoor Stadium
+1976,16,1976-01-24,Sat,REG,A,North Carolina State,11,ACC,L,101,106,NA,9,7,L 1,Reynolds Coliseum
+1976,17,1976-01-27,Tue,REG,H,Davidson,NA,Southern,W,94,79,NA,10,7,W 1,Cameron Indoor Stadium
+1976,18,1976-01-31,Sat,REG,H,West Virginia,NA,Ind,W,86,77,NA,11,7,W 2,Cameron Indoor Stadium
+1976,19,1976-02-04,Wed,REG,A,Wake Forest,NA,ACC,L,87,89,NA,11,8,L 1,Winston-Salem Memorial Coliseum
+1976,20,1976-02-07,Sat,REG,A,Maryland,5,ACC,L,91,102,NA,11,9,L 2,Cole Fieldhouse
+1976,21,1976-02-11,Wed,REG,A,Virginia,NA,ACC,L,90,94,NA,11,10,L 3,University Hall
+1976,22,1976-02-14,Sat,REG,A,Saint Joseph's,NA,ECC,W,85,73,NA,12,10,W 1,The Palestra
+1976,23,1976-02-18,Wed,REG,H,North Carolina State,12,ACC,L,95,96,NA,12,11,L 1,Cameron Indoor Stadium
+1976,24,1976-02-21,Sat,REG,H,Maryland,7,ACC,W,69,67,NA,13,11,W 1,Cameron Indoor Stadium
+1976,25,1976-02-25,Wed,REG,H,Clemson,NA,ACC,L,89,90,NA,13,12,L 1,Cameron Indoor Stadium
+1976,26,1976-02-28,Sat,REG,A,North Carolina,4,ACC,L,71,91,NA,13,13,L 2,Carmichael Auditorium
+1976,27,1976-03-04,Thu,CTOURN,A,Maryland,9,ACC,L,78,80,OT,13,14,L 3,Capital Centre
+1977,1,1976-11-26,Fri,REG,N,Wake Forest,NA,ACC,L,80,81,NA,0,1,L 1,Greensboro Coliseum
+1977,2,1976-11-27,Sat,REG,N,North Carolina State,15,ACC,W,84,82,NA,1,1,W 1,Greensboro Coliseum
+1977,3,1976-11-30,Tue,REG,H,Johns Hopkins,NA,NA,W,85,66,NA,2,1,W 2,Cameron Indoor Stadium
+1977,4,1976-12-04,Sat,REG,H,Washington,NA,Pac-8,W,83,81,NA,3,1,W 3,Cameron Indoor Stadium
+1977,5,1976-12-07,Tue,REG,A,Tennessee,15,SEC,W,81,78,NA,4,1,W 4,Stokely Center
+1977,6,1976-12-11,Sat,REG,H,Richmond,NA,Ind,W,65,63,NA,5,1,W 5,Cameron Indoor Stadium
+1977,7,1976-12-14,Tue,REG,N,Connecticut,NA,Ind,W,64,62,OT,6,1,W 6,Madison Square Garden (IV)
+1977,8,1976-12-29,Wed,REG,N,East Carolina,NA,Southern,W,88,65,NA,7,1,W 7,Raleigh Memorial Auditorium
+1977,9,1976-12-30,Thu,REG,H,Rice,NA,SWC,W,87,77,NA,8,1,W 8,Raleigh Memorial Auditorium
+1977,10,1977-01-05,Wed,REG,A,Davidson,NA,Southern,W,102,51,NA,9,1,W 9,Charlotte Coliseum
+1977,11,1977-01-10,Mon,REG,H,Lafayette,NA,ECC,W,93,77,NA,10,1,W 10,Cameron Indoor Stadium
+1977,12,1977-01-12,Wed,REG,H,Clemson,17,ACC,L,73,80,OT,10,2,L 1,Cameron Indoor Stadium
+1977,13,1977-01-15,Sat,REG,A,North Carolina,5,ACC,L,68,77,NA,10,3,L 2,Carmichael Auditorium
+1977,14,1977-01-17,Mon,REG,A,Virginia,NA,ACC,W,82,74,OT,11,3,W 1,University Hall
+1977,15,1977-01-19,Wed,REG,A,Wake Forest,9,ACC,L,73,85,NA,11,4,L 1,Winston-Salem Memorial Coliseum
+1977,16,1977-01-22,Sat,REG,H,North Carolina State,NA,ACC,L,78,79,NA,11,5,L 2,Cameron Indoor Stadium
+1977,17,1977-01-29,Sat,REG,A,West Virginia,NA,ECBL,L,65,70,NA,11,6,L 3,WVU Coliseum
+1977,18,1977-01-31,Mon,REG,A,Duquesne,NA,ECBL,W,76,49,NA,12,6,W 1,Mellon Arena
+1977,19,1977-02-02,Wed,REG,H,Wake Forest,5,ACC,L,80,89,NA,12,7,L 1,Cameron Indoor Stadium
+1977,20,1977-02-05,Sat,REG,H,Maryland,NA,ACC,L,64,65,OT,12,8,L 2,Cameron Indoor Stadium
+1977,21,1977-02-09,Wed,REG,H,Virginia,NA,ACC,W,65,49,NA,13,8,W 1,Cameron Indoor Stadium
+1977,22,1977-02-12,Sat,REG,H,Saint Joseph's,NA,ECC,W,72,62,NA,14,8,W 2,Cameron Indoor Stadium
+1977,23,1977-02-16,Wed,REG,A,North Carolina State,NA,ACC,L,74,92,NA,14,9,L 1,Reynolds Coliseum
+1977,24,1977-02-19,Sat,REG,A,Maryland,NA,ACC,L,72,85,NA,14,10,L 2,Cole Fieldhouse
+1977,25,1977-02-23,Wed,REG,A,Clemson,19,ACC,L,63,67,NA,14,11,L 3,Littlejohn Coliseum
+1977,26,1977-02-26,Sat,REG,H,North Carolina,9,ACC,L,71,84,NA,14,12,L 4,Cameron Indoor Stadium
+1977,27,1977-03-03,Thu,CTOURN,N,Clemson,18,ACC,L,74,82,NA,14,13,L 5,Greensboro Coliseum
+1978,1,1977-11-26,Sat,REG,H,Johns Hopkins,NA,NA,W,95,49,NA,1,0,W 1,Cameron Indoor Stadium
+1978,2,1977-11-29,Tue,REG,H,Washington College,NA,NA,W,110,66,NA,2,0,W 2,Cameron Indoor Stadium
+1978,3,1977-12-02,Fri,REG,N,North Carolina,2,ACC,L,66,79,NA,2,1,L 1,Greensboro Coliseum
+1978,4,1977-12-03,Sat,REG,N,Wake Forest,18,ACC,W,97,84,NA,3,1,W 1,Greensboro Coliseum
+1978,5,1977-12-08,Thu,REG,A,Southern Methodist,NA,SWC,W,91,67,NA,4,1,W 2,Moody Coliseum
+1978,6,1977-12-10,Sat,REG,A,Southern California,NA,Pac-8,L,81,87,OT,4,2,L 1,L. A. Sports Arena
+1978,7,1977-12-13,Tue,REG,H,Chicago,NA,NA,W,99,61,NA,5,2,W 1,Cameron Indoor Stadium
+1978,8,1977-12-28,Wed,REG,H,Duquesne,NA,EAA,W,74,65,NA,6,2,W 2,Raleigh Memorial Auditorium
+1978,9,1977-12-29,Thu,REG,H,Saint Joseph's,NA,ECC,W,74,61,NA,7,2,W 3,Raleigh Memorial Auditorium
+1978,10,1978-01-02,Mon,REG,A,Virginia Tech,NA,Ind,W,86,79,NA,8,2,W 4,Roanoke Civic Center
+1978,11,1978-01-04,Wed,REG,A,Maryland,15,ACC,W,88,78,NA,9,2,W 5,Cole Fieldhouse
+1978,12,1978-01-07,Sat,REG,A,North Carolina State,NA,ACC,L,50,74,NA,9,3,L 1,Raleigh Memorial Auditorium
+1978,13,1978-01-09,Mon,REG,H,Lehigh,NA,ECC,W,105,63,NA,10,3,W 1,Cameron Indoor Stadium
+1978,14,1978-01-11,Wed,REG,A,Clemson,NA,ACC,W,107,85,NA,11,3,W 2,Littlejohn Coliseum
+1978,15,1978-01-14,Sat,REG,H,North Carolina,2,ACC,W,92,84,NA,12,3,W 3,Cameron Indoor Stadium
+1978,16,1978-01-18,Wed,REG,H,Wake Forest,NA,ACC,W,81,72,NA,13,3,W 4,Cameron Indoor Stadium
+1978,17,1978-01-21,Sat,REG,A,La Salle,NA,ECC,W,91,81,NA,14,3,W 5,The Spectrum
+1978,18,1978-01-25,Wed,REG,A,Virginia,18,ACC,L,73,74,NA,14,4,L 1,University Hall
+1978,19,1978-01-28,Sat,REG,H,East Carolina,NA,Ind,W,105,82,NA,15,4,W 1,Cameron Indoor Stadium
+1978,20,1978-02-02,Thu,REG,A,Wake Forest,NA,ACC,L,60,79,NA,15,5,L 1,Winston-Salem Memorial Coliseum
+1978,21,1978-02-08,Wed,REG,H,Virginia,13,ACC,W,100,75,NA,16,5,W 1,Cameron Indoor Stadium
+1978,22,1978-02-11,Sat,REG,H,Davidson,NA,Southern,W,104,88,NA,17,5,W 2,Cameron Indoor Stadium
+1978,23,1978-02-15,Wed,REG,H,North Carolina State,NA,ACC,W,76,64,NA,18,5,W 3,Cameron Indoor Stadium
+1978,24,1978-02-18,Sat,REG,H,Maryland,NA,ACC,W,81,70,NA,19,5,W 4,Cameron Indoor Stadium
+1978,25,1978-02-22,Wed,REG,H,Clemson,NA,ACC,W,78,62,NA,20,5,W 5,Cameron Indoor Stadium
+1978,26,1978-02-25,Sat,REG,A,North Carolina,8,ACC,L,83,87,NA,20,6,L 1,Carmichael Auditorium
+1978,27,1978-03-01,Wed,CTOURN,N,Clemson,NA,ACC,W,83,72,NA,21,6,W 1,Greensboro Coliseum
+1978,28,1978-03-02,Thu,CTOURN,N,Maryland,NA,ACC,W,81,69,NA,22,6,W 2,Greensboro Coliseum
+1978,29,1978-03-04,Sat,CTOURN,A,Wake Forest,NA,ACC,W,85,77,NA,23,6,W 3,Greensboro Coliseum
+1978,30,1978-03-12,Sun,NCAA,N,Rhode Island,NA,Ind,W,63,62,NA,24,6,W 4,NA
+1978,31,1978-03-17,Fri,NCAA,N,Pennsylvania,20,Ivy,W,84,80,NA,25,6,W 5,NA
+1978,32,1978-03-19,Sun,NCAA,N,Villanova,NA,EAA,W,90,72,NA,26,6,W 6,NA
+1978,33,1978-03-25,Sat,NCAA,N,Notre Dame,6,Ind,W,90,86,NA,27,6,W 7,NA
+1978,34,1978-03-27,Mon,NCAA,N,Kentucky,1,SEC,L,88,94,NA,27,7,L 1,NA
+1979,1,1978-11-25,Sat,REG,A,Western Kentucky,NA,OVC,W,78,53,NA,1,0,W 1,E.A. Diddle Arena
+1979,2,1978-11-27,Mon,REG,H,Southern Methodist,NA,SWC,W,86,80,NA,2,0,W 2,Cameron Indoor Stadium
+1979,3,1978-12-01,Fri,REG,N,North Carolina State,6,ACC,W,65,63,NA,3,0,W 3,Greensboro Coliseum
+1979,4,1978-12-02,Sat,REG,N,North Carolina,14,ACC,W,78,68,NA,4,0,W 4,Greensboro Coliseum
+1979,5,1978-12-05,Tue,REG,H,La Salle,NA,ECC,W,66,42,NA,5,0,W 5,Cameron Indoor Stadium
+1979,6,1978-12-13,Wed,REG,H,Southern California,12,Pac-10,W,79,65,NA,6,0,W 6,Cameron Indoor Stadium
+1979,7,1978-12-29,Fri,REG,N,Ohio State,NA,Big Ten,L,84,90,OT,6,1,L 1,Madison Square Garden (IV)
+1979,8,1978-12-30,Sat,REG,A,St. John's,NA,NJNY7,L,66,69,NA,6,2,L 2,Madison Square Garden (IV)
+1979,9,1979-01-02,Tue,REG,A,Davidson,NA,Southern,W,77,59,NA,7,2,W 1,Charlotte Coliseum
+1979,10,1979-01-05,Fri,REG,H,Long Beach State,15,PCAA,W,79,78,NA,8,2,W 2,Raleigh Memorial Auditorium
+1979,11,1979-01-06,Sat,REG,H,Tulane,NA,Metro,W,74,64,NA,9,2,W 3,Raleigh Memorial Auditorium
+1979,12,1979-01-10,Wed,REG,H,Clemson,NA,ACC,W,73,54,NA,10,2,W 4,Cameron Indoor Stadium
+1979,13,1979-01-13,Sat,REG,A,North Carolina,3,ACC,L,68,74,NA,10,3,L 1,Carmichael Auditorium
+1979,14,1979-01-18,Thu,REG,H,Wake Forest,NA,ACC,W,81,69,NA,11,3,W 1,Cameron Indoor Stadium
+1979,15,1979-01-21,Sun,REG,A,North Carolina State,14,ACC,W,75,69,NA,12,3,W 2,Reynolds Coliseum
+1979,16,1979-01-24,Wed,REG,A,Virginia,NA,ACC,W,84,66,NA,13,3,W 3,University Hall
+1979,17,1979-01-28,Sun,REG,H,Marquette,13,Ind,W,69,64,NA,14,3,W 4,Greensboro Coliseum
+1979,18,1979-01-31,Wed,REG,A,Wake Forest,NA,ACC,W,75,60,NA,15,3,W 5,Winston-Salem Memorial Coliseum
+1979,19,1979-02-03,Sat,REG,H,Maryland,17,ACC,W,87,78,NA,16,3,W 6,Cameron Indoor Stadium
+1979,20,1979-02-06,Tue,REG,H,Virginia,NA,ACC,W,64,63,NA,17,3,W 7,Cameron Indoor Stadium
+1979,21,1979-02-10,Sat,REG,H,Pittsburgh,NA,EAA,L,69,71,NA,17,4,L 1,Cameron Indoor Stadium
+1979,22,1979-02-14,Wed,REG,H,North Carolina State,NA,ACC,W,66,48,NA,18,4,W 1,Cameron Indoor Stadium
+1979,23,1979-02-16,Fri,REG,A,Maryland,NA,ACC,L,68,70,NA,18,5,L 1,Cole Fieldhouse
+1979,24,1979-02-18,Sun,REG,H,Louisville,9,Metro,W,88,72,NA,19,5,W 1,Charlotte Coliseum
+1979,25,1979-02-21,Wed,REG,A,Clemson,NA,ACC,L,49,70,NA,19,6,L 1,Littlejohn Coliseum
+1979,26,1979-02-24,Sat,REG,H,North Carolina,4,ACC,W,47,40,NA,20,6,W 1,Cameron Indoor Stadium
+1979,27,1979-03-01,Thu,CTOURN,A,Wake Forest,NA,ACC,W,58,56,NA,21,6,W 2,Greensboro Coliseum
+1979,28,1979-03-02,Fri,CTOURN,N,North Carolina State,NA,ACC,W,62,59,NA,22,6,W 3,Greensboro Coliseum
+1979,29,1979-03-03,Sat,CTOURN,N,North Carolina,7,ACC,L,63,71,NA,22,7,L 1,Greensboro Coliseum
+1979,30,1979-03-10,Sat,NCAA,N,St. John's,NA,NJNY7,L,78,80,NA,22,8,L 2,NA
+1980,1,1979-11-17,Sat,REG,N,Kentucky,2,SEC,W,82,76,OT,1,0,W 1,Springfield Civic Center
+1980,2,1979-11-30,Fri,REG,N,Wake Forest,NA,ACC,W,72,70,NA,2,0,W 2,Greensboro Coliseum
+1980,3,1979-12-01,Sat,REG,N,North Carolina,6,ACC,W,86,74,NA,3,0,W 3,Greensboro Coliseum
+1980,4,1979-12-05,Wed,REG,H,Princeton,NA,Ivy,W,81,45,NA,4,0,W 4,Cameron Indoor Stadium
+1980,5,1979-12-08,Sat,REG,H,East Carolina,NA,Ind,W,92,73,NA,5,0,W 5,Cameron Indoor Stadium
+1980,6,1979-12-11,Tue,REG,A,Pennsylvania,NA,Ivy,W,70,57,NA,6,0,W 6,The Palestra
+1980,7,1979-12-21,Fri,REG,N,Boston College,NA,Big East,W,70,64,OT,7,0,W 7,Dunkin' Donuts Center
+1980,8,1979-12-22,Sat,REG,A,Providence,NA,Big East,W,82,78,NA,8,0,W 8,Dunkin' Donuts Center
+1980,9,1979-12-28,Fri,REG,N,Vermont,NA,ECACN,W,92,67,NA,9,0,W 9,Cameron Indoor Stadium
+1980,10,1979-12-29,Sat,REG,N,Cincinnati,NA,Metro,W,87,75,OT,10,0,W 10,Cameron Indoor Stadium
+1980,11,1980-01-05,Sat,REG,H,Colgate,NA,ECACN,W,73,44,NA,11,0,W 11,Cameron Indoor Stadium
+1980,12,1980-01-07,Mon,REG,H,Georgia Tech,NA,ACC,W,55,42,NA,12,0,W 12,Cameron Indoor Stadium
+1980,13,1980-01-09,Wed,REG,A,Clemson,18,ACC,L,82,87,OT,12,1,L 1,Littlejohn Coliseum
+1980,14,1980-01-12,Sat,REG,H,North Carolina,15,ACC,L,67,82,NA,12,2,L 2,Cameron Indoor Stadium
+1980,15,1980-01-16,Wed,REG,H,Wake Forest,NA,ACC,W,67,66,NA,13,2,W 1,Cameron Indoor Stadium
+1980,16,1980-01-19,Sat,REG,H,North Carolina State,16,ACC,W,67,56,NA,14,2,W 2,Cameron Indoor Stadium
+1980,17,1980-01-21,Mon,REG,A,Georgia Tech,NA,ACC,W,56,49,NA,15,2,W 3,Alexander Memorial Coliseum
+1980,18,1980-01-23,Wed,REG,H,Virginia,17,ACC,L,84,90,NA,15,3,L 1,Cameron Indoor Stadium
+1980,19,1980-01-26,Sat,REG,A,Pittsburgh,NA,EAA,W,78,69,NA,16,3,W 1,Fitzgerald Fieldhouse
+1980,20,1980-01-30,Wed,REG,A,Wake Forest,NA,ACC,W,82,61,NA,17,3,W 2,Winston-Salem Memorial Coliseum
+1980,21,1980-02-02,Sat,REG,A,Maryland,12,ACC,L,69,73,NA,17,4,L 1,Cole Fieldhouse
+1980,22,1980-02-06,Wed,REG,A,Virginia,18,ACC,L,69,73,NA,17,5,L 2,University Hall
+1980,23,1980-02-10,Sun,REG,N,Marquette,NA,Ind,L,77,80,NA,17,6,L 3,Alliant Energy Center
+1980,24,1980-02-13,Wed,REG,A,North Carolina State,NA,ACC,L,59,76,NA,17,7,L 4,Reynolds Coliseum
+1980,25,1980-02-16,Sat,REG,H,Maryland,8,ACC,W,66,61,NA,18,7,W 1,Cameron Indoor Stadium
+1980,26,1980-02-20,Wed,REG,H,Clemson,12,ACC,W,87,82,OT,19,7,W 2,Cameron Indoor Stadium
+1980,27,1980-02-23,Sat,REG,A,North Carolina,8,ACC,L,71,96,NA,19,8,L 1,Carmichael Auditorium
+1980,28,1980-02-28,Thu,CTOURN,N,North Carolina State,19,ACC,W,68,62,NA,20,8,W 1,Greensboro Coliseum
+1980,29,1980-02-29,Fri,CTOURN,N,North Carolina,10,ACC,W,75,61,NA,21,8,W 2,Greensboro Coliseum
+1980,30,1980-03-01,Sat,CTOURN,N,Maryland,7,ACC,W,73,72,NA,22,8,W 3,Greensboro Coliseum
+1980,31,1980-03-09,Sun,NCAA,N,Pennsylvania,NA,Ivy,W,52,42,NA,23,8,W 4,NA
+1980,32,1980-03-13,Thu,NCAA,N,Kentucky,4,SEC,W,55,54,NA,24,8,W 5,NA
+1980,33,1980-03-15,Sat,NCAA,N,Purdue,20,Big Ten,L,60,68,NA,24,9,L 1,Rupp Arena
+1981,1,1980-11-29,Sat,REG,H,Stetson,NA,Ind,W,67,49,NA,1,0,W 1,Cameron Indoor Stadium
+1981,2,1980-12-02,Tue,REG,A,South Florida,NA,Sun Belt,W,83,72,NA,2,0,W 2,Sun Dome
+1981,3,1980-12-05,Fri,REG,N,North Carolina,10,ACC,L,76,78,NA,2,1,L 1,Greensboro Coliseum
+1981,4,1980-12-06,Sat,REG,N,North Carolina State,NA,ACC,L,60,74,NA,2,2,L 2,Greensboro Coliseum
+1981,5,1980-12-09,Tue,REG,A,Vanderbilt,NA,SEC,W,72,69,OT,3,2,W 1,Memorial Gymnasium
+1981,6,1980-12-12,Fri,REG,H,Virginia,6,ACC,L,79,91,NA,3,3,L 1,Cameron Indoor Stadium
+1981,7,1980-12-19,Fri,REG,H,Brown,NA,Ivy,W,91,60,NA,4,3,W 1,Cameron Indoor Stadium
+1981,8,1980-12-20,Sat,REG,H,Detroit Mercy,NA,MW City,W,111,71,NA,5,3,W 2,Cameron Indoor Stadium
+1981,9,1980-12-22,Mon,REG,H,Pennsylvania,NA,Ivy,W,88,82,NA,6,3,W 3,Cameron Indoor Stadium
+1981,10,1980-12-28,Sun,REG,N,New Orleans,NA,Ind,W,77,63,NA,7,3,W 4,Louisiana Superdome
+1981,11,1980-12-29,Mon,REG,N,Tennessee,NA,SEC,L,69,90,NA,7,4,L 1,Louisiana Superdome
+1981,12,1981-01-10,Sat,REG,A,Maryland,8,ACC,L,79,94,NA,7,5,L 2,Cole Fieldhouse
+1981,13,1981-01-14,Wed,REG,H,Wake Forest,5,ACC,L,73,76,NA,7,6,L 3,Cameron Indoor Stadium
+1981,14,1981-01-17,Sat,REG,A,North Carolina,17,ACC,L,65,80,NA,7,7,L 4,Carmichael Auditorium
+1981,15,1981-01-19,Mon,REG,H,George Mason,NA,ECACS,W,60,51,NA,8,7,W 1,Cameron Indoor Stadium
+1981,16,1981-01-21,Wed,REG,A,North Carolina State,NA,ACC,W,56,47,NA,9,7,W 2,Reynolds Coliseum
+1981,17,1981-01-24,Sat,REG,H,Clemson,19,ACC,W,75,57,NA,10,7,W 3,Cameron Indoor Stadium
+1981,18,1981-01-27,Tue,REG,A,Rutgers,NA,EAA,W,53,51,NA,11,7,W 4,Louis Brown Athletic Center
+1981,19,1981-01-31,Sat,REG,A,Virginia,1,ACC,L,47,68,NA,11,8,L 1,University Hall
+1981,20,1981-02-04,Wed,REG,A,Georgia Tech,NA,ACC,W,82,68,NA,12,8,W 1,Alexander Memorial Coliseum
+1981,21,1981-02-07,Sat,REG,H,Maryland,13,ACC,W,55,54,NA,13,8,W 2,Cameron Indoor Stadium
+1981,22,1981-02-14,Sat,REG,A,Wake Forest,7,ACC,L,52,58,NA,13,9,L 1,Winston-Salem Memorial Coliseum
+1981,23,1981-02-19,Thu,REG,H,North Carolina State,NA,ACC,L,51,52,NA,13,10,L 2,Cameron Indoor Stadium
+1981,24,1981-02-21,Sat,REG,H,Georgia Tech,NA,ACC,W,83,56,NA,14,10,W 1,Cameron Indoor Stadium
+1981,25,1981-02-25,Wed,REG,A,Clemson,NA,ACC,L,52,54,OT,14,11,L 1,Littlejohn Coliseum
+1981,26,1981-02-28,Sat,REG,H,North Carolina,11,ACC,W,66,65,OT,15,11,W 1,Cameron Indoor Stadium
+1981,27,1981-03-05,Thu,CTOURN,N,Maryland,20,ACC,L,53,56,NA,15,12,L 1,Capital Centre
+1981,28,1981-03-12,Thu,NIT,H,North Carolina A&T,NA,MEAC,W,79,69,NA,16,12,W 1,Cameron Indoor Stadium
+1981,29,1981-03-16,Mon,NIT,H,Alabama,NA,SEC,W,75,70,NA,17,12,W 2,Cameron Indoor Stadium
+1981,30,1981-03-20,Fri,NIT,A,Purdue,NA,Big Ten,L,69,81,NA,17,13,L 1,Mackey Arena
+1982,1,1981-11-28,Sat,REG,H,Vanderbilt,NA,SEC,L,75,76,2OT,0,1,L 1,Cameron Indoor Stadium
+1982,2,1981-12-02,Wed,REG,H,La Salle,NA,ECC,W,61,55,NA,1,1,W 1,Cameron Indoor Stadium
+1982,3,1981-12-05,Sat,REG,H,Appalachian State,NA,Southern,L,70,75,NA,1,2,L 1,Cameron Indoor Stadium
+1982,4,1981-12-09,Wed,REG,A,Virginia,5,ACC,L,83,92,NA,1,3,L 2,University Hall
+1982,5,1981-12-12,Sat,REG,A,Princeton,NA,Ivy,L,55,72,NA,1,4,L 3,Jadwin Gymnasium
+1982,6,1981-12-22,Tue,REG,H,East Carolina,NA,ECACS,W,70,57,NA,2,4,W 1,Cameron Indoor Stadium
+1982,7,1981-12-29,Tue,REG,H,Davidson,NA,Southern,L,73,75,NA,2,5,L 1,Cameron Indoor Stadium
+1982,8,1981-12-30,Wed,REG,H,Auburn,NA,SEC,W,72,71,NA,3,5,W 1,Cameron Indoor Stadium
+1982,9,1982-01-02,Sat,REG,A,Louisville,14,Metro,L,61,99,NA,3,6,L 1,Freedom Hall
+1982,10,1982-01-06,Wed,REG,H,Rutgers,NA,EAA,W,80,61,NA,4,6,W 1,Cameron Indoor Stadium
+1982,11,1982-01-09,Sat,REG,H,Maryland,NA,ACC,L,36,40,NA,4,7,L 1,Cameron Indoor Stadium
+1982,12,1982-01-13,Wed,REG,N,Wake Forest,NA,ACC,L,48,58,NA,4,8,L 2,Greensboro Coliseum
+1982,13,1982-01-16,Sat,REG,H,North Carolina,1,ACC,L,63,73,NA,4,9,L 3,Cameron Indoor Stadium
+1982,14,1982-01-20,Wed,REG,H,North Carolina State,14,ACC,W,49,48,NA,5,9,W 1,Cameron Indoor Stadium
+1982,15,1982-01-23,Sat,REG,A,Clemson,NA,ACC,W,50,44,NA,6,9,W 2,Littlejohn Coliseum
+1982,16,1982-01-27,Wed,REG,N,Holy Cross,NA,ECACN,W,66,60,NA,7,9,W 3,Izod Center
+1982,17,1982-01-30,Sat,REG,H,Virginia,3,ACC,L,65,77,NA,7,10,L 1,Cameron Indoor Stadium
+1982,18,1982-02-03,Wed,REG,H,Georgia Tech,NA,ACC,W,47,46,NA,8,10,W 1,Cameron Indoor Stadium
+1982,19,1982-02-06,Sat,REG,A,Maryland,NA,ACC,L,60,77,NA,8,11,L 1,Cole Fieldhouse
+1982,20,1982-02-08,Mon,REG,H,North Carolina-Wilmington,NA,Ind,W,67,57,OT,9,11,W 1,Cameron Indoor Stadium
+1982,21,1982-02-10,Wed,REG,A,Stetson,NA,Ind,L,81,88,NA,9,12,L 1,Edmunds Center
+1982,22,1982-02-13,Sat,REG,H,Wake Forest,16,ACC,L,71,86,NA,9,13,L 2,Cameron Indoor Stadium
+1982,23,1982-02-16,Tue,REG,A,North Carolina State,NA,ACC,L,56,72,NA,9,14,L 3,Reynolds Coliseum
+1982,24,1982-02-20,Sat,REG,A,Georgia Tech,NA,ACC,L,78,87,NA,9,15,L 4,Alexander Memorial Coliseum
+1982,25,1982-02-24,Wed,REG,H,Clemson,NA,ACC,W,73,72,3OT,10,15,W 1,Cameron Indoor Stadium
+1982,26,1982-02-27,Sat,REG,A,North Carolina,2,ACC,L,66,84,NA,10,16,L 1,Carmichael Auditorium
+1982,27,1982-03-05,Fri,CTOURN,N,Wake Forest,16,ACC,L,53,88,NA,10,17,L 2,Greensboro Coliseum
+1983,1,1982-11-27,Sat,REG,H,East Carolina,NA,ECACS,W,70,65,NA,1,0,W 1,Cameron Indoor Stadium
+1983,2,1982-11-29,Mon,REG,H,Appalachian State,NA,Southern,W,73,57,NA,2,0,W 2,Cameron Indoor Stadium
+1983,3,1982-12-02,Thu,REG,A,Colorado,NA,Big 8,L,70,79,NA,2,1,L 1,Coors Events/Conference Center
+1983,4,1982-12-04,Sat,REG,N,University of California,NA,Pac-10,L,71,76,NA,2,2,L 2,Oracle Arena
+1983,5,1982-12-08,Wed,REG,H,Virginia,1,ACC,L,91,104,NA,2,3,L 3,Cameron Indoor Stadium
+1983,6,1982-12-11,Sat,REG,A,Vanderbilt,NA,SEC,L,65,74,NA,2,4,L 4,Memorial Gymnasium
+1983,7,1982-12-14,Tue,REG,H,Davidson,NA,Southern,W,63,60,NA,3,4,W 1,Cameron Indoor Stadium
+1983,8,1982-12-29,Wed,REG,H,New Hampshire,NA,ECACN,W,84,48,NA,4,4,W 2,Cameron Indoor Stadium
+1983,9,1983-01-03,Mon,REG,H,George Mason,NA,ECACS,W,90,79,NA,5,4,W 3,Cameron Indoor Stadium
+1983,10,1983-01-05,Wed,REG,H,Wagner,NA,ECACM,L,77,84,NA,5,5,L 1,Cameron Indoor Stadium
+1983,11,1983-01-08,Sat,REG,A,La Salle,NA,ECC,W,61,60,NA,6,5,W 1,The Palestra
+1983,12,1983-01-12,Wed,REG,H,Louisville,9,Metro,L,76,91,NA,6,6,L 1,Cameron Indoor Stadium
+1983,13,1983-01-15,Sat,REG,A,Maryland,NA,ACC,W,86,67,NA,7,6,W 1,Cole Fieldhouse
+1983,14,1983-01-19,Wed,REG,H,Wake Forest,NA,ACC,L,84,88,NA,7,7,L 1,Cameron Indoor Stadium
+1983,15,1983-01-22,Sat,REG,A,North Carolina,3,ACC,L,82,103,NA,7,8,L 2,Carmichael Auditorium
+1983,16,1983-01-26,Wed,REG,A,North Carolina State,NA,ACC,L,79,94,NA,7,9,L 3,Reynolds Coliseum
+1983,17,1983-01-29,Sat,REG,H,Clemson,NA,ACC,W,99,96,NA,8,9,W 1,Cameron Indoor Stadium
+1983,18,1983-02-02,Wed,REG,H,William & Mary,NA,ECACS,W,73,71,NA,9,9,W 2,Cameron Indoor Stadium
+1983,19,1983-02-05,Sat,REG,A,Virginia,3,ACC,L,84,105,NA,9,10,L 1,University Hall
+1983,20,1983-02-09,Wed,REG,A,Georgia Tech,NA,ACC,L,66,67,NA,9,11,L 2,Alexander Memorial Coliseum
+1983,21,1983-02-16,Wed,REG,H,Stetson,NA,Ind,W,89,80,NA,10,11,W 1,Cameron Indoor Stadium
+1983,22,1983-02-19,Sat,REG,N,Wake Forest,NA,ACC,L,104,110,NA,10,12,L 1,Greensboro Coliseum
+1983,23,1983-02-21,Mon,REG,H,Maryland,NA,ACC,L,90,101,NA,10,13,L 2,Cameron Indoor Stadium
+1983,24,1983-02-23,Wed,REG,H,North Carolina State,NA,ACC,L,79,96,NA,10,14,L 3,Cameron Indoor Stadium
+1983,25,1983-02-26,Sat,REG,H,Georgia Tech,NA,ACC,W,106,81,NA,11,14,W 1,Cameron Indoor Stadium
+1983,26,1983-03-02,Wed,REG,A,Clemson,NA,ACC,L,86,93,NA,11,15,L 1,Littlejohn Coliseum
+1983,27,1983-03-05,Sat,REG,H,North Carolina,8,ACC,L,81,105,NA,11,16,L 2,Cameron Indoor Stadium
+1983,28,1983-03-11,Fri,CTOURN,N,Virginia,2,ACC,L,66,109,NA,11,17,L 3,The Omni
+1984,1,1983-11-26,Sat,REG,H,Vanderbilt,NA,SEC,W,78,74,NA,1,0,W 1,Cameron Indoor Stadium
+1984,2,1983-11-30,Wed,REG,A,William & Mary,NA,ECACS,W,70,68,NA,2,0,W 2,Kaplan Arena at William and Mary Hall
+1984,3,1983-12-03,Sat,REG,N,Davidson,NA,Southern,W,90,63,NA,3,0,W 3,Charlotte Coliseum
+1984,4,1983-12-05,Mon,REG,H,South Florida,NA,Sun Belt,W,95,66,NA,4,0,W 4,Cameron Indoor Stadium
+1984,5,1983-12-07,Wed,REG,H,Ohio,NA,MAC,W,82,63,NA,5,0,W 5,Cameron Indoor Stadium
+1984,6,1983-12-10,Sat,REG,H,East Carolina,NA,ECACS,W,80,64,NA,6,0,W 6,Cameron Indoor Stadium
+1984,7,1983-12-12,Mon,REG,H,Massachusetts,NA,A-10,W,88,56,NA,7,0,W 7,Cameron Indoor Stadium
+1984,8,1983-12-21,Wed,REG,H,Colorado,NA,Big 8,W,79,72,NA,8,0,W 8,Cameron Indoor Stadium
+1984,9,1983-12-27,Tue,REG,N,Southern Methodist,NA,SWC,L,76,78,NA,8,1,L 1,Neal S. Blaisdell Center
+1984,10,1983-12-28,Wed,REG,N,Pacific,NA,PCAA,W,68,66,NA,9,1,W 1,Neal S. Blaisdell Center
+1984,11,1983-12-30,Fri,REG,N,Navy,NA,ECACS,W,90,79,NA,10,1,W 2,Neal S. Blaisdell Center
+1984,12,1984-01-04,Wed,REG,H,Loyola,NA,ECACM,W,92,68,NA,11,1,W 3,Cameron Indoor Stadium
+1984,13,1984-01-07,Sat,REG,A,Virginia,20,ACC,W,78,72,NA,12,1,W 4,University Hall
+1984,14,1984-01-09,Mon,REG,H,Bucknell,NA,ECC,W,84,67,NA,13,1,W 5,Cameron Indoor Stadium
+1984,15,1984-01-11,Wed,REG,H,Appalachian State,NA,Southern,W,73,60,NA,14,1,W 6,Cameron Indoor Stadium
+1984,16,1984-01-14,Sat,REG,H,Maryland,5,ACC,L,75,81,NA,14,2,L 1,Cameron Indoor Stadium
+1984,17,1984-01-18,Wed,REG,N,Wake Forest,12,ACC,L,66,97,NA,14,3,L 2,Greensboro Coliseum
+1984,18,1984-01-21,Sat,REG,H,North Carolina,1,ACC,L,73,78,NA,14,4,L 3,Cameron Indoor Stadium
+1984,19,1984-01-26,Thu,REG,H,North Carolina State,NA,ACC,L,76,79,NA,14,5,L 4,Cameron Indoor Stadium
+1984,20,1984-01-28,Sat,REG,A,Clemson,NA,ACC,W,67,65,NA,15,5,W 1,Littlejohn Coliseum
+1984,21,1984-01-30,Mon,REG,A,Georgia Tech,NA,ACC,W,69,68,NA,16,5,W 2,Alexander Memorial Coliseum
+1984,22,1984-02-04,Sat,REG,H,Virginia,NA,ACC,W,67,64,NA,17,5,W 3,Cameron Indoor Stadium
+1984,23,1984-02-08,Wed,REG,A,Harvard,NA,Ivy,W,89,86,NA,18,5,W 4,Lavietes Pavilion
+1984,24,1984-02-11,Sat,REG,A,Maryland,13,ACC,W,89,84,NA,19,5,W 5,Cole Fieldhouse
+1984,25,1984-02-15,Wed,REG,A,Stetson,NA,Ind,W,80,69,NA,20,5,W 6,Edmunds Center
+1984,26,1984-02-18,Sat,REG,H,Wake Forest,13,ACC,W,79,77,OT,21,5,W 7,Cameron Indoor Stadium
+1984,27,1984-02-23,Thu,REG,A,North Carolina State,NA,ACC,W,73,70,OT,22,5,W 8,Reynolds Coliseum
+1984,28,1984-02-25,Sat,REG,H,Georgia Tech,NA,ACC,L,56,58,NA,22,6,L 1,Cameron Indoor Stadium
+1984,29,1984-02-29,Wed,REG,H,Clemson,NA,ACC,L,76,77,NA,22,7,L 2,Cameron Indoor Stadium
+1984,30,1984-03-03,Sat,REG,A,North Carolina,1,ACC,L,83,96,2OT,22,8,L 3,Carmichael Auditorium
+1984,31,1984-03-09,Fri,CTOURN,N,Georgia Tech,NA,ACC,W,67,63,OT,23,8,W 1,Greensboro Coliseum
+1984,32,1984-03-10,Sat,CTOURN,N,North Carolina,1,ACC,W,77,75,NA,24,8,W 2,Greensboro Coliseum
+1984,33,1984-03-11,Sun,CTOURN,N,Maryland,14,ACC,L,62,74,NA,24,9,L 1,Greensboro Coliseum
+1984,34,1984-03-18,Sun,NCAA,N,Washington,15,Pac-10,L,78,80,NA,24,10,L 2,NA
+1985,1,1984-11-26,Mon,REG,A,Saint Louis,NA,MW City,W,97,64,NA,1,0,W 1,Kiel Auditorium
+1985,2,1984-11-28,Wed,REG,H,William & Mary,NA,ECACS,W,92,60,NA,2,0,W 2,Cameron Indoor Stadium
+1985,3,1984-12-01,Sat,REG,H,Saint Joseph's,NA,A-10,W,59,46,NA,3,0,W 3,Cameron Indoor Stadium
+1985,4,1984-12-05,Wed,REG,H,Appalachian State,NA,Southern,W,98,64,NA,4,0,W 4,Cameron Indoor Stadium
+1985,5,1984-12-08,Sat,REG,H,Virginia,NA,ACC,W,78,65,NA,5,0,W 5,Cameron Indoor Stadium
+1985,6,1984-12-17,Mon,REG,H,Davidson,NA,Southern,W,82,65,NA,6,0,W 6,Cameron Indoor Stadium
+1985,7,1984-12-19,Wed,REG,A,Northwestern,NA,Big Ten,W,76,55,NA,7,0,W 7,Welsh-Ryan Arena
+1985,8,1984-12-28,Fri,REG,N,Alabama-Birmingham,NA,Sun Belt,W,76,62,NA,8,0,W 8,L. A. Sports Arena
+1985,9,1984-12-29,Sat,REG,A,Southern California,NA,Pac-10,W,75,73,NA,9,0,W 9,L. A. Sports Arena
+1985,10,1985-01-05,Sat,REG,A,Virginia,NA,ACC,W,63,58,NA,10,0,W 10,University Hall
+1985,11,1985-01-09,Wed,REG,H,East Carolina,NA,ECACS,W,87,63,NA,11,0,W 11,Cameron Indoor Stadium
+1985,12,1985-01-12,Sat,REG,H,Washington,NA,Pac-10,W,71,59,NA,12,0,W 12,Cameron Indoor Stadium
+1985,13,1985-01-14,Mon,REG,A,Maryland,NA,ACC,L,76,78,OT,12,1,L 1,Cole Fieldhouse
+1985,14,1985-01-17,Thu,REG,H,Wake Forest,NA,ACC,L,89,91,OT,12,2,L 2,Cameron Indoor Stadium
+1985,15,1985-01-19,Sat,REG,A,North Carolina,6,ACC,W,93,77,NA,13,2,W 1,Carmichael Auditorium
+1985,16,1985-01-23,Wed,REG,A,North Carolina State,NA,ACC,L,71,89,NA,13,3,L 1,Reynolds Coliseum
+1985,17,1985-01-26,Sat,REG,A,Clemson,NA,ACC,W,100,83,NA,14,3,W 1,Littlejohn Coliseum
+1985,18,1985-01-30,Wed,REG,N,Wake Forest,NA,ACC,W,76,70,OT,15,3,W 2,Greensboro Coliseum
+1985,19,1985-02-04,Mon,REG,H,Harvard,NA,Ivy,W,82,53,NA,16,3,W 3,Cameron Indoor Stadium
+1985,20,1985-02-06,Wed,REG,A,Georgia Tech,10,ACC,L,71,81,NA,16,4,L 1,Alexander Memorial Coliseum
+1985,21,1985-02-09,Sat,REG,H,Maryland,20,ACC,W,70,62,NA,17,4,W 1,Cameron Indoor Stadium
+1985,22,1985-02-13,Wed,REG,H,Stetson,NA,Ind,W,94,51,NA,18,4,W 2,Cameron Indoor Stadium
+1985,23,1985-02-16,Sat,REG,N,Notre Dame,NA,Ind,W,81,69,NA,19,4,W 3,Izod Center
+1985,24,1985-02-20,Wed,REG,H,North Carolina State,NA,ACC,L,66,70,NA,19,5,L 1,Cameron Indoor Stadium
+1985,25,1985-02-23,Sat,REG,H,Georgia Tech,8,ACC,W,67,62,NA,20,5,W 1,Cameron Indoor Stadium
+1985,26,1985-02-27,Wed,REG,H,Clemson,NA,ACC,W,90,73,NA,21,5,W 2,Cameron Indoor Stadium
+1985,27,1985-03-02,Sat,REG,H,North Carolina,8,ACC,L,68,78,NA,21,6,L 1,Cameron Indoor Stadium
+1985,28,1985-03-08,Fri,CTOURN,N,Maryland,NA,ACC,W,86,73,NA,22,6,W 1,The Omni
+1985,29,1985-03-09,Sat,CTOURN,N,Georgia Tech,9,ACC,L,64,75,NA,22,7,L 1,The Omni
+1985,30,1985-03-15,Fri,NCAA,N,Pepperdine,NA,WCAC,W,75,62,NA,23,7,W 1,Hofheinz Pavilion
+1985,31,1985-03-17,Sun,NCAA,N,Boston College,NA,Big East,L,73,74,NA,23,8,L 1,NA
+1986,1,1985-11-21,Thu,REG,N,Lamar,NA,Southland,W,66,62,NA,1,0,W 1,The Summit
+1986,2,1985-11-24,Sun,REG,N,Alabama-Birmingham,NA,Sun Belt,W,66,54,NA,2,0,W 2,The Summit
+1986,3,1985-11-26,Tue,REG,A,William & Mary,NA,CAA,W,81,61,NA,3,0,W 3,Kaplan Arena at William and Mary Hall
+1986,4,1985-11-29,Fri,REG,A,St. John's,NA,Big East,W,71,70,NA,4,0,W 4,Madison Square Garden (IV)
+1986,5,1985-12-01,Sun,REG,N,Kansas,5,Big 8,W,92,86,NA,5,0,W 5,Madison Square Garden (IV)
+1986,6,1985-12-02,Mon,REG,H,East Carolina,NA,CAA,W,98,66,NA,6,0,W 6,Cameron Indoor Stadium
+1986,7,1985-12-04,Wed,REG,A,Vanderbilt,NA,SEC,W,84,74,NA,7,0,W 7,Memorial Gymnasium
+1986,8,1985-12-07,Sat,REG,H,Virginia,NA,ACC,W,72,64,NA,8,0,W 8,Cameron Indoor Stadium
+1986,9,1985-12-18,Wed,REG,N,Davidson,NA,Southern,W,69,52,NA,9,0,W 9,Charlotte Coliseum
+1986,10,1985-12-28,Sat,REG,H,Appalachian State,NA,Southern,W,88,46,NA,10,0,W 10,Cameron Indoor Stadium
+1986,11,1985-12-30,Mon,REG,H,Northwestern,NA,Big Ten,W,78,55,NA,11,0,W 11,Cameron Indoor Stadium
+1986,12,1986-01-04,Sat,REG,A,Maryland,NA,ACC,W,81,75,NA,12,0,W 12,Cole Fieldhouse
+1986,13,1986-01-08,Wed,REG,H,Saint Louis,NA,MW Coll,W,84,58,NA,13,0,W 13,Cameron Indoor Stadium
+1986,14,1986-01-11,Sat,REG,H,North Carolina State,NA,ACC,W,74,64,NA,14,0,W 14,Cameron Indoor Stadium
+1986,15,1986-01-13,Mon,REG,A,Saint Joseph's,NA,A-10,W,87,66,NA,15,0,W 15,The Palestra
+1986,16,1986-01-16,Thu,REG,H,Wake Forest,NA,ACC,W,92,63,NA,16,0,W 16,Cameron Indoor Stadium
+1986,17,1986-01-18,Sat,REG,A,North Carolina,1,ACC,L,92,95,NA,16,1,L 1,Carmichael Auditorium
+1986,18,1986-01-21,Tue,REG,A,Georgia Tech,4,ACC,L,80,87,NA,16,2,L 2,Alexander Memorial Coliseum
+1986,19,1986-01-25,Sat,REG,H,Maryland,NA,ACC,W,80,68,NA,17,2,W 1,Cameron Indoor Stadium
+1986,20,1986-01-27,Mon,REG,H,Harvard,NA,Ivy,W,89,52,NA,18,2,W 2,Cameron Indoor Stadium
+1986,21,1986-01-29,Wed,REG,H,Clemson,NA,ACC,W,89,78,NA,19,2,W 3,Cameron Indoor Stadium
+1986,22,1986-02-01,Sat,REG,N,Wake Forest,NA,ACC,W,68,58,NA,20,2,W 4,Greensboro Coliseum
+1986,23,1986-02-06,Thu,REG,A,Virginia,NA,ACC,W,77,65,NA,21,2,W 5,University Hall
+1986,24,1986-02-09,Sun,REG,H,Georgia Tech,2,ACC,W,75,59,NA,22,2,W 6,Cameron Indoor Stadium
+1986,25,1986-02-11,Tue,REG,N,Stetson,NA,A-Sun,W,85,64,NA,23,2,W 7,Ocean Center
+1986,26,1986-02-15,Sat,REG,A,North Carolina State,17,ACC,W,72,70,NA,24,2,W 8,Reynolds Coliseum
+1986,27,1986-02-16,Sun,REG,H,Notre Dame,14,Ind,W,75,74,NA,25,2,W 9,Cameron Indoor Stadium
+1986,28,1986-02-19,Wed,REG,H,Miami,NA,Ind,W,104,82,NA,26,2,W 10,Cameron Indoor Stadium
+1986,29,1986-02-22,Sat,REG,H,Oklahoma,10,Big 8,W,93,84,NA,27,2,W 11,Cameron Indoor Stadium
+1986,30,1986-02-26,Wed,REG,A,Clemson,NA,ACC,W,77,69,NA,28,2,W 12,Littlejohn Coliseum
+1986,31,1986-03-02,Sun,REG,H,North Carolina,3,ACC,W,82,74,NA,29,2,W 13,Cameron Indoor Stadium
+1986,32,1986-03-07,Fri,CTOURN,N,Wake Forest,NA,ACC,W,68,60,NA,30,2,W 14,Greensboro Coliseum
+1986,33,1986-03-08,Sat,CTOURN,N,Virginia,NA,ACC,W,75,70,NA,31,2,W 15,Greensboro Coliseum
+1986,34,1986-03-09,Sun,CTOURN,N,Georgia Tech,6,ACC,W,68,67,NA,32,2,W 16,Greensboro Coliseum
+1986,35,1986-03-13,Thu,NCAA,N,Mississippi Valley State,NA,SWAC,W,85,78,NA,33,2,W 17,Greensboro Coliseum
+1986,36,1986-03-15,Sat,NCAA,N,Old Dominion,NA,Sun Belt,W,89,61,NA,34,2,W 18,Greensboro Coliseum
+1986,37,1986-03-21,Fri,NCAA,N,DePaul,NA,Ind,W,74,67,NA,35,2,W 19,NA
+1986,38,1986-03-23,Sun,NCAA,N,Navy,17,CAA,W,71,50,NA,36,2,W 20,Izod Center
+1986,39,1986-03-29,Sat,NCAA,N,Kansas,2,Big 8,W,71,67,NA,37,2,W 21,Reunion Arena
+1986,40,1986-03-31,Mon,NCAA,N,Louisville,7,Metro,L,69,72,NA,37,3,L 1,Reunion Arena
+1987,1,1986-11-28,Fri,REG,N,Brigham Young-Hawaii,NA,NA,W,85,68,NA,1,0,W 1,CAC
+1987,2,1986-11-29,Sat,REG,N,Illinois,14,Big Ten,L,62,69,NA,1,1,L 1,CAC
+1987,3,1986-12-03,Wed,REG,H,East Carolina,NA,CAA,W,103,65,NA,2,1,W 1,Cameron Indoor Stadium
+1987,4,1986-12-06,Sat,REG,H,Vanderbilt,NA,SEC,W,78,66,NA,3,1,W 2,Cameron Indoor Stadium
+1987,5,1986-12-08,Mon,REG,H,Davidson,NA,Southern,W,95,65,NA,4,1,W 3,Cameron Indoor Stadium
+1987,6,1986-12-13,Sat,REG,N,Alabama,18,SEC,W,76,67,NA,5,1,W 4,Izod Center
+1987,7,1986-12-22,Mon,REG,A,Miami,NA,Ind,W,74,67,NA,6,1,W 5,Knight Center
+1987,8,1986-12-29,Mon,REG,H,Appalachian State,NA,Southern,W,80,50,NA,7,1,W 6,Cameron Indoor Stadium
+1987,9,1986-12-30,Tue,REG,H,Northwestern,NA,Big Ten,W,106,55,NA,8,1,W 7,Cameron Indoor Stadium
+1987,10,1987-01-03,Sat,REG,A,Virginia,NA,ACC,W,70,63,NA,9,1,W 8,University Hall
+1987,11,1987-01-05,Mon,REG,H,William & Mary,NA,CAA,W,82,46,NA,10,1,W 9,Cameron Indoor Stadium
+1987,12,1987-01-07,Wed,REG,H,Saint Joseph's,NA,A-10,W,93,83,NA,11,1,W 10,Cameron Indoor Stadium
+1987,13,1987-01-10,Sat,REG,H,North Carolina,3,ACC,L,77,85,NA,11,2,L 1,Cameron Indoor Stadium
+1987,14,1987-01-14,Wed,REG,A,Maryland,NA,ACC,W,85,61,NA,12,2,W 1,Cole Fieldhouse
+1987,15,1987-01-17,Sat,REG,H,Wake Forest,NA,ACC,W,69,49,NA,13,2,W 2,Cameron Indoor Stadium
+1987,16,1987-01-21,Wed,REG,A,North Carolina State,20,ACC,L,74,87,NA,13,3,L 1,Reynolds Coliseum
+1987,17,1987-01-24,Sat,REG,A,Clemson,10,ACC,W,105,100,OT,14,3,W 1,Littlejohn Coliseum
+1987,18,1987-01-26,Mon,REG,H,Cornell,NA,Ivy,W,85,59,NA,15,3,W 2,Cameron Indoor Stadium
+1987,19,1987-01-29,Thu,REG,A,Georgia Tech,NA,ACC,L,66,75,NA,15,4,L 1,Alexander Memorial Coliseum
+1987,20,1987-01-31,Sat,REG,N,Wake Forest,NA,ACC,W,62,60,OT,16,4,W 1,Greensboro Coliseum
+1987,21,1987-02-02,Mon,REG,H,Stetson,NA,A-Sun,W,62,59,NA,17,4,W 2,Cameron Indoor Stadium
+1987,22,1987-02-04,Wed,REG,H,Virginia,NA,ACC,W,75,61,NA,18,4,W 3,Cameron Indoor Stadium
+1987,23,1987-02-07,Sat,REG,H,Maryland,NA,ACC,W,76,67,NA,19,4,W 4,Cameron Indoor Stadium
+1987,24,1987-02-10,Tue,REG,A,Harvard,NA,Ivy,W,98,86,NA,20,4,W 5,Lavietes Pavilion
+1987,25,1987-02-15,Sun,REG,A,Notre Dame,NA,Ind,L,66,70,OT,20,5,L 1,Purcell Pavilion at the Joyce Center
+1987,26,1987-02-19,Thu,REG,H,North Carolina State,NA,ACC,W,66,50,NA,21,5,W 1,Cameron Indoor Stadium
+1987,27,1987-02-21,Sat,REG,H,Georgia Tech,NA,ACC,L,72,79,NA,21,6,L 1,Cameron Indoor Stadium
+1987,28,1987-02-26,Thu,REG,A,North Carolina,2,ACC,L,71,77,NA,21,7,L 2,Dean Smith Center
+1987,29,1987-02-28,Sat,REG,H,Clemson,13,ACC,W,65,59,NA,22,7,W 1,Cameron Indoor Stadium
+1987,30,1987-03-06,Fri,CTOURN,N,North Carolina State,NA,ACC,L,64,71,OT,22,8,L 1,Capital Centre
+1987,31,1987-03-12,Thu,NCAA,N,Texas A&M,NA,SWC,W,58,51,NA,23,8,W 1,RCA Dome
+1987,32,1987-03-14,Sat,NCAA,N,Xavier,NA,MW Coll,W,65,60,NA,24,8,W 2,RCA Dome
+1987,33,1987-03-20,Fri,NCAA,N,Indiana,3,Big Ten,L,82,88,NA,24,9,L 1,NA
+1988,1,1987-11-28,Sat,REG,H,Appalachian State,NA,Southern,W,110,74,NA,1,0,W 1,Cameron Indoor Stadium
+1988,2,1987-11-30,Mon,REG,H,East Carolina,NA,CAA,W,94,45,NA,2,0,W 2,Cameron Indoor Stadium
+1988,3,1987-12-03,Thu,REG,A,Northwestern,NA,Big Ten,W,79,57,NA,3,0,W 3,Welsh-Ryan Arena
+1988,4,1987-12-09,Wed,REG,H,Davidson,NA,Southern,W,105,71,NA,4,0,W 4,Charlotte Coliseum
+1988,5,1987-12-21,Mon,REG,H,Harvard,NA,Ivy,W,121,62,NA,5,0,W 5,Cameron Indoor Stadium
+1988,6,1987-12-29,Tue,REG,N,Florida,8,SEC,W,93,70,NA,6,0,W 6,McKale Center
+1988,7,1987-12-30,Wed,REG,A,Arizona,1,Pac-10,L,85,91,NA,6,1,L 1,McKale Center
+1988,8,1988-01-04,Mon,REG,H,William & Mary,NA,CAA,W,101,70,NA,7,1,W 1,Cameron Indoor Stadium
+1988,9,1988-01-06,Wed,REG,H,Miami,NA,Ind,W,107,69,NA,8,1,W 2,Cameron Indoor Stadium
+1988,10,1988-01-09,Sat,REG,A,Virginia,NA,ACC,W,77,59,NA,9,1,W 3,University Hall
+1988,11,1988-01-14,Thu,REG,H,Saint Louis,NA,MW Coll,W,69,53,NA,10,1,W 4,Cameron Indoor Stadium
+1988,12,1988-01-16,Sat,REG,H,Maryland,NA,ACC,L,69,72,NA,10,2,L 1,Cameron Indoor Stadium
+1988,13,1988-01-21,Thu,REG,A,North Carolina,2,ACC,W,70,69,NA,11,2,W 1,Dean Smith Center
+1988,14,1988-01-23,Sat,REG,N,Wake Forest,NA,ACC,W,103,70,NA,12,2,W 2,Greensboro Coliseum
+1988,15,1988-01-25,Mon,REG,N,Stetson,NA,A-Sun,W,81,78,NA,13,2,W 3,Ocean Center
+1988,16,1988-02-01,Mon,REG,H,Clemson,NA,ACC,W,101,63,NA,14,2,W 4,Cameron Indoor Stadium
+1988,17,1988-02-03,Wed,REG,H,Georgia Tech,NA,ACC,W,78,65,NA,15,2,W 5,Cameron Indoor Stadium
+1988,18,1988-02-06,Sat,REG,H,North Carolina State,NA,ACC,L,74,77,NA,15,3,L 1,Cameron Indoor Stadium
+1988,19,1988-02-07,Sun,REG,H,Notre Dame,NA,Ind,W,70,61,NA,16,3,W 1,Cameron Indoor Stadium
+1988,20,1988-02-11,Thu,REG,H,Wake Forest,NA,ACC,W,98,67,NA,17,3,W 2,Cameron Indoor Stadium
+1988,21,1988-02-13,Sat,REG,A,Maryland,NA,ACC,W,90,83,NA,18,3,W 3,Cole Fieldhouse
+1988,22,1988-02-17,Wed,REG,H,Virginia,NA,ACC,W,73,54,NA,19,3,W 4,Cameron Indoor Stadium
+1988,23,1988-02-20,Sat,REG,A,Kansas,NA,Big 8,W,74,70,OT,20,3,W 5,Allen Fieldhouse
+1988,24,1988-02-24,Wed,REG,A,North Carolina State,NA,ACC,L,78,89,NA,20,4,L 1,Reynolds Coliseum
+1988,25,1988-02-28,Sun,REG,A,Georgia Tech,20,ACC,L,87,91,NA,20,5,L 2,Alexander Memorial Coliseum
+1988,26,1988-03-02,Wed,REG,A,Clemson,NA,ACC,L,77,79,NA,20,6,L 3,Littlejohn Coliseum
+1988,27,1988-03-06,Sun,REG,H,North Carolina,6,ACC,W,96,81,NA,21,6,W 1,Cameron Indoor Stadium
+1988,28,1988-03-11,Fri,CTOURN,N,Virginia,NA,ACC,W,60,48,NA,22,6,W 2,Greensboro Coliseum
+1988,29,1988-03-12,Sat,CTOURN,N,North Carolina State,11,ACC,W,73,71,NA,23,6,W 3,Greensboro Coliseum
+1988,30,1988-03-13,Sun,CTOURN,N,North Carolina,9,ACC,W,65,61,NA,24,6,W 4,Greensboro Coliseum
+1988,31,1988-03-17,Thu,NCAA,N,Boston University,NA,ECACN,W,85,69,NA,25,6,W 5,NA
+1988,32,1988-03-19,Sat,NCAA,N,Southern Methodist,NA,SWC,W,94,79,NA,26,6,W 6,Dean Smith Center
+1988,33,1988-03-24,Thu,NCAA,N,Rhode Island,NA,A-10,W,73,72,NA,27,6,W 7,Izod Center
+1988,34,1988-03-26,Sat,NCAA,N,Temple,1,A-10,W,63,53,NA,28,6,W 8,NA
+1988,35,1988-04-02,Sat,NCAA,N,Kansas,NA,Big 8,L,59,66,NA,28,7,L 1,NA
+1989,1,1988-11-19,Sat,REG,N,Kentucky,NA,SEC,W,80,55,NA,1,0,W 1,Springfield Civic Center
+1989,2,1988-11-26,Sat,REG,H,Citadel,NA,Southern,W,93,52,NA,2,0,W 2,Cameron Indoor Stadium
+1989,3,1988-11-30,Wed,REG,H,East Carolina,NA,CAA,W,95,46,NA,3,0,W 3,Cameron Indoor Stadium
+1989,4,1988-12-03,Sat,REG,H,Northwestern,NA,Big Ten,W,86,62,NA,4,0,W 4,Cameron Indoor Stadium
+1989,5,1988-12-05,Mon,REG,H,Stetson,NA,A-Sun,W,90,62,NA,5,0,W 5,Cameron Indoor Stadium
+1989,6,1988-12-10,Sat,REG,A,Miami,NA,Ind,W,117,102,NA,6,0,W 6,Miami Arena
+1989,7,1988-12-21,Wed,REG,H,Wake Forest,NA,ACC,W,94,88,NA,7,0,W 7,Cameron Indoor Stadium
+1989,8,1988-12-29,Thu,REG,H,Cornell,NA,Ivy,W,94,59,NA,8,0,W 8,Cameron Indoor Stadium
+1989,9,1989-01-03,Tue,REG,A,Washington,NA,Pac-10,W,87,61,NA,9,0,W 9,Bank of America Arena
+1989,10,1989-01-05,Thu,REG,H,Davidson,NA,Ind,W,101,53,NA,10,0,W 10,Cameron Indoor Stadium
+1989,11,1989-01-07,Sat,REG,A,Virginia,NA,ACC,W,84,76,NA,11,0,W 11,University Hall
+1989,12,1989-01-11,Wed,REG,H,William & Mary,NA,CAA,W,100,38,NA,12,0,W 12,Cameron Indoor Stadium
+1989,13,1989-01-14,Sat,REG,A,Maryland,NA,ACC,W,82,72,NA,13,0,W 13,Cole Fieldhouse
+1989,14,1989-01-18,Wed,REG,H,North Carolina,13,ACC,L,71,91,NA,13,1,L 1,Cameron Indoor Stadium
+1989,15,1989-01-21,Sat,REG,N,Wake Forest,NA,ACC,L,71,75,NA,13,2,L 2,Greensboro Coliseum
+1989,16,1989-01-26,Thu,REG,A,North Carolina State,15,ACC,L,73,88,NA,13,3,L 3,Reynolds Coliseum
+1989,17,1989-01-29,Sun,REG,H,Clemson,NA,ACC,W,92,62,NA,14,3,W 1,Cameron Indoor Stadium
+1989,18,1989-02-02,Thu,REG,A,Georgia Tech,NA,ACC,L,76,81,NA,14,4,L 1,Alexander Memorial Coliseum
+1989,19,1989-02-05,Sun,REG,A,Notre Dame,NA,Ind,W,102,80,NA,15,4,W 1,Purcell Pavilion at the Joyce Center
+1989,20,1989-02-08,Wed,REG,H,Virginia,NA,ACC,W,85,66,NA,16,4,W 2,Cameron Indoor Stadium
+1989,21,1989-02-11,Sat,REG,H,Maryland,NA,ACC,W,86,60,NA,17,4,W 3,Cameron Indoor Stadium
+1989,22,1989-02-14,Tue,REG,A,Harvard,NA,Ivy,W,98,59,NA,18,4,W 4,Lavietes Pavilion
+1989,23,1989-02-18,Sat,REG,H,Kansas,NA,Big 8,W,102,77,NA,19,4,W 5,Cameron Indoor Stadium
+1989,24,1989-02-20,Mon,REG,H,Georgia Tech,NA,ACC,W,91,66,NA,20,4,W 6,Cameron Indoor Stadium
+1989,25,1989-02-23,Thu,REG,H,North Carolina State,17,ACC,W,86,65,NA,21,4,W 7,Cameron Indoor Stadium
+1989,26,1989-02-26,Sun,REG,N,Arizona,2,Pac-10,L,75,77,NA,21,5,L 1,Izod Center
+1989,27,1989-03-01,Wed,REG,A,Clemson,NA,ACC,L,74,79,NA,21,6,L 2,Littlejohn Coliseum
+1989,28,1989-03-05,Sun,REG,A,North Carolina,5,ACC,W,88,86,NA,22,6,W 1,Dean Smith Center
+1989,29,1989-03-10,Fri,CTOURN,N,Wake Forest,NA,ACC,W,88,64,NA,23,6,W 2,The Omni
+1989,30,1989-03-11,Sat,CTOURN,N,Virginia,NA,ACC,W,69,58,NA,24,6,W 3,The Omni
+1989,31,1989-03-12,Sun,CTOURN,N,North Carolina,9,ACC,L,74,77,NA,24,7,L 1,The Omni
+1989,32,1989-03-16,Thu,NCAA,N,South Carolina State,NA,MEAC,W,90,69,NA,25,7,W 1,Greensboro Coliseum
+1989,33,1989-03-18,Sat,NCAA,N,West Virginia,17,A-10,W,70,63,NA,26,7,W 2,Greensboro Coliseum
+1989,34,1989-03-24,Fri,NCAA,N,Minnesota,NA,Big Ten,W,87,70,NA,27,7,W 3,Izod Center
+1989,35,1989-03-26,Sun,NCAA,N,Georgetown,2,Big East,W,85,77,NA,28,7,W 4,NA
+1989,36,1989-04-01,Sat,NCAA,N,Seton Hall,11,Big East,L,78,95,NA,28,8,L 1,Kingdome
+1990,1,1989-11-25,Sat,REG,H,Harvard,NA,Ivy,W,130,54,NA,1,0,W 1,Cameron Indoor Stadium
+1990,2,1989-11-29,Wed,REG,H,Canisius,NA,MAAC,W,102,66,NA,2,0,W 2,Cameron Indoor Stadium
+1990,3,1989-12-02,Sat,REG,A,Northwestern,NA,Big Ten,W,103,77,NA,3,0,W 3,Welsh-Ryan Arena
+1990,4,1989-12-06,Wed,REG,N,Syracuse,1,Big East,L,76,78,NA,3,1,L 1,Greensboro Coliseum
+1990,5,1989-12-09,Sat,REG,A,Michigan,8,Big Ten,L,108,113,OT,3,2,L 2,Crisler Arena
+1990,6,1989-12-21,Thu,REG,A,Davidson,NA,Ind,W,89,44,NA,4,2,W 1,Belk Arena
+1990,7,1989-12-23,Sat,REG,H,Washington,NA,Pac-10,W,74,64,NA,5,2,W 2,Cameron Indoor Stadium
+1990,8,1989-12-28,Thu,REG,N,Drake,NA,MVC,W,101,77,NA,6,2,W 3,Neal S. Blaisdell Center
+1990,9,1989-12-29,Fri,REG,N,Cincinnati,NA,Metro,W,95,83,NA,7,2,W 4,Neal S. Blaisdell Center
+1990,10,1989-12-30,Sat,REG,A,Hawaii,NA,WAC,W,87,75,NA,8,2,W 5,Neal S. Blaisdell Center
+1990,11,1990-01-03,Wed,REG,H,Citadel,NA,Southern,W,108,69,NA,9,2,W 6,Cameron Indoor Stadium
+1990,12,1990-01-06,Sat,REG,H,Virginia,NA,ACC,W,76,68,NA,10,2,W 7,Cameron Indoor Stadium
+1990,13,1990-01-11,Thu,REG,A,Georgia Tech,9,ACC,W,96,91,NA,11,2,W 8,Alexander Memorial Coliseum
+1990,14,1990-01-13,Sat,REG,H,Maryland,NA,ACC,W,91,80,NA,12,2,W 9,Cameron Indoor Stadium
+1990,15,1990-01-17,Wed,REG,A,North Carolina,NA,ACC,L,60,79,NA,12,3,L 1,Dean Smith Center
+1990,16,1990-01-20,Sat,REG,A,Wake Forest,NA,ACC,W,97,69,NA,13,3,W 1,Lawrence Joel Coliseum
+1990,17,1990-01-22,Mon,REG,A,William & Mary,NA,CAA,W,109,76,NA,14,3,W 2,Kaplan Arena at William and Mary Hall
+1990,18,1990-01-24,Wed,REG,H,North Carolina State,NA,ACC,W,85,82,OT,15,3,W 3,Cameron Indoor Stadium
+1990,19,1990-01-28,Sun,REG,H,Georgia Tech,13,ACC,W,88,86,NA,16,3,W 4,Cameron Indoor Stadium
+1990,20,1990-01-31,Wed,REG,H,Clemson,NA,ACC,W,94,80,NA,17,3,W 5,Cameron Indoor Stadium
+1990,21,1990-02-04,Sun,REG,H,Notre Dame,NA,Ind,W,88,76,NA,18,3,W 6,Cameron Indoor Stadium
+1990,22,1990-02-08,Thu,REG,A,Virginia,NA,ACC,L,69,72,NA,18,4,L 1,University Hall
+1990,23,1990-02-10,Sat,REG,A,Maryland,NA,ACC,W,114,111,OT,19,4,W 1,Cole Fieldhouse
+1990,24,1990-02-12,Mon,REG,N,Stetson,NA,A-Sun,W,102,67,NA,20,4,W 2,Amway Arena
+1990,25,1990-02-14,Wed,REG,H,East Carolina,NA,CAA,W,84,51,NA,21,4,W 3,Cameron Indoor Stadium
+1990,26,1990-02-18,Sun,REG,H,Wake Forest,NA,ACC,W,71,56,NA,22,4,W 4,Cameron Indoor Stadium
+1990,27,1990-02-21,Wed,REG,A,North Carolina State,NA,ACC,L,71,76,NA,22,5,L 1,Reynolds Coliseum
+1990,28,1990-02-25,Sun,REG,H,Arizona,21,Pac-10,W,78,76,NA,23,5,W 1,Cameron Indoor Stadium
+1990,29,1990-02-28,Wed,REG,A,Clemson,20,ACC,L,93,97,NA,23,6,L 1,Littlejohn Coliseum
+1990,30,1990-03-04,Sun,REG,H,North Carolina,NA,ACC,L,75,87,NA,23,7,L 2,Cameron Indoor Stadium
+1990,31,1990-03-09,Fri,CTOURN,N,Maryland,NA,ACC,W,104,84,NA,24,7,W 1,Bojangles Coliseum
+1990,32,1990-03-10,Sat,CTOURN,N,Georgia Tech,14,ACC,L,72,83,NA,24,8,L 1,Bojangles Coliseum
+1990,33,1990-03-16,Fri,NCAA,N,Richmond,NA,CAA,W,81,46,NA,25,8,W 1,The Omni
+1990,34,1990-03-18,Sun,NCAA,N,St. John's,NA,Big East,W,76,72,NA,26,8,W 2,The Omni
+1990,35,1990-03-22,Thu,NCAA,N,UCLA,NA,Pac-10,W,90,81,NA,27,8,W 3,Izod Center
+1990,36,1990-03-24,Sat,NCAA,N,Connecticut,4,Big East,W,79,78,OT,28,8,W 4,Izod Center
+1990,37,1990-03-31,Sat,NCAA,N,Arkansas,7,SWC,W,97,83,NA,29,8,W 5,NA
+1990,38,1990-04-02,Mon,NCAA,N,Nevada-Las Vegas,NA,Big West,L,73,103,NA,29,9,L 1,NA
+1991,1,1990-11-14,Wed,REG,H,Marquette,NA,MW Coll,W,87,74,NA,1,0,W 1,Cameron Indoor Stadium
+1991,2,1990-11-16,Fri,REG,H,Boston College,NA,Big East,W,100,76,NA,2,0,W 2,Cameron Indoor Stadium
+1991,3,1990-11-21,Wed,REG,N,Arkansas,2,SWC,L,88,98,NA,2,1,L 1,Madison Square Garden (IV)
+1991,4,1990-11-23,Fri,REG,N,Notre Dame,NA,Ind,W,85,77,NA,3,1,W 1,Madison Square Garden (IV)
+1991,5,1990-11-26,Mon,REG,H,East Carolina,NA,CAA,W,125,82,NA,4,1,W 2,Cameron Indoor Stadium
+1991,6,1990-12-01,Sat,REG,H,Charlotte,NA,Sun Belt,W,111,94,NA,5,1,W 3,Cameron Indoor Stadium
+1991,7,1990-12-05,Wed,REG,A,Georgetown,6,Big East,L,74,79,NA,5,2,L 1,Capital Centre
+1991,8,1990-12-08,Sat,REG,H,Michigan,NA,Big Ten,W,75,68,NA,6,2,W 1,Cameron Indoor Stadium
+1991,9,1990-12-19,Wed,REG,A,Harvard,NA,Ivy,W,103,61,NA,7,2,W 2,Lavietes Pavilion
+1991,10,1990-12-22,Sat,REG,A,Oklahoma,11,Big 8,W,90,85,NA,8,2,W 3,Lloyd Noble Center
+1991,11,1990-12-29,Sat,REG,H,Lehigh,NA,Patriot,W,97,67,NA,9,2,W 4,Cameron Indoor Stadium
+1991,12,1991-01-02,Wed,REG,H,Boston University,NA,NAC,W,109,55,NA,10,2,W 5,Cameron Indoor Stadium
+1991,13,1991-01-05,Sat,REG,A,Virginia,18,ACC,L,64,81,NA,10,3,L 1,University Hall
+1991,14,1991-01-09,Wed,REG,H,Georgia Tech,24,ACC,W,98,57,NA,11,3,W 1,Cameron Indoor Stadium
+1991,15,1991-01-12,Sat,REG,A,Maryland,NA,ACC,W,94,78,NA,12,3,W 2,Cole Fieldhouse
+1991,16,1991-01-14,Mon,REG,H,Wake Forest,NA,ACC,W,89,67,NA,13,3,W 3,Cameron Indoor Stadium
+1991,17,1991-01-16,Wed,REG,A,Citadel,NA,Southern,W,83,50,NA,14,3,W 4,McAlister Field House
+1991,18,1991-01-19,Sat,REG,H,North Carolina,5,ACC,W,74,60,NA,15,3,W 5,Cameron Indoor Stadium
+1991,19,1991-01-23,Wed,REG,A,North Carolina State,NA,ACC,L,89,95,NA,15,4,L 1,Reynolds Coliseum
+1991,20,1991-01-26,Sat,REG,A,Clemson,NA,ACC,W,99,70,NA,16,4,W 1,Littlejohn Coliseum
+1991,21,1991-01-30,Wed,REG,A,Georgia Tech,23,ACC,W,77,75,NA,17,4,W 2,Alexander Memorial Coliseum
+1991,22,1991-02-02,Sat,REG,A,Notre Dame,NA,Ind,W,90,77,NA,18,4,W 3,Purcell Pavilion at the Joyce Center
+1991,23,1991-02-07,Thu,REG,H,Virginia,11,ACC,W,86,74,NA,19,4,W 4,Cameron Indoor Stadium
+1991,24,1991-02-09,Sat,REG,H,Maryland,NA,ACC,W,101,81,NA,20,4,W 5,Cameron Indoor Stadium
+1991,25,1991-02-10,Sun,REG,H,Louisiana State,19,SEC,W,88,70,NA,21,4,W 6,Cameron Indoor Stadium
+1991,26,1991-02-13,Wed,REG,H,Davidson,NA,Big South,W,74,39,NA,22,4,W 7,Cameron Indoor Stadium
+1991,27,1991-02-16,Sat,REG,A,Wake Forest,NA,ACC,L,77,86,NA,22,5,L 1,Lawrence Joel Coliseum
+1991,28,1991-02-20,Wed,REG,H,North Carolina State,NA,ACC,W,72,65,NA,23,5,W 1,Cameron Indoor Stadium
+1991,29,1991-02-24,Sun,REG,A,Arizona,9,Pac-10,L,96,103,2OT,23,6,L 1,McKale Center
+1991,30,1991-02-27,Wed,REG,H,Clemson,NA,ACC,W,79,62,NA,24,6,W 1,Cameron Indoor Stadium
+1991,31,1991-03-03,Sun,REG,A,North Carolina,4,ACC,W,83,77,NA,25,6,W 2,Dean Smith Center
+1991,32,1991-03-09,Sat,CTOURN,N,North Carolina State,NA,ACC,W,93,72,NA,26,6,W 3,Bojangles Coliseum
+1991,33,1991-03-10,Sun,CTOURN,N,North Carolina,7,ACC,L,74,96,NA,26,7,L 1,Bojangles Coliseum
+1991,34,1991-03-14,Thu,NCAA,N,Louisiana-Monroe,NA,Southland,W,102,73,NA,27,7,W 1,Hubert H. Humphrey Metrodome
+1991,35,1991-03-16,Sat,NCAA,N,Iowa,NA,Big Ten,W,85,70,NA,28,7,W 2,Hubert H. Humphrey Metrodome
+1991,36,1991-03-22,Fri,NCAA,N,Connecticut,NA,Big East,W,81,67,NA,29,7,W 3,NA
+1991,37,1991-03-24,Sun,NCAA,N,St. John's,NA,Big East,W,78,61,NA,30,7,W 4,Pontiac Silverdome
+1991,38,1991-03-30,Sat,NCAA,N,Nevada-Las Vegas,NA,Big West,W,79,77,NA,31,7,W 5,NA
+1991,39,1991-04-01,Mon,NCAA,N,Kansas,12,Big 8,W,72,65,NA,32,7,W 6,RCA Dome
+1992,1,1991-11-25,Mon,REG,H,East Carolina,NA,CAA,W,103,75,NA,1,0,W 1,Cameron Indoor Stadium
+1992,2,1991-11-30,Sat,REG,H,Harvard,NA,Ivy,W,118,65,NA,2,0,W 2,Cameron Indoor Stadium
+1992,3,1991-12-05,Thu,REG,N,St. John's,NA,Big East,W,91,81,NA,3,0,W 3,Greensboro Coliseum
+1992,4,1991-12-07,Sat,REG,A,Canisius,NA,MAAC,W,96,60,NA,4,0,W 4,Buffalo Memorial Auditorium
+1992,5,1991-12-14,Sat,REG,A,Michigan,18,Big Ten,W,88,85,OT,5,0,W 5,Crisler Arena
+1992,6,1991-12-30,Mon,REG,H,William & Mary,NA,CAA,W,97,91,NA,6,0,W 6,Cameron Indoor Stadium
+1992,7,1992-01-02,Thu,REG,A,Virginia,NA,ACC,W,68,62,NA,7,0,W 7,University Hall
+1992,8,1992-01-06,Mon,REG,H,Florida State,NA,ACC,W,86,70,NA,8,0,W 8,Cameron Indoor Stadium
+1992,9,1992-01-08,Wed,REG,A,Maryland,NA,ACC,W,83,66,NA,9,0,W 9,Cole Fieldhouse
+1992,10,1992-01-11,Sat,REG,H,Georgia Tech,14,ACC,W,97,84,NA,10,0,W 10,Cameron Indoor Stadium
+1992,11,1992-01-15,Wed,REG,H,North Carolina State,NA,ACC,W,110,75,NA,11,0,W 11,Cameron Indoor Stadium
+1992,12,1992-01-18,Sat,REG,H,Charlotte,18,Metro,W,104,82,NA,12,0,W 12,Cameron Indoor Stadium
+1992,13,1992-01-21,Tue,REG,A,Boston University,NA,NAC,W,95,85,NA,13,0,W 13,Walter Brown Arena
+1992,14,1992-01-25,Sat,REG,H,Wake Forest,NA,ACC,W,84,68,NA,14,0,W 14,Cameron Indoor Stadium
+1992,15,1992-01-27,Mon,REG,H,Clemson,NA,ACC,W,112,73,NA,15,0,W 15,Cameron Indoor Stadium
+1992,16,1992-01-30,Thu,REG,A,Florida State,23,ACC,W,75,62,NA,16,0,W 16,Donald L. Tucker Center
+1992,17,1992-02-01,Sat,REG,H,Notre Dame,NA,Ind,W,100,71,NA,17,0,W 17,Cameron Indoor Stadium
+1992,18,1992-02-05,Wed,REG,A,North Carolina,9,ACC,L,73,75,NA,17,1,L 1,Dean Smith Center
+1992,19,1992-02-08,Sat,REG,A,Louisiana State,22,SEC,W,77,67,NA,18,1,W 1,Maravich Assembly Center
+1992,20,1992-02-12,Wed,REG,A,Georgia Tech,NA,ACC,W,71,62,NA,19,1,W 2,Alexander Memorial Coliseum
+1992,21,1992-02-16,Sun,REG,A,North Carolina State,NA,ACC,W,71,63,NA,20,1,W 3,Reynolds Coliseum
+1992,22,1992-02-20,Thu,REG,H,Maryland,NA,ACC,W,91,89,NA,21,1,W 4,Cameron Indoor Stadium
+1992,23,1992-02-23,Sun,REG,A,Wake Forest,NA,ACC,L,68,72,NA,21,2,L 1,Lawrence Joel Coliseum
+1992,24,1992-02-26,Wed,REG,H,Virginia,NA,ACC,W,76,67,NA,22,2,W 1,Cameron Indoor Stadium
+1992,25,1992-03-01,Sun,REG,A,UCLA,4,Pac-10,W,75,65,NA,23,2,W 2,Pauley Pavilion
+1992,26,1992-03-04,Wed,REG,A,Clemson,NA,ACC,W,98,97,NA,24,2,W 3,Littlejohn Coliseum
+1992,27,1992-03-08,Sun,REG,H,North Carolina,16,ACC,W,89,77,NA,25,2,W 4,Cameron Indoor Stadium
+1992,28,1992-03-13,Fri,CTOURN,N,Maryland,NA,ACC,W,94,87,NA,26,2,W 5,Bojangles Coliseum
+1992,29,1992-03-14,Sat,CTOURN,N,Georgia Tech,NA,ACC,W,89,76,NA,27,2,W 6,Bojangles Coliseum
+1992,30,1992-03-15,Sun,CTOURN,N,North Carolina,20,ACC,W,94,74,NA,28,2,W 7,Bojangles Coliseum
+1992,31,1992-03-19,Thu,NCAA,N,Campbell,NA,Big South,W,82,56,NA,29,2,W 8,NA
+1992,32,1992-03-21,Sat,NCAA,N,Iowa,NA,Big Ten,W,75,62,NA,30,2,W 9,Greensboro Coliseum
+1992,33,1992-03-26,Thu,NCAA,N,Seton Hall,19,Big East,W,81,69,NA,31,2,W 10,The Spectrum
+1992,34,1992-03-28,Sat,NCAA,N,Kentucky,6,SEC,W,104,103,OT,32,2,W 11,The Spectrum
+1992,35,1992-04-04,Sat,NCAA,N,Indiana,5,Big Ten,W,81,78,NA,33,2,W 12,Hubert H. Humphrey Metrodome
+1992,36,1992-04-06,Mon,NCAA,N,Michigan,15,Big Ten,W,71,51,NA,34,2,W 13,Hubert H. Humphrey Metrodome
+1993,1,1992-12-01,Tue,REG,H,Canisius,NA,MAAC,W,110,62,NA,1,0,W 1,Cameron Indoor Stadium
+1993,2,1992-12-05,Sat,REG,H,Michigan,1,Big Ten,W,79,68,NA,2,0,W 2,Cameron Indoor Stadium
+1993,3,1992-12-07,Mon,REG,H,Northeastern,NA,NAC,W,103,72,NA,3,0,W 3,Cameron Indoor Stadium
+1993,4,1992-12-12,Sat,REG,N,Rutgers,NA,A-10,W,88,79,NA,4,0,W 4,Izod Center
+1993,5,1992-12-21,Mon,REG,N,DePaul,NA,GMWC,W,89,73,NA,5,0,W 5,Lahaina Civic Center
+1993,6,1992-12-22,Tue,REG,N,Louisiana State,NA,SEC,W,96,67,NA,6,0,W 6,Lahaina Civic Center
+1993,7,1992-12-23,Wed,REG,N,Brigham Young,NA,WAC,W,89,66,NA,7,0,W 7,Lahaina Civic Center
+1993,8,1992-12-30,Wed,REG,H,Boston University,NA,NAC,W,106,62,NA,8,0,W 8,Cameron Indoor Stadium
+1993,9,1993-01-04,Mon,REG,H,Oklahoma,11,Big 8,W,88,84,OT,9,0,W 9,Cameron Indoor Stadium
+1993,10,1993-01-06,Wed,REG,H,Clemson,NA,ACC,W,110,67,NA,10,0,W 10,Cameron Indoor Stadium
+1993,11,1993-01-10,Sun,REG,A,Georgia Tech,10,ACC,L,79,80,NA,10,1,L 1,Alexander Memorial Coliseum
+1993,12,1993-01-13,Wed,REG,A,Wake Forest,NA,ACC,W,86,59,NA,11,1,W 1,Lawrence Joel Coliseum
+1993,13,1993-01-16,Sat,REG,H,Iowa,13,Big Ten,W,65,56,NA,12,1,W 2,Cameron Indoor Stadium
+1993,14,1993-01-17,Sun,REG,H,Virginia,14,ACC,L,69,77,NA,12,2,L 1,Cameron Indoor Stadium
+1993,15,1993-01-21,Thu,REG,H,North Carolina State,NA,ACC,W,92,56,NA,13,2,W 1,Cameron Indoor Stadium
+1993,16,1993-01-24,Sun,REG,A,Florida State,NA,ACC,L,88,89,OT,13,3,L 1,Donald L. Tucker Center
+1993,17,1993-01-26,Tue,REG,H,San Francisco,NA,WCC,W,117,73,NA,14,3,W 1,Cameron Indoor Stadium
+1993,18,1993-01-30,Sat,REG,A,Maryland,NA,ACC,W,78,62,NA,15,3,W 2,Cole Fieldhouse
+1993,19,1993-02-03,Wed,REG,H,North Carolina,6,ACC,W,81,67,NA,16,3,W 3,Cameron Indoor Stadium
+1993,20,1993-02-06,Sat,REG,A,Notre Dame,NA,Ind,W,67,50,NA,17,3,W 4,Purcell Pavilion at the Joyce Center
+1993,21,1993-02-08,Mon,REG,A,Clemson,NA,ACC,W,93,84,NA,18,3,W 5,Littlejohn Coliseum
+1993,22,1993-02-10,Wed,REG,H,Georgia Tech,NA,ACC,W,73,63,NA,19,3,W 6,Cameron Indoor Stadium
+1993,23,1993-02-13,Sat,REG,H,Wake Forest,9,ACC,L,86,98,NA,19,4,L 1,Cameron Indoor Stadium
+1993,24,1993-02-18,Thu,REG,A,Virginia,23,ACC,L,55,58,NA,19,5,L 2,University Hall
+1993,25,1993-02-21,Sun,REG,A,North Carolina State,NA,ACC,W,91,82,NA,20,5,W 1,Reynolds Coliseum
+1993,26,1993-02-24,Wed,REG,H,Florida State,6,ACC,W,98,75,NA,21,5,W 2,Cameron Indoor Stadium
+1993,27,1993-02-28,Sun,REG,H,UCLA,NA,Pac-10,W,78,67,NA,22,5,W 3,Cameron Indoor Stadium
+1993,28,1993-03-03,Wed,REG,H,Maryland,NA,ACC,W,95,79,NA,23,5,W 4,Cameron Indoor Stadium
+1993,29,1993-03-07,Sun,REG,A,North Carolina,1,ACC,L,69,83,NA,23,6,L 1,Dean Smith Center
+1993,30,1993-03-12,Fri,CTOURN,N,Georgia Tech,NA,ACC,L,66,69,NA,23,7,L 2,Bojangles Coliseum
+1993,31,1993-03-18,Thu,NCAA,N,Southern Illinois,NA,MVC,W,105,70,NA,24,7,W 1,Allstate Arena
+1993,32,1993-03-20,Sat,NCAA,N,University of California,NA,Pac-10,L,77,82,NA,24,8,L 1,NA
+1994,1,1993-11-27,Sat,REG,H,Northeastern,NA,NAC,W,86,72,NA,1,0,W 1,Cameron Indoor Stadium
+1994,2,1993-12-01,Wed,REG,H,Citadel,NA,Southern,W,78,63,NA,2,0,W 2,Cameron Indoor Stadium
+1994,3,1993-12-04,Sat,REG,H,Xavier,NA,MW Coll,W,82,60,NA,3,0,W 3,Cameron Indoor Stadium
+1994,4,1993-12-06,Mon,REG,H,South Carolina State,NA,MEAC,W,97,61,NA,4,0,W 4,Cameron Indoor Stadium
+1994,5,1993-12-11,Sat,REG,A,Michigan,3,Big Ten,W,73,63,NA,5,0,W 5,Crisler Arena
+1994,6,1993-12-22,Wed,REG,A,Iowa,NA,Big Ten,W,79,76,NA,6,0,W 6,Carver-Hawkeye Arena
+1994,7,1993-12-30,Thu,REG,H,Western Carolina,NA,Southern,W,87,67,NA,7,0,W 7,Cameron Indoor Stadium
+1994,8,1994-01-05,Wed,REG,A,Clemson,NA,ACC,W,71,65,NA,8,0,W 8,Littlejohn Coliseum
+1994,9,1994-01-08,Sat,REG,H,Georgia Tech,12,ACC,W,88,71,NA,9,0,W 9,Cameron Indoor Stadium
+1994,10,1994-01-10,Mon,REG,H,Brown,NA,Ivy,W,89,71,NA,10,0,W 10,Cameron Indoor Stadium
+1994,11,1994-01-13,Thu,REG,H,Wake Forest,NA,ACC,L,68,69,NA,10,1,L 1,Cameron Indoor Stadium
+1994,12,1994-01-15,Sat,REG,A,Virginia,NA,ACC,W,66,58,NA,11,1,W 1,University Hall
+1994,13,1994-01-20,Thu,REG,A,North Carolina State,NA,ACC,W,92,65,NA,12,1,W 2,Reynolds Coliseum
+1994,14,1994-01-22,Sat,REG,H,Florida State,NA,ACC,W,106,79,NA,13,1,W 3,Cameron Indoor Stadium
+1994,15,1994-01-26,Wed,REG,H,Notre Dame,NA,Ind,W,74,72,NA,14,1,W 4,Cameron Indoor Stadium
+1994,16,1994-01-29,Sat,REG,H,Maryland,18,ACC,W,75,62,NA,15,1,W 5,Cameron Indoor Stadium
+1994,17,1994-02-03,Thu,REG,A,North Carolina,2,ACC,L,78,89,NA,15,2,L 1,Dean Smith Center
+1994,18,1994-02-05,Sat,REG,H,Clemson,NA,ACC,W,78,74,NA,16,2,W 1,Cameron Indoor Stadium
+1994,19,1994-02-08,Tue,REG,A,Georgia Tech,NA,ACC,W,66,63,NA,17,2,W 2,Alexander Memorial Coliseum
+1994,20,1994-02-13,Sun,REG,A,Wake Forest,NA,ACC,L,69,78,NA,17,3,L 1,Lawrence Joel Coliseum
+1994,21,1994-02-16,Wed,REG,H,Virginia,NA,ACC,W,84,54,NA,18,3,W 1,Cameron Indoor Stadium
+1994,22,1994-02-20,Sun,REG,H,North Carolina State,NA,ACC,W,85,58,NA,19,3,W 2,Cameron Indoor Stadium
+1994,23,1994-02-23,Wed,REG,A,Florida State,NA,ACC,W,84,72,NA,20,3,W 3,Donald L. Tucker Center
+1994,24,1994-02-27,Sun,REG,H,Temple,8,A-10,W,59,47,NA,21,3,W 4,Cameron Indoor Stadium
+1994,25,1994-03-02,Wed,REG,A,Maryland,NA,ACC,W,73,69,NA,22,3,W 5,Cole Fieldhouse
+1994,26,1994-03-05,Sat,REG,H,North Carolina,5,ACC,L,77,87,NA,22,4,L 1,Cameron Indoor Stadium
+1994,27,1994-03-11,Fri,CTOURN,N,Clemson,NA,ACC,W,77,64,NA,23,4,W 1,Bojangles Coliseum
+1994,28,1994-03-12,Sat,CTOURN,N,Virginia,NA,ACC,L,61,66,NA,23,5,L 1,Bojangles Coliseum
+1994,29,1994-03-18,Fri,NCAA,N,Texas Southern,NA,SWAC,W,82,70,NA,24,5,W 1,Tropicana Field
+1994,30,1994-03-20,Sun,NCAA,N,Michigan State,NA,Big Ten,W,85,74,NA,25,5,W 2,Tropicana Field
+1994,31,1994-03-24,Thu,NCAA,N,Marquette,21,GMWC,W,59,49,NA,26,5,W 3,Thompson-Boling Arena
+1994,32,1994-03-26,Sat,NCAA,N,Purdue,3,Big Ten,W,69,60,NA,27,5,W 4,NA
+1994,33,1994-04-02,Sat,NCAA,N,Florida,14,SEC,W,70,65,NA,28,5,W 5,Bojangles Coliseum
+1994,34,1994-04-04,Mon,NCAA,N,Arkansas,2,SEC,L,72,76,NA,28,6,L 1,NA
+1995,1,1994-11-25,Fri,REG,H,Brown,NA,Ivy,W,80,38,NA,1,0,W 1,Cameron Indoor Stadium
+1995,2,1994-11-26,Sat,REG,H,Northeastern,NA,NAC,W,93,70,NA,2,0,W 2,Cameron Indoor Stadium
+1995,3,1994-11-29,Tue,REG,N,Connecticut,16,Big East,L,86,90,NA,2,1,L 1,Palace of Auburn Hills
+1995,4,1994-12-03,Sat,REG,N,Illinois,NA,Big Ten,W,70,65,NA,3,1,W 1,United Center
+1995,5,1994-12-06,Tue,REG,H,George Washington,NA,A-10,W,103,73,NA,4,1,W 2,Cameron Indoor Stadium
+1995,6,1994-12-10,Sat,REG,H,Michigan,23,Big Ten,W,69,59,NA,5,1,W 3,Cameron Indoor Stadium
+1995,7,1994-12-19,Mon,REG,H,North Carolina A&T,NA,MEAC,W,99,56,NA,6,1,W 4,Cameron Indoor Stadium
+1995,8,1994-12-28,Wed,REG,N,Iowa,NA,Big Ten,L,71,81,NA,6,2,L 1,Stan Sheriff Center
+1995,9,1994-12-29,Thu,REG,N,Boston University,NA,NAC,W,73,54,NA,7,2,W 1,Stan Sheriff Center
+1995,10,1994-12-30,Fri,REG,N,Georgia Tech,17,ACC,W,76,69,NA,8,2,W 2,Stan Sheriff Center
+1995,11,1995-01-02,Mon,REG,H,South Carolina State,NA,MEAC,W,107,61,NA,9,2,W 3,Cameron Indoor Stadium
+1995,12,1995-01-04,Wed,REG,H,Clemson,NA,ACC,L,70,75,NA,9,3,L 1,Cameron Indoor Stadium
+1995,13,1995-01-07,Sat,REG,A,Georgia Tech,24,ACC,L,68,75,NA,9,4,L 2,Alexander Memorial Coliseum
+1995,14,1995-01-11,Wed,REG,A,Wake Forest,14,ACC,L,64,74,NA,9,5,L 3,Lawrence Joel Coliseum
+1995,15,1995-01-14,Sat,REG,H,Virginia,NA,ACC,L,88,91,2OT,9,6,L 4,Cameron Indoor Stadium
+1995,16,1995-01-18,Wed,REG,H,North Carolina State,NA,ACC,L,60,77,NA,9,7,L 5,Cameron Indoor Stadium
+1995,17,1995-01-21,Sat,REG,A,Florida State,NA,ACC,L,75,78,NA,9,8,L 6,Donald L. Tucker Center
+1995,18,1995-01-24,Tue,REG,A,Notre Dame,NA,Ind,W,87,74,NA,10,8,W 1,Purcell Pavilion at the Joyce Center
+1995,19,1995-01-28,Sat,REG,A,Maryland,8,ACC,L,72,74,NA,10,9,L 1,Cole Fieldhouse
+1995,20,1995-02-02,Thu,REG,H,North Carolina,2,ACC,L,100,102,2OT,10,10,L 2,Cameron Indoor Stadium
+1995,21,1995-02-04,Sat,REG,A,Clemson,NA,ACC,L,44,51,NA,10,11,L 3,Littlejohn Coliseum
+1995,22,1995-02-09,Thu,REG,H,Georgia Tech,18,ACC,W,77,70,NA,11,11,W 1,Cameron Indoor Stadium
+1995,23,1995-02-11,Sat,REG,H,Wake Forest,11,ACC,L,61,62,NA,11,12,L 1,Cameron Indoor Stadium
+1995,24,1995-02-15,Wed,REG,A,Virginia,16,ACC,L,58,64,NA,11,13,L 2,University Hall
+1995,25,1995-02-18,Sat,REG,A,North Carolina State,NA,ACC,L,79,84,NA,11,14,L 3,Reynolds Coliseum
+1995,26,1995-02-22,Wed,REG,H,Florida State,NA,ACC,W,72,67,NA,12,14,W 1,Cameron Indoor Stadium
+1995,27,1995-02-26,Sun,REG,A,UCLA,2,Pac-10,L,77,100,NA,12,15,L 1,Pauley Pavilion
+1995,28,1995-03-01,Wed,REG,H,Maryland,6,ACC,L,92,94,NA,12,16,L 2,Cameron Indoor Stadium
+1995,29,1995-03-04,Sat,REG,A,North Carolina,2,ACC,L,86,99,NA,12,17,L 3,Dean Smith Center
+1995,30,1995-03-09,Thu,CTOURN,N,North Carolina State,NA,ACC,W,83,70,NA,13,17,W 1,Greensboro Coliseum
+1995,31,1995-03-10,Fri,CTOURN,N,Wake Forest,7,ACC,L,70,87,NA,13,18,L 1,Greensboro Coliseum
+1996,1,1995-11-23,Thu,REG,N,Old Dominion,NA,CAA,W,75,55,NA,1,0,W 1,Sullivan Arena
+1996,2,1995-11-24,Fri,REG,N,Indiana,23,Big Ten,W,70,64,NA,2,0,W 2,Sullivan Arena
+1996,3,1995-11-25,Sat,REG,N,Iowa,10,Big Ten,W,88,81,NA,3,0,W 3,Sullivan Arena
+1996,4,1995-11-29,Wed,REG,H,North Carolina-Greensboro,NA,Big South,W,71,57,NA,4,0,W 4,Cameron Indoor Stadium
+1996,5,1995-12-02,Sat,REG,H,Illinois,NA,Big Ten,L,65,75,NA,4,1,L 1,Cameron Indoor Stadium
+1996,6,1995-12-04,Mon,REG,H,South Carolina State,NA,MEAC,W,84,64,NA,5,1,W 1,Cameron Indoor Stadium
+1996,7,1995-12-09,Sat,REG,A,Michigan,22,Big Ten,L,84,88,NA,5,2,L 1,Crisler Arena
+1996,8,1995-12-19,Tue,REG,H,Delaware,NA,NAC,W,79,73,NA,6,2,W 1,Cameron Indoor Stadium
+1996,9,1995-12-20,Wed,REG,H,Western Carolina,NA,Southern,W,107,67,NA,7,2,W 2,Cameron Indoor Stadium
+1996,10,1995-12-28,Thu,REG,H,Monmouth,NA,NEC,W,69,53,NA,8,2,W 3,Cameron Indoor Stadium
+1996,11,1995-12-30,Sat,REG,A,Northeastern,NA,NAC,W,87,56,NA,9,2,W 4,Matthews Arena
+1996,12,1996-01-03,Wed,REG,A,Clemson,22,ACC,L,48,51,NA,9,3,L 1,Littlejohn Coliseum
+1996,13,1996-01-07,Sun,REG,H,Georgia Tech,NA,ACC,L,81,86,NA,9,4,L 2,Cameron Indoor Stadium
+1996,14,1996-01-10,Wed,REG,H,Wake Forest,8,ACC,L,54,57,NA,9,5,L 3,Cameron Indoor Stadium
+1996,15,1996-01-13,Sat,REG,A,Virginia,NA,ACC,L,66,77,NA,9,6,L 4,University Hall
+1996,16,1996-01-18,Thu,REG,A,North Carolina State,NA,ACC,W,71,70,NA,10,6,W 1,Reynolds Coliseum
+1996,17,1996-01-20,Sat,REG,H,Florida State,NA,ACC,W,85,65,NA,11,6,W 2,Cameron Indoor Stadium
+1996,18,1996-01-25,Thu,REG,A,Temple,NA,A-10,L,58,59,NA,11,7,L 1,The Spectrum
+1996,19,1996-01-28,Sun,REG,H,Maryland,NA,ACC,W,83,73,NA,12,7,W 1,Cameron Indoor Stadium
+1996,20,1996-01-31,Wed,REG,A,North Carolina,8,ACC,L,72,73,NA,12,8,L 1,Dean Smith Center
+1996,21,1996-02-03,Sat,REG,H,Clemson,24,ACC,W,83,53,NA,13,8,W 1,Cameron Indoor Stadium
+1996,22,1996-02-07,Wed,REG,A,Georgia Tech,NA,ACC,L,71,73,OT,13,9,L 1,Alexander Memorial Coliseum
+1996,23,1996-02-11,Sun,REG,A,Wake Forest,9,ACC,L,65,79,NA,13,10,L 2,Lawrence Joel Coliseum
+1996,24,1996-02-14,Wed,REG,H,Virginia,NA,ACC,W,79,69,NA,14,10,W 1,Cameron Indoor Stadium
+1996,25,1996-02-17,Sat,REG,H,North Carolina State,NA,ACC,W,79,76,OT,15,10,W 2,Cameron Indoor Stadium
+1996,26,1996-02-22,Thu,REG,A,Florida State,NA,ACC,W,93,87,NA,16,10,W 3,Donald L. Tucker Center
+1996,27,1996-02-25,Sun,REG,H,UCLA,16,Pac-10,W,85,66,NA,17,10,W 4,Cameron Indoor Stadium
+1996,28,1996-02-28,Wed,REG,A,Maryland,NA,ACC,W,77,75,NA,18,10,W 5,Cole Fieldhouse
+1996,29,1996-03-03,Sun,REG,H,North Carolina,19,ACC,L,78,84,NA,18,11,L 1,Cameron Indoor Stadium
+1996,30,1996-03-08,Fri,CTOURN,N,Maryland,NA,ACC,L,69,82,NA,18,12,L 2,Greensboro Coliseum
+1996,31,1996-03-14,Thu,NCAA,N,Eastern Michigan,NA,MAC,L,60,75,NA,18,13,L 3,RCA Dome
+1997,1,1996-11-20,Wed,REG,H,Saint Joseph's,NA,A-10,W,89,60,NA,1,0,W 1,Cameron Indoor Stadium
+1997,2,1996-11-22,Fri,REG,H,Vanderbilt,NA,SEC,W,86,57,NA,2,0,W 2,Cameron Indoor Stadium
+1997,3,1996-11-27,Wed,REG,N,Tulsa,22,WAC,W,72,67,NA,3,0,W 3,Madison Square Garden (IV)
+1997,4,1996-11-29,Fri,REG,N,Indiana,20,Big Ten,L,69,85,NA,3,1,L 1,Madison Square Garden (IV)
+1997,5,1996-12-02,Mon,REG,H,Lehigh,NA,Patriot,W,103,51,NA,4,1,W 1,Cameron Indoor Stadium
+1997,6,1996-12-05,Thu,REG,H,Florida State,NA,ACC,W,72,66,OT,5,1,W 2,Cameron Indoor Stadium
+1997,7,1996-12-08,Sun,REG,H,Michigan,7,Big Ten,L,61,62,NA,5,2,L 1,Cameron Indoor Stadium
+1997,8,1996-12-11,Wed,REG,H,Davidson,NA,Southern,W,85,58,NA,6,2,W 1,Cameron Indoor Stadium
+1997,9,1996-12-14,Sat,REG,A,Villanova,4,Big East,W,87,79,NA,7,2,W 2,Wells Fargo Center
+1997,10,1996-12-22,Sun,REG,H,Army,NA,Patriot,W,100,38,NA,8,2,W 3,Cameron Indoor Stadium
+1997,11,1996-12-30,Mon,REG,H,Western Carolina,NA,Southern,W,104,54,NA,9,2,W 4,Cameron Indoor Stadium
+1997,12,1997-01-02,Thu,REG,H,South Carolina State,NA,MEAC,W,104,54,NA,10,2,W 5,Cameron Indoor Stadium
+1997,13,1997-01-05,Sun,REG,A,Georgia Tech,NA,ACC,W,66,56,NA,11,2,W 6,Alexander Memorial Coliseum
+1997,14,1997-01-07,Tue,REG,A,Clemson,5,ACC,L,82,86,OT,11,3,L 1,Littlejohn Coliseum
+1997,15,1997-01-11,Sat,REG,H,Wake Forest,2,ACC,L,69,81,NA,11,4,L 2,Cameron Indoor Stadium
+1997,16,1997-01-13,Mon,REG,H,Campbell,NA,A-Sun,W,84,59,NA,12,4,W 1,Cameron Indoor Stadium
+1997,17,1997-01-15,Wed,REG,A,North Carolina-Greensboro,NA,Big South,W,87,49,NA,13,4,W 2,Greensboro Coliseum
+1997,18,1997-01-18,Sat,REG,H,Virginia,NA,ACC,W,78,59,NA,14,4,W 3,Cameron Indoor Stadium
+1997,19,1997-01-21,Tue,REG,A,North Carolina State,NA,ACC,W,70,55,NA,15,4,W 4,Reynolds Coliseum
+1997,20,1997-01-26,Sun,REG,A,Maryland,7,ACC,L,70,74,NA,15,5,L 1,Cole Fieldhouse
+1997,21,1997-01-29,Wed,REG,H,North Carolina,19,ACC,W,80,73,NA,16,5,W 1,Cameron Indoor Stadium
+1997,22,1997-02-02,Sun,REG,H,Georgia Tech,NA,ACC,W,70,61,NA,17,5,W 2,Cameron Indoor Stadium
+1997,23,1997-02-05,Wed,REG,A,Wake Forest,2,ACC,W,73,68,NA,18,5,W 3,Lawrence Joel Coliseum
+1997,24,1997-02-08,Sat,REG,H,North Carolina State,NA,ACC,W,80,51,NA,19,5,W 4,Cameron Indoor Stadium
+1997,25,1997-02-11,Tue,REG,A,Virginia,NA,ACC,W,62,61,NA,20,5,W 5,University Hall
+1997,26,1997-02-15,Sat,REG,A,Florida State,NA,ACC,W,89,79,NA,21,5,W 6,Donald L. Tucker Center
+1997,27,1997-02-18,Tue,REG,H,Clemson,8,ACC,W,84,77,NA,22,5,W 7,Cameron Indoor Stadium
+1997,28,1997-02-23,Sun,REG,A,UCLA,17,Pac-10,L,69,73,NA,22,6,L 1,Pauley Pavilion
+1997,29,1997-02-27,Thu,REG,H,Maryland,16,ACC,W,81,69,NA,23,6,W 1,Cameron Indoor Stadium
+1997,30,1997-03-02,Sun,REG,A,North Carolina,8,ACC,L,85,91,NA,23,7,L 1,Dean Smith Center
+1997,31,1997-03-07,Fri,CTOURN,N,North Carolina State,NA,ACC,L,60,66,NA,23,8,L 2,Greensboro Coliseum
+1997,32,1997-03-14,Fri,NCAA,N,Murray State,NA,OVC,W,71,68,NA,24,8,W 1,Bojangles Coliseum
+1997,33,1997-03-16,Sun,NCAA,N,Providence,NA,Big East,L,87,98,NA,24,9,L 1,Bojangles Coliseum
+1998,1,1997-11-16,Sun,REG,A,Army,NA,Patriot,W,78,45,NA,1,0,W 1,Christl Arena
+1998,2,1997-11-20,Thu,REG,H,Davidson,NA,Southern,W,100,65,NA,2,0,W 2,Cameron Indoor Stadium
+1998,3,1997-11-24,Mon,REG,A,Chaminade,NA,NA,W,106,70,NA,3,0,W 3,McCabe Gymnasium
+1998,4,1997-11-25,Tue,REG,N,Missouri,NA,Big 12,W,82,59,NA,4,0,W 4,Lahaina Civic Center
+1998,5,1997-11-26,Wed,REG,N,Arizona,1,Pac-10,W,95,87,NA,5,0,W 5,Lahaina Civic Center
+1998,6,1997-12-01,Mon,REG,H,South Carolina State,NA,MEAC,W,98,40,NA,6,0,W 6,Cameron Indoor Stadium
+1998,7,1997-12-03,Wed,REG,H,North Carolina-Greensboro,NA,Southern,W,93,37,NA,7,0,W 7,Cameron Indoor Stadium
+1998,8,1997-12-06,Sat,REG,H,Virginia,NA,ACC,W,103,59,NA,8,0,W 8,Cameron Indoor Stadium
+1998,9,1997-12-10,Wed,REG,H,Villanova,NA,Big East,W,94,66,NA,9,0,W 9,Cameron Indoor Stadium
+1998,10,1997-12-13,Sat,REG,A,Michigan,NA,Big Ten,L,73,81,NA,9,1,L 1,Crisler Arena
+1998,11,1997-12-21,Sun,REG,H,Mercer,NA,A-Sun,W,126,64,NA,10,1,W 1,Cameron Indoor Stadium
+1998,12,1997-12-30,Tue,REG,H,Portland State,NA,Big Sky,W,89,39,NA,11,1,W 2,Cameron Indoor Stadium
+1998,13,1998-01-03,Sat,REG,A,Maryland,20,ACC,W,104,72,NA,12,1,W 3,Cole Fieldhouse
+1998,14,1998-01-07,Wed,REG,H,North Carolina State,NA,ACC,W,64,50,NA,13,1,W 4,Cameron Indoor Stadium
+1998,15,1998-01-10,Sat,REG,A,Florida State,13,ACC,W,75,63,NA,14,1,W 5,Donald L. Tucker Center
+1998,16,1998-01-14,Wed,REG,A,Wake Forest,NA,ACC,W,88,52,NA,15,1,W 6,Lawrence Joel Coliseum
+1998,17,1998-01-17,Sat,REG,H,Clemson,NA,ACC,W,81,80,NA,16,1,W 7,Cameron Indoor Stadium
+1998,18,1998-01-20,Tue,REG,A,North Carolina A&T,NA,MEAC,W,101,66,NA,17,1,W 8,Greensboro Coliseum
+1998,19,1998-01-24,Sat,REG,A,Virginia,NA,ACC,W,72,65,NA,18,1,W 9,University Hall
+1998,20,1998-01-29,Thu,REG,H,Maryland,23,ACC,W,86,59,NA,19,1,W 10,Cameron Indoor Stadium
+1998,21,1998-02-01,Sun,REG,H,Georgia Tech,NA,ACC,W,90,69,NA,20,1,W 11,Cameron Indoor Stadium
+1998,22,1998-02-05,Thu,REG,A,North Carolina,2,ACC,L,73,97,NA,20,2,L 1,Dean Smith Center
+1998,23,1998-02-08,Sun,REG,A,North Carolina State,NA,ACC,W,65,49,NA,21,2,W 1,Reynolds Coliseum
+1998,24,1998-02-10,Tue,REG,H,Florida State,NA,ACC,W,86,72,NA,22,2,W 2,Cameron Indoor Stadium
+1998,25,1998-02-14,Sat,REG,H,Wake Forest,NA,ACC,W,78,47,NA,23,2,W 3,Cameron Indoor Stadium
+1998,26,1998-02-18,Wed,REG,A,Clemson,NA,ACC,W,70,66,NA,24,2,W 4,Littlejohn Coliseum
+1998,27,1998-02-22,Sun,REG,H,UCLA,12,Pac-10,W,120,84,NA,25,2,W 5,Cameron Indoor Stadium
+1998,28,1998-02-25,Wed,REG,A,Georgia Tech,NA,ACC,W,76,53,NA,26,2,W 6,Alexander Memorial Coliseum
+1998,29,1998-02-28,Sat,REG,H,North Carolina,3,ACC,W,77,75,NA,27,2,W 7,Cameron Indoor Stadium
+1998,30,1998-03-05,Thu,CTOURN,N,Virginia,NA,ACC,W,63,41,NA,28,2,W 8,Greensboro Coliseum
+1998,31,1998-03-07,Sat,CTOURN,N,Clemson,NA,ACC,W,66,64,NA,29,2,W 9,Greensboro Coliseum
+1998,32,1998-03-08,Sun,CTOURN,N,North Carolina,4,ACC,L,68,83,NA,29,3,L 1,Greensboro Coliseum
+1998,33,1998-03-13,Fri,NCAA,N,Radford,NA,Big South,W,99,63,NA,30,3,W 1,Rupp Arena
+1998,34,1998-03-15,Sun,NCAA,N,Oklahoma State,NA,Big 12,W,79,73,NA,31,3,W 2,Rupp Arena
+1998,35,1998-03-20,Fri,NCAA,N,Syracuse,21,Big East,W,80,67,NA,32,3,W 3,Tropicana Field
+1998,36,1998-03-22,Sun,NCAA,N,Kentucky,5,SEC,L,84,86,NA,32,4,L 1,Tropicana Field
+1999,1,1998-11-14,Sat,REG,H,Fairfield,NA,MAAC,W,98,66,NA,1,0,W 1,Cameron Indoor Stadium
+1999,2,1998-11-17,Tue,REG,N,Davidson,NA,Southern,W,94,61,NA,2,0,W 2,Bojangles Coliseum
+1999,3,1998-11-21,Sat,REG,H,South Carolina State,NA,MEAC,W,120,56,NA,3,0,W 3,Cameron Indoor Stadium
+1999,4,1998-11-26,Thu,REG,N,Notre Dame,NA,Big East,W,111,82,NA,4,0,W 4,Sullivan Arena
+1999,5,1998-11-27,Fri,REG,N,Fresno State,NA,WAC,W,93,82,NA,5,0,W 5,Sullivan Arena
+1999,6,1998-11-28,Sat,REG,N,Cincinnati,15,CUSA,L,75,77,NA,5,1,L 1,Sullivan Arena
+1999,7,1998-12-02,Wed,REG,N,Michigan State,9,Big Ten,W,73,67,NA,6,1,W 1,United Center
+1999,8,1998-12-05,Sat,REG,H,North Carolina State,NA,ACC,W,89,69,NA,7,1,W 2,Cameron Indoor Stadium
+1999,9,1998-12-09,Wed,REG,H,Florida,NA,SEC,W,116,86,NA,8,1,W 3,Cameron Indoor Stadium
+1999,10,1998-12-12,Sat,REG,H,Michigan,NA,Big Ten,W,108,64,NA,9,1,W 4,Cameron Indoor Stadium
+1999,11,1998-12-20,Sun,REG,H,North Carolina A&T,NA,MEAC,W,88,53,NA,10,1,W 5,Cameron Indoor Stadium
+1999,12,1998-12-22,Tue,REG,N,Kentucky,3,SEC,W,71,60,NA,11,1,W 6,Izod Center
+1999,13,1998-12-30,Wed,REG,H,North Carolina-Greensboro,NA,Southern,W,104,58,NA,12,1,W 7,Cameron Indoor Stadium
+1999,14,1999-01-03,Sun,REG,A,Maryland,4,ACC,W,82,64,NA,13,1,W 8,Cole Fieldhouse
+1999,15,1999-01-06,Wed,REG,H,Georgia Tech,NA,ACC,W,99,58,NA,14,1,W 9,Cameron Indoor Stadium
+1999,16,1999-01-10,Sun,REG,H,Virginia,NA,ACC,W,115,69,NA,15,1,W 10,Cameron Indoor Stadium
+1999,17,1999-01-13,Wed,REG,A,Wake Forest,NA,ACC,W,82,72,NA,16,1,W 11,Lawrence Joel Coliseum
+1999,18,1999-01-16,Sat,REG,H,Florida State,NA,ACC,W,98,73,NA,17,1,W 12,Cameron Indoor Stadium
+1999,19,1999-01-20,Wed,REG,A,Clemson,NA,ACC,W,82,60,NA,18,1,W 13,Littlejohn Coliseum
+1999,20,1999-01-24,Sun,REG,A,St. John's,NA,Big East,W,92,88,OT,19,1,W 14,Madison Square Garden (IV)
+1999,21,1999-01-27,Wed,REG,H,North Carolina,10,ACC,W,89,77,NA,20,1,W 15,Cameron Indoor Stadium
+1999,22,1999-01-30,Sat,REG,A,North Carolina State,NA,ACC,W,80,61,NA,21,1,W 16,Reynolds Coliseum
+1999,23,1999-02-03,Wed,REG,H,Maryland,7,ACC,W,95,77,NA,22,1,W 17,Cameron Indoor Stadium
+1999,24,1999-02-06,Sat,REG,A,Georgia Tech,NA,ACC,W,87,79,NA,23,1,W 18,Alexander Memorial Coliseum
+1999,25,1999-02-11,Thu,REG,A,Virginia,NA,ACC,W,100,54,NA,24,1,W 19,University Hall
+1999,26,1999-02-13,Sat,REG,H,Wake Forest,NA,ACC,W,102,71,NA,25,1,W 20,Cameron Indoor Stadium
+1999,27,1999-02-17,Wed,REG,A,Florida State,NA,ACC,W,85,59,NA,26,1,W 21,Donald L. Tucker Center
+1999,28,1999-02-20,Sat,REG,H,Clemson,NA,ACC,W,92,65,NA,27,1,W 22,Cameron Indoor Stadium
+1999,29,1999-02-24,Wed,REG,N,DePaul,NA,CUSA,W,96,64,NA,28,1,W 23,United Center
+1999,30,1999-02-27,Sat,REG,A,North Carolina,14,ACC,W,81,61,NA,29,1,W 24,Dean Smith Center
+1999,31,1999-03-04,Thu,CTOURN,N,Virginia,NA,ACC,W,104,67,NA,30,1,W 25,Bojangles Coliseum
+1999,32,1999-03-06,Sat,CTOURN,N,North Carolina State,NA,ACC,W,83,68,NA,31,1,W 26,Bojangles Coliseum
+1999,33,1999-03-07,Sun,CTOURN,N,North Carolina,15,ACC,W,96,73,NA,32,1,W 27,Bojangles Coliseum
+1999,34,1999-03-12,Fri,NCAA,N,Florida A&M,NA,MEAC,W,99,58,NA,33,1,W 28,Bojangles Coliseum
+1999,35,1999-03-14,Sun,NCAA,N,Tulsa,NA,WAC,W,97,56,NA,34,1,W 29,Bojangles Coliseum
+1999,36,1999-03-19,Fri,NCAA,N,Missouri State,NA,MVC,W,78,61,NA,35,1,W 30,Izod Center
+1999,37,1999-03-21,Sun,NCAA,N,Temple,NA,A-10,W,85,64,NA,36,1,W 31,Izod Center
+1999,38,1999-03-27,Sat,NCAA,N,Michigan State,2,Big Ten,W,68,62,NA,37,1,W 32,Tropicana Field
+1999,39,1999-03-29,Mon,NCAA,N,Connecticut,3,Big East,L,74,77,NA,37,2,L 1,Tropicana Field
+2000,1,1999-11-11,Thu,REG,N,Stanford,13,Pac-10,L,79,80,OT,0,1,L 1,Madison Square Garden (IV)
+2000,2,1999-11-12,Fri,REG,N,Connecticut,1,Big East,L,66,71,NA,0,2,L 2,Madison Square Garden (IV)
+2000,3,1999-11-20,Sat,REG,H,Army,NA,Patriot,W,100,42,NA,1,2,W 1,Cameron Indoor Stadium
+2000,4,1999-11-23,Tue,REG,H,Columbia,NA,Ivy,W,99,52,NA,2,2,W 2,Cameron Indoor Stadium
+2000,5,1999-11-27,Sat,REG,N,Southern California,NA,Pac-10,W,81,68,NA,3,2,W 3,Honda Center
+2000,6,1999-11-30,Tue,REG,N,Illinois,16,Big Ten,W,72,69,NA,4,2,W 4,United Center
+2000,7,1999-12-04,Sat,REG,H,DePaul,22,CUSA,W,84,83,OT,5,2,W 5,Cameron Indoor Stadium
+2000,8,1999-12-11,Sat,REG,A,Michigan,NA,Big Ten,W,104,97,NA,6,2,W 6,Crisler Arena
+2000,9,1999-12-19,Sun,REG,H,North Carolina A&T,NA,MEAC,W,101,60,NA,7,2,W 7,Cameron Indoor Stadium
+2000,10,1999-12-21,Tue,REG,H,Davidson,NA,Southern,W,109,65,NA,8,2,W 8,Cameron Indoor Stadium
+2000,11,2000-01-02,Sun,REG,H,William & Mary,NA,CAA,W,96,55,NA,9,2,W 9,Cameron Indoor Stadium
+2000,12,2000-01-05,Wed,REG,A,Virginia,NA,ACC,W,109,100,OT,10,2,W 10,University Hall
+2000,13,2000-01-09,Sun,REG,A,Maryland,12,ACC,W,80,70,NA,11,2,W 11,Cole Fieldhouse
+2000,14,2000-01-12,Wed,REG,H,Georgia Tech,NA,ACC,W,82,57,NA,12,2,W 12,Cameron Indoor Stadium
+2000,15,2000-01-16,Sun,REG,A,Florida State,NA,ACC,W,85,54,NA,13,2,W 13,Donald L. Tucker Center
+2000,16,2000-01-19,Wed,REG,H,North Carolina State,NA,ACC,W,92,88,OT,14,2,W 14,Cameron Indoor Stadium
+2000,17,2000-01-22,Sat,REG,A,Wake Forest,NA,ACC,W,75,61,NA,15,2,W 15,Lawrence Joel Coliseum
+2000,18,2000-01-29,Sat,REG,H,Clemson,NA,ACC,W,93,59,NA,16,2,W 16,Cameron Indoor Stadium
+2000,19,2000-02-03,Thu,REG,A,North Carolina,NA,ACC,W,90,86,OT,17,2,W 17,Dean Smith Center
+2000,20,2000-02-05,Sat,REG,H,Virginia,NA,ACC,W,106,86,NA,18,2,W 18,Cameron Indoor Stadium
+2000,21,2000-02-09,Wed,REG,H,Maryland,23,ACC,L,87,98,NA,18,3,L 1,Cameron Indoor Stadium
+2000,22,2000-02-12,Sat,REG,A,Georgia Tech,NA,ACC,W,84,65,NA,19,3,W 1,Alexander Memorial Coliseum
+2000,23,2000-02-16,Wed,REG,H,Florida State,NA,ACC,W,101,68,NA,20,3,W 2,Cameron Indoor Stadium
+2000,24,2000-02-19,Sat,REG,A,North Carolina State,NA,ACC,W,71,66,NA,21,3,W 3,RBC Center
+2000,25,2000-02-22,Tue,REG,H,Wake Forest,NA,ACC,W,96,78,NA,22,3,W 4,Cameron Indoor Stadium
+2000,26,2000-02-26,Sat,REG,H,St. John's,NA,Big East,L,82,83,OT,22,4,L 1,Cameron Indoor Stadium
+2000,27,2000-03-01,Wed,REG,A,Clemson,NA,ACC,W,92,78,NA,23,4,W 1,Littlejohn Coliseum
+2000,28,2000-03-04,Sat,REG,H,North Carolina,NA,ACC,W,90,76,NA,24,4,W 2,Cameron Indoor Stadium
+2000,29,2000-03-09,Thu,CTOURN,N,Clemson,NA,ACC,W,94,63,NA,25,4,W 3,Bojangles Coliseum
+2000,30,2000-03-11,Sat,CTOURN,N,Wake Forest,NA,ACC,W,82,73,NA,26,4,W 4,Bojangles Coliseum
+2000,31,2000-03-12,Sun,CTOURN,N,Maryland,20,ACC,W,81,68,NA,27,4,W 5,Bojangles Coliseum
+2000,32,2000-03-17,Fri,NCAA,N,Lamar,NA,Southland,W,82,55,NA,28,4,W 6,Lawrence Joel Coliseum
+2000,33,2000-03-19,Sun,NCAA,N,Kansas,NA,Big 12,W,69,64,NA,29,4,W 7,Lawrence Joel Coliseum
+2000,34,2000-03-24,Fri,NCAA,N,Florida,13,SEC,L,78,87,NA,29,5,L 1,Carrier Dome
+2001,1,2000-11-14,Tue,REG,H,Princeton,NA,Ivy,W,87,50,NA,1,0,W 1,Cameron Indoor Stadium
+2001,2,2000-11-17,Fri,REG,H,Villanova,NA,Big East,W,98,85,NA,2,0,W 2,Cameron Indoor Stadium
+2001,3,2000-11-22,Wed,REG,N,Texas,NA,Big 12,W,95,69,NA,3,0,W 3,Madison Square Garden (IV)
+2001,4,2000-11-24,Fri,REG,N,Temple,NA,A-10,W,63,61,NA,4,0,W 4,Madison Square Garden (IV)
+2001,5,2000-11-25,Sat,REG,H,Army,NA,Patriot,W,91,48,NA,5,0,W 5,Cameron Indoor Stadium
+2001,6,2000-11-28,Tue,REG,N,Illinois,9,Big Ten,W,78,77,NA,6,0,W 6,Greensboro Coliseum
+2001,7,2000-12-02,Sat,REG,A,Temple,17,A-10,W,93,68,NA,7,0,W 7,Liacouras Center
+2001,8,2000-12-05,Tue,REG,H,Davidson,NA,Southern,W,102,60,NA,8,0,W 8,Cameron Indoor Stadium
+2001,9,2000-12-09,Sat,REG,H,Michigan,NA,Big Ten,W,104,61,NA,9,0,W 9,Cameron Indoor Stadium
+2001,10,2000-12-19,Tue,REG,N,Portland,NA,WCC,W,97,64,NA,10,0,W 10,Rose Garden Arena
+2001,11,2000-12-21,Thu,REG,N,Stanford,3,Pac-10,L,83,84,NA,10,1,L 1,Oracle Arena
+2001,12,2000-12-30,Sat,REG,H,North Carolina A&T,NA,MEAC,W,108,73,NA,11,1,W 1,Cameron Indoor Stadium
+2001,13,2001-01-04,Thu,REG,A,Florida State,NA,ACC,W,99,72,NA,12,1,W 2,Donald L. Tucker Center
+2001,14,2001-01-07,Sun,REG,H,Clemson,NA,ACC,W,115,74,NA,13,1,W 3,Cameron Indoor Stadium
+2001,15,2001-01-10,Wed,REG,A,North Carolina State,NA,ACC,W,84,78,NA,14,1,W 4,RBC Center
+2001,16,2001-01-13,Sat,REG,H,Virginia,10,ACC,W,103,61,NA,15,1,W 5,Cameron Indoor Stadium
+2001,17,2001-01-16,Tue,REG,H,Boston College,25,Big East,W,97,75,NA,16,1,W 6,Cameron Indoor Stadium
+2001,18,2001-01-20,Sat,REG,A,Georgia Tech,NA,ACC,W,98,77,NA,17,1,W 7,Alexander Memorial Coliseum
+2001,19,2001-01-24,Wed,REG,H,Wake Forest,9,ACC,W,85,62,NA,18,1,W 8,Cameron Indoor Stadium
+2001,20,2001-01-27,Sat,REG,A,Maryland,8,ACC,W,98,96,OT,19,1,W 9,Cole Fieldhouse
+2001,21,2001-02-01,Thu,REG,H,North Carolina,4,ACC,L,83,85,NA,19,2,L 1,Cameron Indoor Stadium
+2001,22,2001-02-04,Sun,REG,H,Florida State,NA,ACC,W,100,58,NA,20,2,W 1,Cameron Indoor Stadium
+2001,23,2001-02-07,Wed,REG,A,Clemson,NA,ACC,W,81,64,NA,21,2,W 2,Littlejohn Coliseum
+2001,24,2001-02-11,Sun,REG,H,North Carolina State,NA,ACC,W,101,75,NA,22,2,W 3,Cameron Indoor Stadium
+2001,25,2001-02-14,Wed,REG,A,Virginia,12,ACC,L,89,91,NA,22,3,L 1,University Hall
+2001,26,2001-02-18,Sun,REG,A,St. John's,NA,Big East,W,91,59,NA,23,3,W 1,Madison Square Garden (IV)
+2001,27,2001-02-21,Wed,REG,H,Georgia Tech,NA,ACC,W,98,54,NA,24,3,W 2,Cameron Indoor Stadium
+2001,28,2001-02-24,Sat,REG,A,Wake Forest,24,ACC,W,82,80,NA,25,3,W 3,Lawrence Joel Coliseum
+2001,29,2001-02-27,Tue,REG,H,Maryland,16,ACC,L,80,91,NA,25,4,L 1,Cameron Indoor Stadium
+2001,30,2001-03-04,Sun,REG,A,North Carolina,4,ACC,W,95,81,NA,26,4,W 1,Dean Smith Center
+2001,31,2001-03-09,Fri,CTOURN,N,North Carolina State,NA,ACC,W,76,61,NA,27,4,W 2,Georgia Dome
+2001,32,2001-03-10,Sat,CTOURN,N,Maryland,11,ACC,W,84,82,NA,28,4,W 3,Georgia Dome
+2001,33,2001-03-11,Sun,CTOURN,N,North Carolina,6,ACC,W,79,53,NA,29,4,W 4,Georgia Dome
+2001,34,2001-03-15,Thu,NCAA,N,Monmouth,NA,NEC,W,95,52,NA,30,4,W 5,Greensboro Coliseum
+2001,35,2001-03-17,Sat,NCAA,N,Missouri,NA,Big 12,W,94,81,NA,31,4,W 6,Greensboro Coliseum
+2001,36,2001-03-22,Thu,NCAA,N,UCLA,15,Pac-10,W,76,63,NA,32,4,W 7,Wells Fargo Center
+2001,37,2001-03-24,Sat,NCAA,N,Southern California,NA,Pac-10,W,79,69,NA,33,4,W 8,Wells Fargo Center
+2001,38,2001-03-31,Sat,NCAA,N,Maryland,11,ACC,W,95,84,NA,34,4,W 9,Hubert H. Humphrey Metrodome
+2001,39,2001-04-02,Mon,NCAA,N,Arizona,5,Pac-10,W,82,72,NA,35,4,W 10,NA
+2002,1,2001-11-19,Mon,REG,N,Seton Hall,NA,Big East,W,80,79,NA,1,0,W 1,Lahaina Civic Center
+2002,2,2001-11-20,Tue,REG,N,South Carolina,NA,SEC,W,81,56,NA,2,0,W 2,Lahaina Civic Center
+2002,3,2001-11-21,Wed,REG,N,Ball State,NA,MAC,W,83,71,NA,3,0,W 3,Lahaina Civic Center
+2002,4,2001-11-25,Sun,REG,H,Portland,NA,WCC,W,104,62,NA,4,0,W 4,Cameron Indoor Stadium
+2002,5,2001-11-27,Tue,REG,N,Iowa,7,Big Ten,W,80,62,NA,5,0,W 5,United Center
+2002,6,2001-12-02,Sun,REG,H,Clemson,NA,ACC,W,96,80,NA,6,0,W 6,Cameron Indoor Stadium
+2002,7,2001-12-05,Wed,REG,H,Temple,NA,A-10,W,82,57,NA,7,0,W 7,Cameron Indoor Stadium
+2002,8,2001-12-08,Sat,REG,A,Michigan,NA,Big Ten,W,104,83,NA,8,0,W 8,Crisler Arena
+2002,9,2001-12-16,Sun,REG,H,North Carolina A&T,NA,MEAC,W,93,51,NA,9,0,W 9,Cameron Indoor Stadium
+2002,10,2001-12-18,Tue,REG,N,Kentucky,7,SEC,W,95,92,OT,10,0,W 10,Izod Center
+2002,11,2001-12-29,Sat,REG,H,San Diego State,NA,MWC,W,92,79,NA,11,0,W 11,Cameron Indoor Stadium
+2002,12,2002-01-02,Wed,REG,N,Davidson,NA,Southern,W,106,71,NA,12,0,W 12,Bojangles Coliseum
+2002,13,2002-01-06,Sun,REG,A,Florida State,NA,ACC,L,76,77,NA,12,1,L 1,Donald L. Tucker Center
+2002,14,2002-01-10,Thu,REG,H,Georgia Tech,NA,ACC,W,104,79,NA,13,1,W 1,Cameron Indoor Stadium
+2002,15,2002-01-13,Sun,REG,A,North Carolina State,NA,ACC,W,76,57,NA,14,1,W 2,RBC Center
+2002,16,2002-01-17,Thu,REG,H,Maryland,3,ACC,W,99,78,NA,15,1,W 3,Cameron Indoor Stadium
+2002,17,2002-01-19,Sat,REG,H,Wake Forest,14,ACC,W,103,80,NA,16,1,W 4,Cameron Indoor Stadium
+2002,18,2002-01-24,Thu,REG,A,Boston College,NA,Big East,W,88,78,NA,17,1,W 5,Silvio O. Conte Forum
+2002,19,2002-01-27,Sun,REG,H,Virginia,7,ACC,W,94,81,NA,18,1,W 6,Cameron Indoor Stadium
+2002,20,2002-01-31,Thu,REG,A,North Carolina,NA,ACC,W,87,58,NA,19,1,W 7,Dean Smith Center
+2002,21,2002-02-02,Sat,REG,A,Clemson,NA,ACC,W,98,88,NA,20,1,W 8,Littlejohn Coliseum
+2002,22,2002-02-07,Thu,REG,H,Florida State,NA,ACC,W,80,49,NA,21,1,W 9,Cameron Indoor Stadium
+2002,23,2002-02-09,Sat,REG,A,Georgia Tech,NA,ACC,W,95,63,NA,22,1,W 10,Alexander Memorial Coliseum
+2002,24,2002-02-14,Thu,REG,H,North Carolina State,24,ACC,W,108,71,NA,23,1,W 11,Cameron Indoor Stadium
+2002,25,2002-02-17,Sun,REG,A,Maryland,3,ACC,L,73,87,NA,23,2,L 1,Cole Fieldhouse
+2002,26,2002-02-21,Thu,REG,A,Wake Forest,20,ACC,W,90,61,NA,24,2,W 1,Lawrence Joel Coliseum
+2002,27,2002-02-24,Sun,REG,H,St. John's,NA,Big East,W,97,55,NA,25,2,W 2,Cameron Indoor Stadium
+2002,28,2002-02-28,Thu,REG,A,Virginia,NA,ACC,L,84,87,NA,25,3,L 1,University Hall
+2002,29,2002-03-03,Sun,REG,H,North Carolina,NA,ACC,W,93,68,NA,26,3,W 1,Cameron Indoor Stadium
+2002,30,2002-03-08,Fri,CTOURN,N,North Carolina,NA,ACC,W,60,48,NA,27,3,W 2,Bojangles Coliseum
+2002,31,2002-03-09,Sat,CTOURN,N,Wake Forest,NA,ACC,W,79,64,NA,28,3,W 3,Bojangles Coliseum
+2002,32,2002-03-10,Sun,CTOURN,N,North Carolina State,NA,ACC,W,91,61,NA,29,3,W 4,Bojangles Coliseum
+2002,33,2002-03-14,Thu,NCAA,N,Winthrop,NA,Big South,W,84,37,NA,30,3,W 5,BI-LO Center
+2002,34,2002-03-16,Sat,NCAA,N,Notre Dame,NA,Big East,W,84,77,NA,31,3,W 6,BI-LO Center
+2002,35,2002-03-21,Thu,NCAA,N,Indiana,NA,Big Ten,L,73,74,NA,31,4,L 1,Rupp Arena
+2003,1,2002-11-23,Sat,REG,H,Army,NA,Patriot,W,101,53,NA,1,0,W 1,Cameron Indoor Stadium
+2003,2,2002-11-25,Mon,REG,H,Davidson,NA,Southern,W,95,80,NA,2,0,W 2,Cameron Indoor Stadium
+2003,3,2002-11-30,Sat,REG,N,UCLA,14,Pac-10,W,84,73,NA,3,0,W 3,Conseco Fieldhouse
+2003,4,2002-12-03,Tue,REG,N,Ohio State,NA,Big Ten,W,91,76,NA,4,0,W 4,Greensboro Coliseum
+2003,5,2002-12-07,Sat,REG,H,Michigan,NA,Big Ten,W,81,59,NA,5,0,W 5,Cameron Indoor Stadium
+2003,6,2002-12-17,Tue,REG,N,North Carolina A&T,NA,MEAC,W,91,57,NA,6,0,W 6,Greensboro Coliseum
+2003,7,2002-12-29,Sun,REG,H,Dayton,NA,A-10,W,85,74,NA,7,0,W 7,Cameron Indoor Stadium
+2003,8,2003-01-02,Thu,REG,H,Fairfield,NA,MAAC,W,86,58,NA,8,0,W 8,Cameron Indoor Stadium
+2003,9,2003-01-05,Sun,REG,A,Clemson,NA,ACC,W,89,71,NA,9,0,W 9,Littlejohn Coliseum
+2003,10,2003-01-08,Wed,REG,H,Georgetown,NA,Big East,W,93,86,NA,10,0,W 10,Cameron Indoor Stadium
+2003,11,2003-01-12,Sun,REG,H,Wake Forest,17,ACC,W,74,55,NA,11,0,W 11,Cameron Indoor Stadium
+2003,12,2003-01-15,Wed,REG,H,Virginia,NA,ACC,W,104,93,NA,12,0,W 12,Cameron Indoor Stadium
+2003,13,2003-01-18,Sat,REG,A,Maryland,17,ACC,L,72,87,NA,12,1,L 1,Comcast Center
+2003,14,2003-01-22,Wed,REG,A,North Carolina State,NA,ACC,L,71,80,NA,12,2,L 2,RBC Center
+2003,15,2003-01-25,Sat,REG,H,Georgia Tech,NA,ACC,W,91,71,NA,13,2,W 1,Cameron Indoor Stadium
+2003,16,2003-01-30,Thu,REG,H,Butler,NA,Horizon,W,80,60,NA,14,2,W 2,Cameron Indoor Stadium
+2003,17,2003-02-02,Sun,REG,A,Florida State,NA,ACC,L,70,75,NA,14,3,L 1,Donald L. Tucker Center
+2003,18,2003-02-05,Wed,REG,H,North Carolina,NA,ACC,W,83,74,NA,15,3,W 1,Cameron Indoor Stadium
+2003,19,2003-02-09,Sun,REG,H,Clemson,NA,ACC,W,65,55,NA,16,3,W 2,Cameron Indoor Stadium
+2003,20,2003-02-13,Thu,REG,A,Wake Forest,15,ACC,L,80,94,2OT,16,4,L 1,Lawrence Joel Coliseum
+2003,21,2003-02-15,Sat,REG,A,Virginia,NA,ACC,W,78,59,NA,17,4,W 1,University Hall
+2003,22,2003-02-19,Wed,REG,H,Maryland,13,ACC,W,75,70,NA,18,4,W 2,Cameron Indoor Stadium
+2003,23,2003-02-22,Sat,REG,H,North Carolina State,NA,ACC,W,79,68,NA,19,4,W 3,Cameron Indoor Stadium
+2003,24,2003-02-26,Wed,REG,A,Georgia Tech,NA,ACC,W,77,58,NA,20,4,W 4,Alexander Memorial Coliseum
+2003,25,2003-03-02,Sun,REG,A,St. John's,NA,Big East,L,71,72,NA,20,5,L 1,Madison Square Garden (IV)
+2003,26,2003-03-06,Thu,REG,H,Florida State,NA,ACC,W,72,56,NA,21,5,W 1,Cameron Indoor Stadium
+2003,27,2003-03-09,Sun,REG,A,North Carolina,NA,ACC,L,79,82,NA,21,6,L 1,Dean Smith Center
+2003,28,2003-03-14,Fri,CTOURN,N,Virginia,NA,ACC,W,83,76,NA,22,6,W 1,Greensboro Coliseum
+2003,29,2003-03-15,Sat,CTOURN,N,North Carolina,NA,ACC,W,75,63,NA,23,6,W 2,Greensboro Coliseum
+2003,30,2003-03-16,Sun,CTOURN,N,North Carolina State,NA,ACC,W,84,77,NA,24,6,W 3,Greensboro Coliseum
+2003,31,2003-03-20,Thu,NCAA,N,Colorado State,NA,MWC,W,67,57,NA,25,6,W 4,NA
+2003,32,2003-03-22,Sat,NCAA,N,Central Michigan,NA,MAC,W,86,60,NA,26,6,W 5,NA
+2003,33,2003-03-27,Thu,NCAA,N,Kansas,6,Big 12,L,65,69,NA,26,7,L 1,NA
+2004,1,2003-11-22,Sat,REG,H,Detroit Mercy,NA,Horizon,W,67,56,NA,1,0,W 1,Cameron Indoor Stadium
+2004,2,2003-11-27,Thu,REG,N,Pacific,NA,Big West,W,82,69,NA,2,0,W 2,Sullivan Arena
+2004,3,2003-11-28,Fri,REG,N,Liberty,NA,Big South,W,76,47,NA,3,0,W 3,Sullivan Arena
+2004,4,2003-11-29,Sat,REG,N,Purdue,NA,Big Ten,L,68,78,NA,3,1,L 1,Sullivan Arena
+2004,5,2003-12-03,Wed,REG,A,Michigan State,5,Big Ten,W,72,50,NA,4,1,W 1,Breslin Events Center
+2004,6,2003-12-06,Sat,REG,H,St. John's,NA,Big East,W,79,58,NA,5,1,W 2,Cameron Indoor Stadium
+2004,7,2003-12-14,Sun,REG,H,Portland,NA,WCC,W,84,43,NA,6,1,W 3,Cameron Indoor Stadium
+2004,8,2003-12-17,Wed,REG,H,Princeton,NA,Ivy,W,69,51,NA,7,1,W 4,Cameron Indoor Stadium
+2004,9,2003-12-20,Sat,REG,N,Texas,11,Big 12,W,89,61,NA,8,1,W 5,Madison Square Garden (IV)
+2004,10,2003-12-29,Mon,REG,H,Davidson,NA,Southern,W,88,54,NA,9,1,W 6,Cameron Indoor Stadium
+2004,11,2004-01-03,Sat,REG,A,Clemson,NA,ACC,W,73,54,NA,10,1,W 7,Littlejohn Coliseum
+2004,12,2004-01-06,Tue,REG,H,Fairfield,NA,MAAC,W,99,58,NA,11,1,W 8,Cameron Indoor Stadium
+2004,13,2004-01-11,Sun,REG,A,Virginia,NA,ACC,W,93,71,NA,12,1,W 9,University Hall
+2004,14,2004-01-15,Thu,REG,H,North Carolina State,NA,ACC,W,76,57,NA,13,1,W 10,Cameron Indoor Stadium
+2004,15,2004-01-17,Sat,REG,H,Wake Forest,4,ACC,W,84,72,NA,14,1,W 11,Cameron Indoor Stadium
+2004,16,2004-01-21,Wed,REG,A,Maryland,NA,ACC,W,68,60,NA,15,1,W 12,Comcast Center
+2004,17,2004-01-24,Sat,REG,A,Georgetown,NA,Big East,W,85,66,NA,16,1,W 13,Verizon Center
+2004,18,2004-01-29,Thu,REG,H,Florida State,NA,ACC,W,56,49,NA,17,1,W 14,Cameron Indoor Stadium
+2004,19,2004-01-31,Sat,REG,A,Georgia Tech,14,ACC,W,82,74,NA,18,1,W 15,Alexander Memorial Coliseum
+2004,20,2004-02-05,Thu,REG,A,North Carolina,17,ACC,W,83,81,OT,19,1,W 16,Dean Smith Center
+2004,21,2004-02-08,Sun,REG,H,Clemson,NA,ACC,W,81,55,NA,20,1,W 17,Cameron Indoor Stadium
+2004,22,2004-02-11,Wed,REG,H,Virginia,NA,ACC,W,93,75,NA,21,1,W 18,Cameron Indoor Stadium
+2004,23,2004-02-15,Sun,REG,A,North Carolina State,21,ACC,L,74,78,NA,21,2,L 1,RBC Center
+2004,24,2004-02-18,Wed,REG,A,Wake Forest,15,ACC,L,84,90,NA,21,3,L 2,Lawrence Joel Coliseum
+2004,25,2004-02-22,Sun,REG,H,Maryland,NA,ACC,W,86,63,NA,22,3,W 1,Cameron Indoor Stadium
+2004,26,2004-02-26,Thu,REG,H,Valparaiso,NA,Mid-Cont,W,97,63,NA,23,3,W 2,Cameron Indoor Stadium
+2004,27,2004-02-29,Sun,REG,A,Florida State,NA,ACC,W,70,65,NA,24,3,W 3,Donald L. Tucker Center
+2004,28,2004-03-03,Wed,REG,H,Georgia Tech,19,ACC,L,68,76,NA,24,4,L 1,Cameron Indoor Stadium
+2004,29,2004-03-06,Sat,REG,H,North Carolina,14,ACC,W,70,65,NA,25,4,W 1,Cameron Indoor Stadium
+2004,30,2004-03-12,Fri,CTOURN,N,Virginia,NA,ACC,W,84,74,NA,26,4,W 2,Greensboro Coliseum
+2004,31,2004-03-13,Sat,CTOURN,N,Georgia Tech,14,ACC,W,85,71,NA,27,4,W 3,Greensboro Coliseum
+2004,32,2004-03-14,Sun,CTOURN,N,Maryland,NA,ACC,L,87,95,OT,27,5,L 1,Greensboro Coliseum
+2004,33,2004-03-18,Thu,NCAA,N,Alabama State,NA,SWAC,W,96,61,NA,28,5,W 1,NA
+2004,34,2004-03-20,Sat,NCAA,N,Seton Hall,NA,Big East,W,90,62,NA,29,5,W 2,RBC Center
+2004,35,2004-03-26,Fri,NCAA,N,Illinois,13,Big Ten,W,72,62,NA,30,5,W 3,Georgia Dome
+2004,36,2004-03-28,Sun,NCAA,N,Xavier,NA,A-10,W,66,63,NA,31,5,W 4,Georgia Dome
+2004,37,2004-04-03,Sat,NCAA,N,Connecticut,7,Big East,L,78,79,NA,31,6,L 1,NA
+2005,1,2004-11-20,Sat,REG,H,Tennessee-Martin,NA,OVC,W,88,46,NA,1,0,W 1,Cameron Indoor Stadium
+2005,2,2004-11-22,Mon,REG,N,Davidson,NA,Southern,W,74,61,NA,2,0,W 2,Bojangles Coliseum
+2005,3,2004-11-27,Sat,REG,H,North Carolina-Greensboro,NA,Southern,W,98,44,NA,3,0,W 3,Cameron Indoor Stadium
+2005,4,2004-11-30,Tue,REG,H,Michigan State,11,Big Ten,W,81,74,NA,4,0,W 4,Cameron Indoor Stadium
+2005,5,2004-12-04,Sat,REG,N,Valparaiso,NA,Mid-Cont,W,93,61,NA,5,0,W 5,United Center
+2005,6,2004-12-12,Sun,REG,H,Toledo,NA,MAC,W,82,54,NA,6,0,W 6,Cameron Indoor Stadium
+2005,7,2004-12-14,Tue,REG,H,Illinois-Chicago,NA,Horizon,W,88,55,NA,7,0,W 7,Cameron Indoor Stadium
+2005,8,2004-12-18,Sat,REG,N,Oklahoma,NA,Big 12,W,78,67,NA,8,0,W 8,Madison Square Garden (IV)
+2005,9,2005-01-02,Sun,REG,H,Clemson,NA,ACC,W,62,54,NA,9,0,W 9,Cameron Indoor Stadium
+2005,10,2005-01-05,Wed,REG,H,Princeton,NA,Ivy,W,59,46,NA,10,0,W 10,Cameron Indoor Stadium
+2005,11,2005-01-08,Sat,REG,H,Temple,NA,A-10,W,82,74,NA,11,0,W 11,Cameron Indoor Stadium
+2005,12,2005-01-13,Thu,REG,A,North Carolina State,NA,ACC,W,86,74,NA,12,0,W 12,RBC Center
+2005,13,2005-01-16,Sun,REG,H,Virginia,NA,ACC,W,80,66,NA,13,0,W 13,Cameron Indoor Stadium
+2005,14,2005-01-19,Wed,REG,A,Miami,NA,ACC,W,92,83,NA,14,0,W 14,BankUnited Center
+2005,15,2005-01-22,Sat,REG,A,Florida State,NA,ACC,W,88,56,NA,15,0,W 15,Donald L. Tucker Center
+2005,16,2005-01-26,Wed,REG,H,Maryland,NA,ACC,L,66,75,NA,15,1,L 1,Cameron Indoor Stadium
+2005,17,2005-01-30,Sun,REG,H,Virginia Tech,NA,ACC,W,100,65,NA,16,1,W 1,Cameron Indoor Stadium
+2005,18,2005-02-02,Wed,REG,A,Wake Forest,7,ACC,L,89,92,NA,16,2,L 1,Lawrence Joel Coliseum
+2005,19,2005-02-05,Sat,REG,H,Georgia Tech,25,ACC,W,82,65,NA,17,2,W 1,Cameron Indoor Stadium
+2005,20,2005-02-09,Wed,REG,H,North Carolina,2,ACC,W,71,70,NA,18,2,W 2,Cameron Indoor Stadium
+2005,21,2005-02-12,Sat,REG,A,Maryland,NA,ACC,L,92,99,OT,18,3,L 1,Comcast Center
+2005,22,2005-02-17,Thu,REG,A,Virginia Tech,NA,ACC,L,65,67,NA,18,4,L 2,Cassell Coliseum
+2005,23,2005-02-20,Sun,REG,H,Wake Forest,5,ACC,W,102,92,NA,19,4,W 1,Cameron Indoor Stadium
+2005,24,2005-02-23,Wed,REG,A,Georgia Tech,NA,ACC,W,60,56,NA,20,4,W 2,Alexander Memorial Coliseum
+2005,25,2005-02-26,Sat,REG,A,St. John's,NA,Big East,W,58,47,NA,21,4,W 3,Madison Square Garden (IV)
+2005,26,2005-03-03,Thu,REG,H,Miami,NA,ACC,W,83,59,NA,22,4,W 4,Cameron Indoor Stadium
+2005,27,2005-03-06,Sun,REG,A,North Carolina,2,ACC,L,73,75,NA,22,5,L 1,Dean Smith Center
+2005,28,2005-03-11,Fri,CTOURN,N,Virginia,NA,ACC,W,76,64,NA,23,5,W 1,Verizon Center
+2005,29,2005-03-12,Sat,CTOURN,N,North Carolina State,NA,ACC,W,76,69,NA,24,5,W 2,Verizon Center
+2005,30,2005-03-13,Sun,CTOURN,N,Georgia Tech,NA,ACC,W,69,64,NA,25,5,W 3,Verizon Center
+2005,31,2005-03-18,Fri,NCAA,N,Delaware State,NA,MEAC,W,57,46,NA,26,5,W 4,NA
+2005,32,2005-03-20,Sun,NCAA,N,Mississippi State,NA,SEC,W,63,55,NA,27,5,W 5,Bojangles Coliseum
+2005,33,2005-03-25,Fri,NCAA,N,Michigan State,15,Big Ten,L,68,78,NA,27,6,L 1,Frank Erwin Center
+2006,1,2005-11-14,Mon,REG,H,Boston University,NA,AEC,W,64,47,NA,1,0,W 1,Cameron Indoor Stadium
+2006,2,2005-11-16,Wed,REG,H,Seton Hall,NA,Big East,W,93,40,NA,2,0,W 2,Cameron Indoor Stadium
+2006,3,2005-11-19,Sat,REG,H,Davidson,NA,Southern,W,84,55,NA,3,0,W 3,Cameron Indoor Stadium
+2006,4,2005-11-23,Wed,REG,N,Drexel,NA,CAA,W,78,68,NA,4,0,W 4,Madison Square Garden (IV)
+2006,5,2005-11-25,Fri,REG,N,Memphis,11,CUSA,W,70,67,NA,5,0,W 5,Madison Square Garden (IV)
+2006,6,2005-11-30,Wed,REG,A,Indiana,17,Big Ten,W,75,67,NA,6,0,W 6,Assembly Hall
+2006,7,2005-12-04,Sun,REG,H,Virginia Tech,NA,ACC,W,77,75,NA,7,0,W 7,Cameron Indoor Stadium
+2006,8,2005-12-07,Wed,REG,H,Pennsylvania,NA,Ivy,W,72,59,NA,8,0,W 8,Cameron Indoor Stadium
+2006,9,2005-12-10,Sat,REG,N,Texas,2,Big 12,W,97,66,NA,9,0,W 9,Izod Center
+2006,10,2005-12-18,Sun,REG,H,Valparaiso,NA,Mid-Cont,W,104,77,NA,10,0,W 10,Cameron Indoor Stadium
+2006,11,2005-12-21,Wed,REG,H,St. John's,NA,Big East,W,70,57,NA,11,0,W 11,Cameron Indoor Stadium
+2006,12,2005-12-31,Sat,REG,N,North Carolina-Greensboro,NA,Southern,W,102,69,NA,12,0,W 12,Greensboro Coliseum
+2006,13,2006-01-02,Mon,REG,H,Bucknell,NA,Patriot,W,84,50,NA,13,0,W 13,Cameron Indoor Stadium
+2006,14,2006-01-08,Sun,REG,A,Wake Forest,23,ACC,W,82,64,NA,14,0,W 14,Lawrence Joel Coliseum
+2006,15,2006-01-11,Wed,REG,H,Maryland,23,ACC,W,76,52,NA,15,0,W 15,Cameron Indoor Stadium
+2006,16,2006-01-14,Sat,REG,A,Clemson,NA,ACC,W,87,77,NA,16,0,W 16,Littlejohn Coliseum
+2006,17,2006-01-18,Wed,REG,H,North Carolina State,14,ACC,W,81,68,NA,17,0,W 17,Cameron Indoor Stadium
+2006,18,2006-01-21,Sat,REG,A,Georgetown,NA,Big East,L,84,87,NA,17,1,L 1,Verizon Center
+2006,19,2006-01-26,Thu,REG,A,Virginia Tech,NA,ACC,W,80,67,NA,18,1,W 1,Cassell Coliseum
+2006,20,2006-01-28,Sat,REG,H,Virginia,NA,ACC,W,82,63,NA,19,1,W 2,Cameron Indoor Stadium
+2006,21,2006-02-01,Wed,REG,A,Boston College,15,ACC,W,83,81,NA,20,1,W 3,Silvio O. Conte Forum
+2006,22,2006-02-04,Sat,REG,H,Florida State,NA,ACC,W,97,96,OT,21,1,W 4,Cameron Indoor Stadium
+2006,23,2006-02-07,Tue,REG,A,North Carolina,23,ACC,W,87,83,NA,22,1,W 5,Dean Smith Center
+2006,24,2006-02-11,Sat,REG,A,Maryland,NA,ACC,W,96,88,NA,23,1,W 6,Comcast Center
+2006,25,2006-02-14,Tue,REG,H,Wake Forest,NA,ACC,W,93,70,NA,24,1,W 7,Cameron Indoor Stadium
+2006,26,2006-02-19,Sun,REG,H,Miami,NA,ACC,W,92,71,NA,25,1,W 8,Cameron Indoor Stadium
+2006,27,2006-02-22,Wed,REG,A,Georgia Tech,NA,ACC,W,73,66,NA,26,1,W 9,Alexander Memorial Coliseum
+2006,28,2006-02-25,Sat,REG,N,Temple,NA,A-10,W,74,66,NA,27,1,W 10,Wells Fargo Center
+2006,29,2006-03-01,Wed,REG,A,Florida State,NA,ACC,L,74,79,NA,27,2,L 1,Donald L. Tucker Center
+2006,30,2006-03-04,Sat,REG,H,North Carolina,13,ACC,L,76,83,NA,27,3,L 2,Cameron Indoor Stadium
+2006,31,2006-03-10,Fri,CTOURN,N,Miami,NA,ACC,W,80,76,NA,28,3,W 1,Greensboro Coliseum
+2006,32,2006-03-11,Sat,CTOURN,N,Wake Forest,NA,ACC,W,78,66,NA,29,3,W 2,Greensboro Coliseum
+2006,33,2006-03-12,Sun,CTOURN,N,Boston College,11,ACC,W,78,76,NA,30,3,W 3,Greensboro Coliseum
+2006,34,2006-03-16,Thu,NCAA,N,Southern,NA,SWAC,W,70,54,NA,31,3,W 4,Greensboro Coliseum
+2006,35,2006-03-18,Sat,NCAA,N,George Washington,14,A-10,W,74,61,NA,32,3,W 5,Greensboro Coliseum
+2006,36,2006-03-23,Thu,NCAA,N,Louisiana State,19,SEC,L,54,62,NA,32,4,L 1,Georgia Dome
+2007,1,2006-11-12,Sun,REG,H,Columbia,NA,Ivy,W,86,43,NA,1,0,W 1,Cameron Indoor Stadium
+2007,2,2006-11-13,Mon,REG,H,Georgia Southern,NA,Southern,W,72,48,NA,2,0,W 2,Cameron Indoor Stadium
+2007,3,2006-11-16,Thu,REG,H,North Carolina-Greensboro,NA,Southern,W,75,48,NA,3,0,W 3,Cameron Indoor Stadium
+2007,4,2006-11-20,Mon,REG,N,Air Force,NA,MWC,W,71,56,NA,4,0,W 4,Municipal Auditorium
+2007,5,2006-11-21,Tue,REG,N,Marquette,13,Big East,L,62,73,NA,4,1,L 1,Municipal Auditorium
+2007,6,2006-11-25,Sat,REG,H,Davidson,NA,Southern,W,75,47,NA,5,1,W 1,Cameron Indoor Stadium
+2007,7,2006-11-28,Tue,REG,H,Indiana,NA,Big Ten,W,54,51,NA,6,1,W 2,Cameron Indoor Stadium
+2007,8,2006-12-02,Sat,REG,H,Georgetown,18,Big East,W,61,52,NA,7,1,W 3,Cameron Indoor Stadium
+2007,9,2006-12-06,Wed,REG,H,Holy Cross,NA,Patriot,W,57,45,NA,8,1,W 4,Cameron Indoor Stadium
+2007,10,2006-12-09,Sat,REG,H,George Mason,NA,CAA,W,69,53,NA,9,1,W 5,Cameron Indoor Stadium
+2007,11,2006-12-19,Tue,REG,H,Kent State,NA,MAC,W,79,72,NA,10,1,W 6,Cameron Indoor Stadium
+2007,12,2006-12-21,Thu,REG,N,Gonzaga,22,WCC,W,61,54,NA,11,1,W 7,Madison Square Garden (IV)
+2007,13,2006-12-31,Sun,REG,H,San Jose State,NA,WAC,W,70,51,NA,12,1,W 8,Cameron Indoor Stadium
+2007,14,2007-01-02,Tue,REG,H,Temple,NA,A-10,W,73,55,NA,13,1,W 9,Cameron Indoor Stadium
+2007,15,2007-01-06,Sat,REG,H,Virginia Tech,NA,ACC,L,67,69,OT,13,2,L 1,Cameron Indoor Stadium
+2007,16,2007-01-10,Wed,REG,A,Georgia Tech,NA,ACC,L,63,74,NA,13,3,L 2,Alexander Memorial Coliseum
+2007,17,2007-01-14,Sun,REG,A,Miami,NA,ACC,W,85,63,NA,14,3,W 1,BankUnited Center
+2007,18,2007-01-18,Thu,REG,H,Wake Forest,NA,ACC,W,62,40,NA,15,3,W 2,Cameron Indoor Stadium
+2007,19,2007-01-20,Sat,REG,A,North Carolina State,NA,ACC,W,79,56,NA,16,3,W 3,RBC Center
+2007,20,2007-01-25,Thu,REG,H,Clemson,19,ACC,W,68,66,NA,17,3,W 4,Cameron Indoor Stadium
+2007,21,2007-01-28,Sun,REG,H,Boston College,NA,ACC,W,75,61,NA,18,3,W 5,Cameron Indoor Stadium
+2007,22,2007-02-01,Thu,REG,A,Virginia,NA,ACC,L,66,68,OT,18,4,L 1,John Paul Jones Arena
+2007,23,2007-02-04,Sun,REG,H,Florida State,NA,ACC,L,67,68,NA,18,5,L 2,Cameron Indoor Stadium
+2007,24,2007-02-07,Wed,REG,H,North Carolina,5,ACC,L,73,79,NA,18,6,L 3,Cameron Indoor Stadium
+2007,25,2007-02-11,Sun,REG,A,Maryland,NA,ACC,L,60,72,NA,18,7,L 4,Comcast Center
+2007,26,2007-02-14,Wed,REG,A,Boston College,21,ACC,W,78,70,NA,19,7,W 1,Silvio O. Conte Forum
+2007,27,2007-02-18,Sun,REG,H,Georgia Tech,NA,ACC,W,71,62,NA,20,7,W 2,Cameron Indoor Stadium
+2007,28,2007-02-22,Thu,REG,A,Clemson,NA,ACC,W,71,66,NA,21,7,W 3,Littlejohn Coliseum
+2007,29,2007-02-25,Sun,REG,A,St. John's,NA,Big East,W,67,50,NA,22,7,W 4,Madison Square Garden (IV)
+2007,30,2007-02-28,Wed,REG,H,Maryland,24,ACC,L,77,85,NA,22,8,L 1,Cameron Indoor Stadium
+2007,31,2007-03-04,Sun,REG,A,North Carolina,8,ACC,L,72,86,NA,22,9,L 2,Dean Smith Center
+2007,32,2007-03-08,Thu,CTOURN,N,North Carolina State,NA,ACC,L,80,85,OT,22,10,L 3,St. Pete Times Forum
+2007,33,2007-03-15,Thu,NCAA,N,Virginia Commonwealth,NA,CAA,L,77,79,NA,22,11,L 4,HSBC Arena
+2008,1,2007-11-09,Fri,REG,H,North Carolina Central,NA,Ind,W,121,56,NA,1,0,W 1,Cameron Indoor Stadium
+2008,2,2007-11-12,Mon,REG,H,New Mexico State,NA,WAC,W,86,61,NA,2,0,W 2,Cameron Indoor Stadium
+2008,3,2007-11-19,Mon,REG,N,Princeton,NA,Ivy,W,83,61,NA,3,0,W 3,Lahaina Civic Center
+2008,4,2007-11-20,Tue,REG,N,Illinois,NA,Big Ten,W,79,66,NA,4,0,W 4,Lahaina Civic Center
+2008,5,2007-11-21,Wed,REG,N,Marquette,11,Big East,W,77,73,NA,5,0,W 5,Lahaina Civic Center
+2008,6,2007-11-25,Sun,REG,H,Eastern Kentucky,NA,OVC,W,78,43,NA,6,0,W 6,Cameron Indoor Stadium
+2008,7,2007-11-27,Tue,REG,H,Wisconsin,20,Big Ten,W,82,58,NA,7,0,W 7,Cameron Indoor Stadium
+2008,8,2007-12-01,Sat,REG,N,Davidson,NA,Southern,W,79,73,NA,8,0,W 8,Times Warner Cable Arena
+2008,9,2007-12-08,Sat,REG,H,Michigan,NA,Big Ten,W,95,67,NA,9,0,W 9,Cameron Indoor Stadium
+2008,10,2007-12-17,Mon,REG,H,Albany,NA,AEC,W,111,70,NA,10,0,W 10,Cameron Indoor Stadium
+2008,11,2007-12-20,Thu,REG,N,Pittsburgh,11,Big East,L,64,65,OT,10,1,L 1,Madison Square Garden (IV)
+2008,12,2008-01-06,Sun,REG,H,Cornell,NA,Ivy,W,81,67,NA,11,1,W 1,Cameron Indoor Stadium
+2008,13,2008-01-09,Wed,REG,N,Temple,NA,A-10,W,74,64,NA,12,1,W 2,Wells Fargo Center
+2008,14,2008-01-13,Sun,REG,H,Virginia,NA,ACC,W,87,65,NA,13,1,W 3,Cameron Indoor Stadium
+2008,15,2008-01-16,Wed,REG,A,Florida State,NA,ACC,W,70,57,NA,14,1,W 4,Donald L. Tucker Center
+2008,16,2008-01-19,Sat,REG,H,Clemson,24,ACC,W,93,80,NA,15,1,W 5,Cameron Indoor Stadium
+2008,17,2008-01-24,Thu,REG,A,Virginia Tech,NA,ACC,W,81,64,NA,16,1,W 6,Cassell Coliseum
+2008,18,2008-01-27,Sun,REG,A,Maryland,NA,ACC,W,93,84,NA,17,1,W 7,Comcast Center
+2008,19,2008-01-31,Thu,REG,H,North Carolina State,NA,ACC,W,92,72,NA,18,1,W 8,Cameron Indoor Stadium
+2008,20,2008-02-02,Sat,REG,H,Miami,NA,ACC,W,88,73,NA,19,1,W 9,Cameron Indoor Stadium
+2008,21,2008-02-06,Wed,REG,A,North Carolina,3,ACC,W,89,78,NA,20,1,W 10,Dean Smith Center
+2008,22,2008-02-09,Sat,REG,H,Boston College,NA,ACC,W,90,80,NA,21,1,W 11,Cameron Indoor Stadium
+2008,23,2008-02-13,Wed,REG,H,Maryland,NA,ACC,W,77,65,NA,22,1,W 12,Cameron Indoor Stadium
+2008,24,2008-02-17,Sun,REG,A,Wake Forest,NA,ACC,L,73,86,NA,22,2,L 1,Lawrence Joel Coliseum
+2008,25,2008-02-20,Wed,REG,A,Miami,NA,ACC,L,95,96,NA,22,3,L 2,BankUnited Center
+2008,26,2008-02-23,Sat,REG,H,St. John's,NA,Big East,W,86,56,NA,23,3,W 1,Cameron Indoor Stadium
+2008,27,2008-02-27,Wed,REG,H,Georgia Tech,NA,ACC,W,71,58,NA,24,3,W 2,Cameron Indoor Stadium
+2008,28,2008-03-01,Sat,REG,A,North Carolina State,NA,ACC,W,87,86,NA,25,3,W 3,RBC Center
+2008,29,2008-03-05,Wed,REG,A,Virginia,NA,ACC,W,86,70,NA,26,3,W 4,John Paul Jones Arena
+2008,30,2008-03-08,Sat,REG,H,North Carolina,1,ACC,L,68,76,NA,26,4,L 1,Cameron Indoor Stadium
+2008,31,2008-03-14,Fri,CTOURN,N,Georgia Tech,NA,ACC,W,82,70,NA,27,4,W 1,Times Warner Cable Arena
+2008,32,2008-03-15,Sat,CTOURN,N,Clemson,NA,ACC,L,74,78,NA,27,5,L 1,Times Warner Cable Arena
+2008,33,2008-03-20,Thu,NCAA,N,Belmont,NA,A-Sun,W,71,70,NA,28,5,W 1,NA
+2008,34,2008-03-22,Sat,NCAA,N,West Virginia,NA,Big East,L,67,73,NA,28,6,L 1,Verizon Center
+2009,1,2008-11-10,Mon,REG,H,Presbyterian,NA,Big South,W,80,49,NA,1,0,W 1,Cameron Indoor Stadium
+2009,2,2008-11-11,Tue,REG,H,Georgia Southern,NA,Southern,W,97,54,NA,2,0,W 2,Cameron Indoor Stadium
+2009,3,2008-11-16,Sun,REG,H,Rhode Island,NA,A-10,W,82,79,NA,3,0,W 3,Cameron Indoor Stadium
+2009,4,2008-11-20,Thu,REG,N,Southern Illinois,NA,MVC,W,83,58,NA,4,0,W 4,Madison Square Garden (IV)
+2009,5,2008-11-21,Fri,REG,N,Michigan,NA,Big Ten,W,71,56,NA,5,0,W 5,Madison Square Garden (IV)
+2009,6,2008-11-23,Sun,REG,H,Montana,NA,Big Sky,W,78,58,NA,6,0,W 6,Cameron Indoor Stadium
+2009,7,2008-11-28,Fri,REG,H,Duquesne,NA,A-10,W,95,72,NA,7,0,W 7,Cameron Indoor Stadium
+2009,8,2008-12-02,Tue,REG,A,Purdue,9,Big Ten,W,76,60,NA,8,0,W 8,Mackey Arena
+2009,9,2008-12-06,Sat,REG,A,Michigan,NA,Big Ten,L,73,81,NA,8,1,L 1,Crisler Arena
+2009,10,2008-12-17,Wed,REG,H,North Carolina-Asheville,NA,Big South,W,99,56,NA,9,1,W 1,Cameron Indoor Stadium
+2009,11,2008-12-20,Sat,REG,N,Xavier,7,A-10,W,82,64,NA,10,1,W 2,Izod Center
+2009,12,2008-12-31,Wed,REG,H,Loyola,NA,MAAC,W,92,51,NA,11,1,W 3,Cameron Indoor Stadium
+2009,13,2009-01-04,Sun,REG,H,Virginia Tech,NA,ACC,W,69,44,NA,12,1,W 4,Cameron Indoor Stadium
+2009,14,2009-01-07,Wed,REG,H,Davidson,NA,Southern,W,79,67,NA,13,1,W 5,Cameron Indoor Stadium
+2009,15,2009-01-10,Sat,REG,A,Florida State,NA,ACC,W,66,58,NA,14,1,W 6,Donald L. Tucker Center
+2009,16,2009-01-14,Wed,REG,A,Georgia Tech,NA,ACC,W,70,56,NA,15,1,W 7,Alexander Memorial Coliseum
+2009,17,2009-01-17,Sat,REG,H,Georgetown,13,Big East,W,76,67,NA,16,1,W 8,Cameron Indoor Stadium
+2009,18,2009-01-20,Tue,REG,H,North Carolina State,NA,ACC,W,73,56,NA,17,1,W 9,Cameron Indoor Stadium
+2009,19,2009-01-24,Sat,REG,H,Maryland,NA,ACC,W,85,44,NA,18,1,W 10,Cameron Indoor Stadium
+2009,20,2009-01-28,Wed,REG,A,Wake Forest,6,ACC,L,68,70,NA,18,2,L 1,Lawrence Joel Coliseum
+2009,21,2009-02-01,Sun,REG,H,Virginia,NA,ACC,W,79,54,NA,19,2,W 1,Cameron Indoor Stadium
+2009,22,2009-02-04,Wed,REG,A,Clemson,10,ACC,L,47,74,NA,19,3,L 1,Littlejohn Coliseum
+2009,23,2009-02-07,Sat,REG,H,Miami,NA,ACC,W,78,75,OT,20,3,W 1,Cameron Indoor Stadium
+2009,24,2009-02-11,Wed,REG,H,North Carolina,3,ACC,L,87,101,NA,20,4,L 1,Cameron Indoor Stadium
+2009,25,2009-02-15,Sun,REG,A,Boston College,NA,ACC,L,74,80,NA,20,5,L 2,Silvio O. Conte Forum
+2009,26,2009-02-19,Thu,REG,A,St. John's,NA,Big East,W,76,69,NA,21,5,W 1,Madison Square Garden (IV)
+2009,27,2009-02-22,Sun,REG,H,Wake Forest,8,ACC,W,101,91,NA,22,5,W 2,Cameron Indoor Stadium
+2009,28,2009-02-25,Wed,REG,A,Maryland,NA,ACC,W,78,67,NA,23,5,W 3,Comcast Center
+2009,29,2009-02-28,Sat,REG,A,Virginia Tech,NA,ACC,W,72,65,NA,24,5,W 4,Cassell Coliseum
+2009,30,2009-03-03,Tue,REG,H,Florida State,24,ACC,W,84,81,NA,25,5,W 5,Cameron Indoor Stadium
+2009,31,2009-03-08,Sun,REG,A,North Carolina,2,ACC,L,71,79,NA,25,6,L 1,Dean Smith Center
+2009,32,2009-03-13,Fri,CTOURN,N,Boston College,NA,ACC,W,66,65,NA,26,6,W 1,Georgia Dome
+2009,33,2009-03-14,Sat,CTOURN,N,Maryland,NA,ACC,W,67,61,NA,27,6,W 2,Georgia Dome
+2009,34,2009-03-15,Sun,CTOURN,N,Florida State,22,ACC,W,79,69,NA,28,6,W 3,Georgia Dome
+2009,35,2009-03-19,Thu,NCAA,N,Binghamton,NA,AEC,W,86,62,NA,29,6,W 4,NA
+2009,36,2009-03-21,Sat,NCAA,N,Texas,NA,Big 12,W,74,69,NA,30,6,W 5,Greensboro Coliseum
+2009,37,2009-03-26,Thu,NCAA,N,Villanova,11,Big East,L,54,77,NA,30,7,L 1,TD Garden
+2010,1,2009-11-13,Fri,REG,H,North Carolina-Greensboro,NA,Southern,W,96,62,NA,1,0,W 1,Cameron Indoor Stadium
+2010,2,2009-11-16,Mon,REG,H,Coastal Carolina,NA,Big South,W,74,49,NA,2,0,W 2,Cameron Indoor Stadium
+2010,3,2009-11-17,Tue,REG,H,Charlotte,NA,A-10,W,101,59,NA,3,0,W 3,Cameron Indoor Stadium
+2010,4,2009-11-21,Sat,REG,H,Radford,NA,Big South,W,104,67,NA,4,0,W 4,Cameron Indoor Stadium
+2010,5,2009-11-25,Wed,REG,N,Arizona State,NA,Pac-10,W,64,53,NA,5,0,W 5,Madison Square Garden (IV)
+2010,6,2009-11-27,Fri,REG,N,Connecticut,13,Big East,W,68,59,NA,6,0,W 6,Madison Square Garden (IV)
+2010,7,2009-12-02,Wed,REG,A,Wisconsin,NA,Big Ten,L,69,73,NA,6,1,L 1,Kohl Center
+2010,8,2009-12-05,Sat,REG,H,St. John's,NA,Big East,W,80,71,NA,7,1,W 1,Cameron Indoor Stadium
+2010,9,2009-12-15,Tue,REG,H,Gardner-Webb,NA,Big South,W,113,68,NA,8,1,W 2,Cameron Indoor Stadium
+2010,10,2009-12-19,Sat,REG,N,Gonzaga,15,WCC,W,76,41,NA,9,1,W 3,Madison Square Garden (IV)
+2010,11,2009-12-29,Tue,REG,H,Long Beach State,NA,Big West,W,84,63,NA,10,1,W 4,Cameron Indoor Stadium
+2010,12,2009-12-31,Thu,REG,H,Pennsylvania,NA,Ivy,W,114,55,NA,11,1,W 5,Cameron Indoor Stadium
+2010,13,2010-01-03,Sun,REG,H,Clemson,21,ACC,W,74,53,NA,12,1,W 6,Cameron Indoor Stadium
+2010,14,2010-01-06,Wed,REG,N,Iowa State,NA,Big 12,W,86,65,NA,13,1,W 7,United Center
+2010,15,2010-01-09,Sat,REG,A,Georgia Tech,20,ACC,L,67,71,NA,13,2,L 1,Alexander Memorial Coliseum
+2010,16,2010-01-13,Wed,REG,H,Boston College,NA,ACC,W,79,59,NA,14,2,W 1,Cameron Indoor Stadium
+2010,17,2010-01-17,Sun,REG,H,Wake Forest,NA,ACC,W,90,70,NA,15,2,W 2,Cameron Indoor Stadium
+2010,18,2010-01-20,Wed,REG,A,North Carolina State,NA,ACC,L,74,88,NA,15,3,L 1,RBC Center
+2010,19,2010-01-23,Sat,REG,A,Clemson,17,ACC,W,60,47,NA,16,3,W 1,Littlejohn Coliseum
+2010,20,2010-01-27,Wed,REG,H,Florida State,NA,ACC,W,70,56,NA,17,3,W 2,Cameron Indoor Stadium
+2010,21,2010-01-30,Sat,REG,A,Georgetown,7,Big East,L,77,89,NA,17,4,L 1,Verizon Center
+2010,22,2010-02-04,Thu,REG,H,Georgia Tech,21,ACC,W,86,67,NA,18,4,W 1,Cameron Indoor Stadium
+2010,23,2010-02-06,Sat,REG,A,Boston College,NA,ACC,W,66,63,NA,19,4,W 2,Silvio O. Conte Forum
+2010,24,2010-02-10,Wed,REG,A,North Carolina,NA,ACC,W,64,54,NA,20,4,W 3,Dean Smith Center
+2010,25,2010-02-13,Sat,REG,H,Maryland,NA,ACC,W,77,56,NA,21,4,W 4,Cameron Indoor Stadium
+2010,26,2010-02-17,Wed,REG,A,Miami,NA,ACC,W,81,74,NA,22,4,W 5,BankUnited Center
+2010,27,2010-02-21,Sun,REG,H,Virginia Tech,NA,ACC,W,67,55,NA,23,4,W 6,Cameron Indoor Stadium
+2010,28,2010-02-25,Thu,REG,H,Tulsa,NA,CUSA,W,70,52,NA,24,4,W 7,Cameron Indoor Stadium
+2010,29,2010-02-28,Sun,REG,A,Virginia,NA,ACC,W,67,49,NA,25,4,W 8,John Paul Jones Arena
+2010,30,2010-03-03,Wed,REG,A,Maryland,22,ACC,L,72,79,NA,25,5,L 1,Comcast Center
+2010,31,2010-03-06,Sat,REG,H,North Carolina,NA,ACC,W,82,50,NA,26,5,W 1,Cameron Indoor Stadium
+2010,32,2010-03-12,Fri,CTOURN,N,Virginia,NA,ACC,W,57,46,NA,27,5,W 2,Greensboro Coliseum
+2010,33,2010-03-13,Sat,CTOURN,N,Miami,NA,ACC,W,77,74,NA,28,5,W 3,Greensboro Coliseum
+2010,34,2010-03-14,Sun,CTOURN,N,Georgia Tech,NA,ACC,W,65,61,NA,29,5,W 4,Greensboro Coliseum
+2010,35,2010-03-19,Fri,NCAA,N,Arkansas-Pine Bluff,NA,SWAC,W,73,44,NA,30,5,W 5,Jacksonville Veteran's Memorial Arena
+2010,36,2010-03-21,Sun,NCAA,N,University of California,NA,Pac-10,W,68,53,NA,31,5,W 6,Jacksonville Veteran's Memorial Arena
+2010,37,2010-03-26,Fri,NCAA,N,Purdue,10,Big Ten,W,70,57,NA,32,5,W 7,NA
+2010,38,2010-03-28,Sun,NCAA,N,Baylor,19,Big 12,W,78,71,NA,33,5,W 8,Reliant Stadium
+2010,39,2010-04-03,Sat,NCAA,N,West Virginia,6,Big East,W,78,57,NA,34,5,W 9,NA
+2010,40,2010-04-05,Mon,NCAA,N,Butler,11,Horizon,W,61,59,NA,35,5,W 10,Lucas Oil Stadium
+2011,1,2010-11-14,Sun,REG,H,Princeton,NA,Ivy,W,97,60,NA,1,0,W 1,Cameron Indoor Stadium
+2011,2,2010-11-16,Tue,REG,H,Miami,NA,MAC,W,79,45,NA,2,0,W 2,Cameron Indoor Stadium
+2011,3,2010-11-19,Fri,REG,H,Colgate,NA,Patriot,W,110,58,NA,3,0,W 3,Cameron Indoor Stadium
+2011,4,2010-11-22,Mon,REG,N,Marquette,NA,Big East,W,82,77,NA,4,0,W 4,Sprint Center
+2011,5,2010-11-23,Tue,REG,N,Kansas State,4,Big 12,W,82,68,NA,5,0,W 5,Sprint Center
+2011,6,2010-11-27,Sat,REG,N,Oregon,NA,Pac-10,W,98,71,NA,6,0,W 6,McArthur Court
+2011,7,2010-12-01,Wed,REG,H,Michigan State,6,Big Ten,W,84,79,NA,7,0,W 7,Cameron Indoor Stadium
+2011,8,2010-12-04,Sat,REG,N,Butler,NA,Horizon,W,82,70,NA,8,0,W 8,NA
+2011,9,2010-12-08,Wed,REG,H,Bradley,NA,MVC,W,83,48,NA,9,0,W 9,Cameron Indoor Stadium
+2011,10,2010-12-11,Sat,REG,H,Saint Louis,NA,A-10,W,84,47,NA,10,0,W 10,Cameron Indoor Stadium
+2011,11,2010-12-20,Mon,REG,H,Elon,NA,Southern,W,98,72,NA,11,0,W 11,Cameron Indoor Stadium
+2011,12,2010-12-29,Wed,REG,A,North Carolina-Greensboro,NA,Southern,W,108,62,NA,12,0,W 12,Fleming Gymnasium
+2011,13,2011-01-02,Sun,REG,H,Miami,NA,ACC,W,74,63,NA,13,0,W 13,Cameron Indoor Stadium
+2011,14,2011-01-05,Wed,REG,H,Alabama-Birmingham,NA,CUSA,W,85,64,NA,14,0,W 14,Cameron Indoor Stadium
+2011,15,2011-01-09,Sun,REG,H,Maryland,NA,ACC,W,71,64,NA,15,0,W 15,Cameron Indoor Stadium
+2011,16,2011-01-12,Wed,REG,A,Florida State,NA,ACC,L,61,66,NA,15,1,L 1,Donald L. Tucker Center
+2011,17,2011-01-15,Sat,REG,H,Virginia,NA,ACC,W,76,60,NA,16,1,W 1,Cameron Indoor Stadium
+2011,18,2011-01-19,Wed,REG,A,North Carolina State,NA,ACC,W,92,78,NA,17,1,W 2,RBC Center
+2011,19,2011-01-22,Sat,REG,A,Wake Forest,NA,ACC,W,83,59,NA,18,1,W 3,Lawrence Joel Coliseum
+2011,20,2011-01-27,Thu,REG,H,Boston College,NA,ACC,W,84,68,NA,19,1,W 4,Cameron Indoor Stadium
+2011,21,2011-01-30,Sun,REG,A,St. John's,NA,Big East,L,78,93,NA,19,2,L 1,Madison Square Garden (IV)
+2011,22,2011-02-02,Wed,REG,A,Maryland,NA,ACC,W,80,62,NA,20,2,W 1,Comcast Center
+2011,23,2011-02-05,Sat,REG,H,North Carolina State,NA,ACC,W,76,52,NA,21,2,W 2,Cameron Indoor Stadium
+2011,24,2011-02-09,Wed,REG,H,North Carolina,20,ACC,W,79,73,NA,22,2,W 3,Cameron Indoor Stadium
+2011,25,2011-02-13,Sun,REG,A,Miami,NA,ACC,W,81,71,NA,23,2,W 4,BankUnited Center
+2011,26,2011-02-16,Wed,REG,A,Virginia,NA,ACC,W,56,41,NA,24,2,W 5,John Paul Jones Arena
+2011,27,2011-02-20,Sun,REG,H,Georgia Tech,NA,ACC,W,79,57,NA,25,2,W 6,Cameron Indoor Stadium
+2011,28,2011-02-23,Wed,REG,H,Temple,24,A-10,W,78,61,NA,26,2,W 7,Cameron Indoor Stadium
+2011,29,2011-02-26,Sat,REG,A,Virginia Tech,NA,ACC,L,60,64,NA,26,3,L 1,Cassell Coliseum
+2011,30,2011-03-02,Wed,REG,H,Clemson,NA,ACC,W,70,59,NA,27,3,W 1,Cameron Indoor Stadium
+2011,31,2011-03-05,Sat,REG,A,North Carolina,13,ACC,L,67,81,NA,27,4,L 1,Dean Smith Center
+2011,32,2011-03-11,Fri,CTOURN,N,Maryland,NA,ACC,W,87,71,NA,28,4,W 1,NA
+2011,33,2011-03-12,Sat,CTOURN,N,Virginia Tech,NA,ACC,W,77,63,NA,29,4,W 2,NA
+2011,34,2011-03-13,Sun,CTOURN,N,North Carolina,6,ACC,W,75,58,NA,30,4,W 3,Greensboro Coliseum
+2011,35,2011-03-18,Fri,NCAA,N,Hampton,NA,MEAC,W,87,45,NA,31,4,W 4,Times Warner Cable Arena
+2011,36,2011-03-20,Sun,NCAA,N,Michigan,NA,Big Ten,W,73,71,NA,32,4,W 5,Times Warner Cable Arena
+2011,37,2011-03-24,Thu,NCAA,N,Arizona,17,Pac-10,L,77,93,NA,32,5,L 1,NA
+2012,1,2011-11-11,Fri,REG,H,Belmont,NA,A-Sun,W,77,76,NA,1,0,W 1,Cameron Indoor Stadium
+2012,2,2011-11-12,Sat,REG,H,Presbyterian,NA,Big South,W,96,55,NA,2,0,W 2,Cameron Indoor Stadium
+2012,3,2011-11-15,Tue,REG,N,Michigan State,NA,Big Ten,W,74,69,NA,3,0,W 3,NA
+2012,4,2011-11-18,Fri,REG,H,Davidson,NA,Southern,W,82,69,NA,4,0,W 4,Cameron Indoor Stadium
+2012,5,2011-11-21,Mon,REG,N,Tennessee,NA,SEC,W,77,67,NA,5,0,W 5,NA
+2012,6,2011-11-22,Tue,REG,N,Michigan,15,Big Ten,W,82,75,NA,6,0,W 6,NA
+2012,7,2011-11-23,Wed,REG,N,Kansas,14,Big 12,W,68,61,NA,7,0,W 7,NA
+2012,8,2011-11-29,Tue,REG,A,Ohio State,2,Big Ten,L,63,85,NA,7,1,L 1,Value City Arena
+2012,9,2011-12-07,Wed,REG,H,Colorado State,NA,MWC,W,87,64,NA,8,1,W 1,Cameron Indoor Stadium
+2012,10,2011-12-10,Sat,REG,N,Washington,NA,Pac-12,W,86,80,NA,9,1,W 2,NA
+2012,11,2011-12-19,Mon,REG,H,North Carolina-Greensboro,NA,Southern,W,90,63,NA,10,1,W 3,Cameron Indoor Stadium
+2012,12,2011-12-30,Fri,REG,H,Western Michigan,NA,MAC,W,110,70,NA,11,1,W 4,Cameron Indoor Stadium
+2012,13,2012-01-01,Sun,REG,H,Pennsylvania,NA,Ivy,W,85,55,NA,12,1,W 5,Cameron Indoor Stadium
+2012,14,2012-01-04,Wed,REG,N,Temple,NA,A-10,L,73,78,NA,12,2,L 1,NA
+2012,15,2012-01-07,Sat,REG,A,Georgia Tech,NA,ACC,W,81,74,NA,13,2,W 1,Philips Arena
+2012,16,2012-01-12,Thu,REG,H,Virginia,16,ACC,W,61,58,NA,14,2,W 2,Cameron Indoor Stadium
+2012,17,2012-01-15,Sun,REG,A,Clemson,NA,ACC,W,73,66,NA,15,2,W 3,Littlejohn Coliseum
+2012,18,2012-01-19,Thu,REG,H,Wake Forest,NA,ACC,W,91,73,NA,16,2,W 4,Cameron Indoor Stadium
+2012,19,2012-01-21,Sat,REG,H,Florida State,NA,ACC,L,73,76,NA,16,3,L 1,Cameron Indoor Stadium
+2012,20,2012-01-25,Wed,REG,A,Maryland,NA,ACC,W,74,61,NA,17,3,W 1,Comcast Center
+2012,21,2012-01-28,Sat,REG,H,St. John's,NA,Big East,W,83,76,NA,18,3,W 2,Cameron Indoor Stadium
+2012,22,2012-02-02,Thu,REG,A,Virginia Tech,NA,ACC,W,75,60,NA,19,3,W 3,Cassell Coliseum
+2012,23,2012-02-05,Sun,REG,H,Miami,NA,ACC,L,74,78,OT,19,4,L 1,Cameron Indoor Stadium
+2012,24,2012-02-08,Wed,REG,A,North Carolina,5,ACC,W,85,84,NA,20,4,W 1,Dean Smith Center
+2012,25,2012-02-11,Sat,REG,H,Maryland,NA,ACC,W,73,55,NA,21,4,W 2,Cameron Indoor Stadium
+2012,26,2012-02-16,Thu,REG,H,North Carolina State,NA,ACC,W,78,73,NA,22,4,W 3,Cameron Indoor Stadium
+2012,27,2012-02-19,Sun,REG,A,Boston College,NA,ACC,W,75,50,NA,23,4,W 4,Silvio O. Conte Forum
+2012,28,2012-02-23,Thu,REG,A,Florida State,15,ACC,W,74,66,NA,24,4,W 5,Donald L. Tucker Center
+2012,29,2012-02-25,Sat,REG,H,Virginia Tech,NA,ACC,W,70,65,OT,25,4,W 6,Cameron Indoor Stadium
+2012,30,2012-02-28,Tue,REG,A,Wake Forest,NA,ACC,W,79,71,NA,26,4,W 7,Lawrence Joel Coliseum
+2012,31,2012-03-03,Sat,REG,H,North Carolina,6,ACC,L,70,88,NA,26,5,L 1,Cameron Indoor Stadium
+2012,32,2012-03-09,Fri,CTOURN,N,Virginia Tech,NA,ACC,W,60,56,NA,27,5,W 1,NA
+2012,33,2012-03-10,Sat,CTOURN,N,Florida State,17,ACC,L,59,62,NA,27,6,L 1,Philips Arena
+2012,34,2012-03-16,Fri,NCAA,N,Lehigh,NA,Patriot,L,70,75,NA,27,7,L 2,Greensboro Coliseum
+2013,1,2012-11-09,Fri,REG,H,Georgia State,NA,CAA,W,74,55,NA,1,0,W 1,Cameron Indoor Stadium
+2013,2,2012-11-13,Tue,REG,N,Kentucky,3,SEC,W,75,68,NA,2,0,W 2,NA
+2013,3,2012-11-18,Sun,REG,H,Florida Gulf Coast,NA,A-Sun,W,88,67,NA,3,0,W 3,Cameron Indoor Stadium
+2013,4,2012-11-22,Thu,REG,N,Minnesota,NA,Big Ten,W,89,71,NA,4,0,W 4,NA
+2013,5,2012-11-23,Fri,REG,N,Virginia Commonwealth,NA,A-10,W,67,58,NA,5,0,W 5,NA
+2013,6,2012-11-24,Sat,REG,N,Louisville,2,Big East,W,76,71,NA,6,0,W 6,NA
+2013,7,2012-11-28,Wed,REG,H,Ohio State,4,Big Ten,W,73,68,NA,7,0,W 7,Cameron Indoor Stadium
+2013,8,2012-12-01,Sat,REG,H,Delaware,NA,CAA,W,88,50,NA,8,0,W 8,Cameron Indoor Stadium
+2013,9,2012-12-08,Sat,REG,N,Temple,NA,A-10,W,90,67,NA,9,0,W 9,NA
+2013,10,2012-12-19,Wed,REG,H,Cornell,NA,Ivy,W,88,47,NA,10,0,W 10,Cameron Indoor Stadium
+2013,11,2012-12-20,Thu,REG,H,Elon,NA,Southern,W,76,54,NA,11,0,W 11,Cameron Indoor Stadium
+2013,12,2012-12-29,Sat,REG,H,Santa Clara,NA,WCC,W,90,77,NA,12,0,W 12,Cameron Indoor Stadium
+2013,13,2013-01-02,Wed,REG,N,Davidson,NA,Southern,W,67,50,NA,13,0,W 13,Times Warner Cable Arena
+2013,14,2013-01-05,Sat,REG,H,Wake Forest,NA,ACC,W,80,62,NA,14,0,W 14,Cameron Indoor Stadium
+2013,15,2013-01-08,Tue,REG,H,Clemson,NA,ACC,W,68,40,NA,15,0,W 15,Cameron Indoor Stadium
+2013,16,2013-01-12,Sat,REG,A,North Carolina State,20,ACC,L,76,84,NA,15,1,L 1,RBC Center
+2013,17,2013-01-17,Thu,REG,H,Georgia Tech,NA,ACC,W,73,57,NA,16,1,W 1,Cameron Indoor Stadium
+2013,18,2013-01-23,Wed,REG,A,Miami,25,ACC,L,63,90,NA,16,2,L 1,BankUnited Center
+2013,19,2013-01-26,Sat,REG,H,Maryland,NA,ACC,W,84,64,NA,17,2,W 1,Cameron Indoor Stadium
+2013,20,2013-01-30,Wed,REG,A,Wake Forest,NA,ACC,W,75,70,NA,18,2,W 2,Lawrence Joel Coliseum
+2013,21,2013-02-02,Sat,REG,A,Florida State,NA,ACC,W,79,60,NA,19,2,W 3,Donald L. Tucker Center
+2013,22,2013-02-07,Thu,REG,H,North Carolina State,NA,ACC,W,98,85,NA,20,2,W 4,Cameron Indoor Stadium
+2013,23,2013-02-10,Sun,REG,A,Boston College,NA,ACC,W,62,61,NA,21,2,W 5,Silvio O. Conte Forum
+2013,24,2013-02-13,Wed,REG,H,North Carolina,NA,ACC,W,73,68,NA,22,2,W 6,Cameron Indoor Stadium
+2013,25,2013-02-16,Sat,REG,A,Maryland,NA,ACC,L,81,83,NA,22,3,L 1,Comcast Center
+2013,26,2013-02-21,Thu,REG,A,Virginia Tech,NA,ACC,W,88,56,NA,23,3,W 1,Cassell Coliseum
+2013,27,2013-02-24,Sun,REG,H,Boston College,NA,ACC,W,89,68,NA,24,3,W 2,Cameron Indoor Stadium
+2013,28,2013-02-28,Thu,REG,A,Virginia,NA,ACC,L,68,73,NA,24,4,L 1,John Paul Jones Arena
+2013,29,2013-03-02,Sat,REG,H,Miami,5,ACC,W,79,76,NA,25,4,W 1,Cameron Indoor Stadium
+2013,30,2013-03-05,Tue,REG,H,Virginia Tech,NA,ACC,W,85,57,NA,26,4,W 2,Cameron Indoor Stadium
+2013,31,2013-03-09,Sat,REG,A,North Carolina,NA,ACC,W,69,53,NA,27,4,W 3,Dean Smith Center
+2013,32,2013-03-15,Fri,CTOURN,N,Maryland,NA,ACC,L,74,83,NA,27,5,L 1,Greensboro Coliseum
+2013,33,2013-03-22,Fri,NCAA,N,Albany,NA,AEC,W,73,61,NA,28,5,W 1,Wells Fargo Center
+2013,34,2013-03-24,Sun,NCAA,N,Creighton,22,MVC,W,66,50,NA,29,5,W 2,Wells Fargo Center
+2013,35,2013-03-29,Fri,NCAA,N,Michigan State,9,Big Ten,W,71,61,NA,30,5,W 3,NA
+2013,36,2013-03-31,Sun,NCAA,N,Louisville,2,Big East,L,63,85,NA,30,6,L 1,Lucas Oil Stadium
+2014,1,2013-11-08,Fri,REG,H,Davidson,NA,Southern,W,111,77,NA,1,0,W 1,Cameron Indoor Stadium
+2014,2,2013-11-12,Tue,REG,N,Kansas,5,Big 12,L,83,94,NA,1,1,L 1,United Center
+2014,3,2013-11-15,Fri,REG,H,Florida Atlantic,NA,CUSA,W,97,64,NA,2,1,W 1,Cameron Indoor Stadium
+2014,4,2013-11-18,Mon,REG,H,North Carolina-Asheville,NA,Big South,W,91,55,NA,3,1,W 2,Cameron Indoor Stadium
+2014,5,2013-11-19,Tue,REG,H,East Carolina,NA,CUSA,W,83,74,NA,4,1,W 3,Cameron Indoor Stadium
+2014,6,2013-11-24,Sun,REG,H,Vermont,NA,AEC,W,91,90,NA,5,1,W 4,Cameron Indoor Stadium
+2014,7,2013-11-27,Wed,REG,N,Alabama,NA,SEC,W,74,64,NA,6,1,W 5,Madison Square Garden (IV)
+2014,8,2013-11-29,Fri,REG,N,Arizona,4,Pac-12,L,66,72,NA,6,2,L 1,NA
+2014,9,2013-12-03,Tue,REG,H,Michigan,22,Big Ten,W,79,69,NA,7,2,W 1,Cameron Indoor Stadium
+2014,10,2013-12-16,Mon,REG,H,Gardner-Webb,NA,Big South,W,85,66,NA,8,2,W 2,Cameron Indoor Stadium
+2014,11,2013-12-19,Thu,REG,N,UCLA,NA,Pac-12,W,80,63,NA,9,2,W 3,NA
+2014,12,2013-12-28,Sat,REG,H,Eastern Michigan,NA,MAC,W,82,59,NA,10,2,W 4,Cameron Indoor Stadium
+2014,13,2013-12-31,Tue,REG,N,Elon,NA,Southern,W,86,48,NA,11,2,W 5,NA
+2014,14,2014-01-04,Sat,REG,A,Notre Dame,NA,ACC,L,77,79,NA,11,3,L 1,Purcell Pavilion at the Joyce Center
+2014,15,2014-01-07,Tue,REG,H,Georgia Tech,NA,ACC,W,79,57,NA,12,3,W 1,Cameron Indoor Stadium
+2014,16,2014-01-11,Sat,REG,A,Clemson,NA,ACC,L,59,72,NA,12,4,L 1,Littlejohn Coliseum
+2014,17,2014-01-13,Mon,REG,H,Virginia,NA,ACC,W,69,65,NA,13,4,W 1,Cameron Indoor Stadium
+2014,18,2014-01-18,Sat,REG,H,North Carolina State,NA,ACC,W,95,60,NA,14,4,W 2,Cameron Indoor Stadium
+2014,19,2014-01-22,Wed,REG,A,Miami,NA,ACC,W,67,46,NA,15,4,W 3,BankUnited Center
+2014,20,2014-01-25,Sat,REG,H,Florida State,NA,ACC,W,78,56,NA,16,4,W 4,Cameron Indoor Stadium
+2014,21,2014-01-27,Mon,REG,A,Pittsburgh,18,ACC,W,80,65,NA,17,4,W 5,Petersen Events Center
+2014,22,2014-02-01,Sat,REG,A,Syracuse,2,ACC,L,89,91,OT,17,5,L 1,Carrier Dome
+2014,23,2014-02-04,Tue,REG,H,Wake Forest,NA,ACC,W,83,63,NA,18,5,W 1,Cameron Indoor Stadium
+2014,24,2014-02-08,Sat,REG,A,Boston College,NA,ACC,W,89,68,NA,19,5,W 2,Silvio O. Conte Forum
+2014,25,2014-02-15,Sat,REG,H,Maryland,NA,ACC,W,69,67,NA,20,5,W 3,Cameron Indoor Stadium
+2014,26,2014-02-18,Tue,REG,A,Georgia Tech,NA,ACC,W,68,51,NA,21,5,W 4,McCamish Pavilion
+2014,27,2014-02-20,Thu,REG,A,North Carolina,NA,ACC,L,66,74,NA,21,6,L 1,Dean Smith Center
+2014,28,2014-02-22,Sat,REG,H,Syracuse,1,ACC,W,66,60,NA,22,6,W 1,Cameron Indoor Stadium
+2014,29,2014-02-25,Tue,REG,H,Virginia Tech,NA,ACC,W,66,48,NA,23,6,W 2,Cameron Indoor Stadium
+2014,30,2014-03-05,Wed,REG,A,Wake Forest,NA,ACC,L,72,82,NA,23,7,L 1,Lawrence Joel Coliseum
+2014,31,2014-03-08,Sat,REG,H,North Carolina,14,ACC,W,93,81,NA,24,7,W 1,Cameron Indoor Stadium
+2014,32,2014-03-14,Fri,CTOURN,N,Clemson,NA,ACC,W,63,62,NA,25,7,W 2,Greensboro Coliseum
+2014,33,2014-03-15,Sat,CTOURN,N,North Carolina State,NA,ACC,W,75,67,NA,26,7,W 3,NA
+2014,34,2014-03-16,Sun,CTOURN,N,Virginia,6,ACC,L,63,72,NA,26,8,L 1,Greensboro Coliseum
+2014,35,2014-03-21,Fri,NCAA,N,Mercer,NA,A-Sun,L,71,78,NA,26,9,L 2,RBC Center
+2015,1,2014-11-14,Fri,REG,H,Presbyterian,NA,Big South,W,113,44,NA,1,0,W 1,NA
+2015,2,2014-11-15,Sat,REG,H,Fairfield,NA,MAAC,W,109,59,NA,2,0,W 2,NA
+2015,3,2014-11-18,Tue,REG,N,Michigan State,19,Big Ten,W,81,71,NA,3,0,W 3,NA
+2015,4,2014-11-21,Fri,REG,N,Temple,NA,AAC,W,74,54,NA,4,0,W 4,NA
+2015,5,2014-11-22,Sat,REG,N,Stanford,NA,Pac-12,W,70,59,NA,5,0,W 5,NA
+2015,6,2014-11-26,Wed,REG,H,Furman,NA,Southern,W,93,54,NA,6,0,W 6,NA
+2015,7,2014-11-30,Sun,REG,H,Army,NA,Patriot,W,93,73,NA,7,0,W 7,NA
+2015,8,2014-12-03,Wed,REG,A,Wisconsin,2,Big Ten,W,80,70,NA,8,0,W 8,NA
+2015,9,2014-12-15,Mon,REG,H,Elon,NA,CAA,W,75,62,NA,9,0,W 9,NA
+2015,10,2014-12-18,Thu,REG,N,Connecticut,NA,AAC,W,66,56,NA,10,0,W 10,NA
+2015,11,2014-12-29,Mon,REG,H,Toledo,NA,MAC,W,86,69,NA,11,0,W 11,NA
+2015,12,2014-12-31,Wed,REG,H,Wofford,NA,Southern,W,84,55,NA,12,0,W 12,NA
+2015,13,2015-01-03,Sat,REG,H,Boston College,NA,ACC,W,85,62,NA,13,0,W 13,NA
+2015,14,2015-01-07,Wed,REG,A,Wake Forest,NA,ACC,W,73,65,NA,14,0,W 14,NA
+2015,15,2015-01-11,Sun,REG,A,North Carolina State,NA,ACC,L,75,87,NA,14,1,L 1,NA
+2015,16,2015-01-13,Tue,REG,H,Miami,NA,ACC,L,74,90,NA,14,2,L 2,NA
+2015,17,2015-01-17,Sat,REG,A,Louisville,6,ACC,W,63,52,NA,15,2,W 1,NA
+2015,18,2015-01-19,Mon,REG,H,Pittsburgh,NA,ACC,W,79,65,NA,16,2,W 2,NA
+2015,19,2015-01-25,Sun,REG,A,St. John's,NA,Big East,W,77,68,NA,17,2,W 3,NA
+2015,20,2015-01-28,Wed,REG,A,Notre Dame,8,ACC,L,73,77,NA,17,3,L 1,NA
+2015,21,2015-01-31,Sat,REG,A,Virginia,2,ACC,W,69,63,NA,18,3,W 1,NA
+2015,22,2015-02-04,Wed,REG,H,Georgia Tech,NA,ACC,W,72,66,NA,19,3,W 2,NA
+2015,23,2015-02-07,Sat,REG,H,Notre Dame,10,ACC,W,90,60,NA,20,3,W 3,NA
+2015,24,2015-02-09,Mon,REG,A,Florida State,NA,ACC,W,73,70,NA,21,3,W 4,NA
+2015,25,2015-02-14,Sat,REG,A,Syracuse,NA,ACC,W,80,72,NA,22,3,W 5,NA
+2015,26,2015-02-18,Wed,REG,H,North Carolina,15,ACC,W,92,90,OT,23,3,W 6,NA
+2015,27,2015-02-21,Sat,REG,H,Clemson,NA,ACC,W,78,56,NA,24,3,W 7,NA
+2015,28,2015-02-25,Wed,REG,A,Virginia Tech,NA,ACC,W,91,86,OT,25,3,W 8,NA
+2015,29,2015-02-28,Sat,REG,H,Syracuse,NA,ACC,W,73,54,NA,26,3,W 9,NA
+2015,30,2015-03-04,Wed,REG,H,Wake Forest,NA,ACC,W,94,51,NA,27,3,W 10,NA
+2015,31,2015-03-07,Sat,REG,A,North Carolina,19,ACC,W,84,77,NA,28,3,W 11,NA
+2015,32,2015-03-12,Thu,CTOURN,N,North Carolina State,NA,ACC,W,77,53,NA,29,3,W 12,NA
+2015,33,2015-03-13,Fri,CTOURN,N,Notre Dame,11,ACC,L,64,74,NA,29,4,L 1,NA
+2015,34,2015-03-20,Fri,NCAA,N,Robert Morris,NA,NEC,W,85,56,NA,30,4,W 1,NA
+2015,35,2015-03-22,Sun,NCAA,N,San Diego State,NA,MWC,W,68,49,NA,31,4,W 2,NA
+2015,36,2015-03-27,Fri,NCAA,N,Utah,19,Pac-12,W,63,57,NA,32,4,W 3,NA
+2015,37,2015-03-29,Sun,NCAA,N,Gonzaga,7,WCC,W,66,52,NA,33,4,W 4,NA
+2015,38,2015-04-04,Sat,NCAA,N,Michigan State,23,Big Ten,W,81,61,NA,34,4,W 5,NA
+2015,39,2015-04-06,Mon,NCAA,N,Wisconsin,3,Big Ten,W,68,63,NA,35,4,W 6,NA
+2016,1,2015-11-13,Fri,REG,H,Siena,NA,MAAC,W,92,74,NA,1,0,W 1,Cameron Indoor Stadium
+2016,2,2015-11-14,Sat,REG,H,Bryant,NA,NEC,W,113,75,NA,2,0,W 2,Cameron Indoor Stadium
+2016,3,2015-11-17,Tue,REG,N,Kentucky,2,SEC,L,63,74,NA,2,1,L 1,United Center
+2016,4,2015-11-20,Fri,REG,N,Virginia Commonwealth,NA,A-10,W,79,71,NA,3,1,W 1,Madison Square Garden (IV)
+2016,5,2015-11-22,Sun,REG,N,Georgetown,NA,Big East,W,86,84,NA,4,1,W 2,Madison Square Garden (IV)
+2016,6,2015-11-25,Wed,REG,H,Yale,NA,Ivy,W,80,61,NA,5,1,W 3,Cameron Indoor Stadium
+2016,7,2015-11-29,Sun,REG,H,Utah State,NA,MWC,W,85,52,NA,6,1,W 4,Cameron Indoor Stadium
+2016,8,2015-12-02,Wed,REG,H,Indiana,NA,Big Ten,W,94,74,NA,7,1,W 5,Cameron Indoor Stadium
+2016,9,2015-12-05,Sat,REG,H,Buffalo,NA,MAC,W,82,59,NA,8,1,W 6,Cameron Indoor Stadium
+2016,10,2015-12-15,Tue,REG,H,Georgia Southern,NA,Sun Belt,W,99,65,NA,9,1,W 7,Cameron Indoor Stadium
+2016,11,2015-12-19,Sat,REG,N,Utah,NA,Pac-12,L,75,77,OT,9,2,L 1,Madison Square Garden (IV)
+2016,12,2015-12-28,Mon,REG,H,Elon,NA,CAA,W,105,66,NA,10,2,W 1,Cameron Indoor Stadium
+2016,13,2015-12-30,Wed,REG,H,Long Beach State,NA,Big West,W,103,81,NA,11,2,W 2,Cameron Indoor Stadium
+2016,14,2016-01-02,Sat,REG,A,Boston College,NA,ACC,W,81,64,NA,12,2,W 3,Silvio O. Conte Forum
+2016,15,2016-01-06,Wed,REG,A,Wake Forest,NA,ACC,W,91,75,NA,13,2,W 4,Lawrence Joel Coliseum
+2016,16,2016-01-09,Sat,REG,H,Virginia Tech,NA,ACC,W,82,58,NA,14,2,W 5,Cameron Indoor Stadium
+2016,17,2016-01-13,Wed,REG,A,Clemson,NA,ACC,L,63,68,NA,14,3,L 1,Bon Secours Wellness Arena
+2016,18,2016-01-16,Sat,REG,H,Notre Dame,NA,ACC,L,91,95,NA,14,4,L 2,Cameron Indoor Stadium
+2016,19,2016-01-18,Mon,REG,H,Syracuse,NA,ACC,L,62,64,NA,14,5,L 3,Cameron Indoor Stadium
+2016,20,2016-01-23,Sat,REG,A,North Carolina State,NA,ACC,W,88,78,NA,15,5,W 1,PNC Arena
+2016,21,2016-01-25,Mon,REG,A,Miami,15,ACC,L,69,80,NA,15,6,L 1,BankUnited Center
+2016,22,2016-02-02,Tue,REG,A,Georgia Tech,NA,ACC,W,80,71,NA,16,6,W 1,McCamish Pavilion
+2016,23,2016-02-06,Sat,REG,H,North Carolina State,NA,ACC,W,88,80,NA,17,6,W 2,Cameron Indoor Stadium
+2016,24,2016-02-08,Mon,REG,H,Louisville,13,ACC,W,72,65,NA,18,6,W 3,Cameron Indoor Stadium
+2016,25,2016-02-13,Sat,REG,H,Virginia,7,ACC,W,63,62,NA,19,6,W 4,Cameron Indoor Stadium
+2016,26,2016-02-17,Wed,REG,A,North Carolina,5,ACC,W,74,73,NA,20,6,W 5,Dean Smith Center
+2016,27,2016-02-20,Sat,REG,A,Louisville,18,ACC,L,64,71,NA,20,7,L 1,KFC Yum! Center
+2016,28,2016-02-25,Thu,REG,H,Florida State,NA,ACC,W,80,65,NA,21,7,W 1,Cameron Indoor Stadium
+2016,29,2016-02-28,Sun,REG,A,Pittsburgh,NA,ACC,L,62,76,NA,21,8,L 1,Petersen Events Center
+2016,30,2016-03-01,Tue,REG,H,Wake Forest,NA,ACC,W,79,71,NA,22,8,W 1,Cameron Indoor Stadium
+2016,31,2016-03-05,Sat,REG,H,North Carolina,8,ACC,L,72,76,NA,22,9,L 1,Cameron Indoor Stadium
+2016,32,2016-03-09,Wed,CTOURN,N,North Carolina State,NA,ACC,W,92,89,NA,23,9,W 1,Verizon Center
+2016,33,2016-03-10,Thu,CTOURN,N,Notre Dame,NA,ACC,L,79,84,OT,23,10,L 1,Verizon Center
+2016,34,2016-03-17,Thu,NCAA,N,North Carolina-Wilmington,NA,CAA,W,93,85,NA,24,10,W 1,Dunkin' Donuts Center
+2016,35,2016-03-19,Sat,NCAA,N,Yale,NA,Ivy,W,71,64,NA,25,10,W 2,Dunkin' Donuts Center
+2016,36,2016-03-24,Thu,NCAA,N,Oregon,5,Pac-12,L,68,82,NA,25,11,L 1,Honda Center
+2017,1,2016-11-11,Fri,REG,H,Marist,NA,MAAC,W,94,49,NA,1,0,W 1,Cameron Indoor Stadium
+2017,2,2016-11-12,Sat,REG,H,Grand Canyon,NA,WAC,W,96,61,NA,2,0,W 2,Cameron Indoor Stadium
+2017,3,2016-11-15,Tue,REG,N,Kansas,7,Big 12,L,75,77,NA,2,1,L 1,Madison Square Garden (IV)
+2017,4,2016-11-19,Sat,REG,N,Penn State,NA,Big Ten,W,78,68,NA,3,1,W 1,Mohegan Sun Arena
+2017,5,2016-11-20,Sun,REG,N,Rhode Island,21,A-10,W,75,65,NA,4,1,W 2,Mohegan Sun Arena
+2017,6,2016-11-23,Wed,REG,H,William & Mary,NA,CAA,W,88,67,NA,5,1,W 3,Cameron Indoor Stadium
+2017,7,2016-11-26,Sat,REG,H,Appalachian State,NA,Sun Belt,W,93,58,NA,6,1,W 4,Cameron Indoor Stadium
+2017,8,2016-11-29,Tue,REG,H,Michigan State,NA,Big Ten,W,78,69,NA,7,1,W 5,Cameron Indoor Stadium
+2017,9,2016-12-03,Sat,REG,H,Maine,NA,AEC,W,94,55,NA,8,1,W 6,Cameron Indoor Stadium
+2017,10,2016-12-06,Tue,REG,N,Florida,21,SEC,W,84,74,NA,9,1,W 7,Madison Square Garden (IV)
+2017,11,2016-12-10,Sat,REG,A,Nevada-Las Vegas,NA,MWC,W,94,45,NA,10,1,W 8,T-Mobile Arena
+2017,12,2016-12-19,Mon,REG,H,Tennessee State,NA,OVC,W,65,55,NA,11,1,W 9,Cameron Indoor Stadium
+2017,13,2016-12-21,Wed,REG,N,Elon,NA,CAA,W,72,61,NA,12,1,W 10,Greensboro Coliseum
+2017,14,2016-12-31,Sat,REG,A,Virginia Tech,NA,ACC,L,75,89,NA,12,2,L 1,Cassell Coliseum
+2017,15,2017-01-04,Wed,REG,H,Georgia Tech,NA,ACC,W,110,57,NA,13,2,W 1,Cameron Indoor Stadium
+2017,16,2017-01-07,Sat,REG,H,Boston College,NA,ACC,W,93,82,NA,14,2,W 2,Cameron Indoor Stadium
+2017,17,2017-01-10,Tue,REG,A,Florida State,9,ACC,L,72,88,NA,14,3,L 1,Donald L. Tucker Center
+2017,18,2017-01-14,Sat,REG,A,Louisville,14,ACC,L,69,78,NA,14,4,L 2,KFC Yum! Center
+2017,19,2017-01-21,Sat,REG,H,Miami,NA,ACC,W,70,58,NA,15,4,W 1,Cameron Indoor Stadium
+2017,20,2017-01-23,Mon,REG,H,North Carolina State,NA,ACC,L,82,84,NA,15,5,L 1,Cameron Indoor Stadium
+2017,21,2017-01-28,Sat,REG,A,Wake Forest,NA,ACC,W,85,83,NA,16,5,W 1,Lawrence Joel Coliseum
+2017,22,2017-01-30,Mon,REG,A,Notre Dame,20,ACC,W,84,74,NA,17,5,W 2,Purcell Pavilion at the Joyce Center
+2017,23,2017-02-04,Sat,REG,H,Pittsburgh,NA,ACC,W,72,64,NA,18,5,W 3,Cameron Indoor Stadium
+2017,24,2017-02-09,Thu,REG,H,North Carolina,8,ACC,W,86,78,NA,19,5,W 4,Cameron Indoor Stadium
+2017,25,2017-02-11,Sat,REG,H,Clemson,NA,ACC,W,64,62,NA,20,5,W 5,Cameron Indoor Stadium
+2017,26,2017-02-15,Wed,REG,A,Virginia,14,ACC,W,65,55,NA,21,5,W 6,John Paul Jones Arena
+2017,27,2017-02-18,Sat,REG,H,Wake Forest,NA,ACC,W,99,94,NA,22,5,W 7,Cameron Indoor Stadium
+2017,28,2017-02-22,Wed,REG,A,Syracuse,NA,ACC,L,75,78,NA,22,6,L 1,Carrier Dome
+2017,29,2017-02-25,Sat,REG,A,Miami,NA,ACC,L,50,55,NA,22,7,L 2,BankUnited Center
+2017,30,2017-02-28,Tue,REG,H,Florida State,15,ACC,W,75,70,NA,23,7,W 1,Cameron Indoor Stadium
+2017,31,2017-03-04,Sat,REG,A,North Carolina,5,ACC,L,83,90,NA,23,8,L 1,Dean Smith Center
+2017,32,2017-03-08,Wed,CTOURN,N,Clemson,NA,ACC,W,79,72,NA,24,8,W 1,Barclays Center
+2017,33,2017-03-09,Thu,CTOURN,N,Louisville,10,ACC,W,81,77,NA,25,8,W 2,Barclays Center
+2017,34,2017-03-10,Fri,CTOURN,N,North Carolina,6,ACC,W,93,83,NA,26,8,W 3,Barclays Center
+2017,35,2017-03-11,Sat,CTOURN,N,Notre Dame,22,ACC,W,75,69,NA,27,8,W 4,Barclays Center
+2017,36,2017-03-17,Fri,NCAA,N,Troy,NA,Sun Belt,W,87,65,NA,28,8,W 5,Bon Secours Wellness Arena
+2017,37,2017-03-19,Sun,NCAA,N,South Carolina,NA,SEC,L,81,88,NA,28,9,L 1,Bon Secours Wellness Arena

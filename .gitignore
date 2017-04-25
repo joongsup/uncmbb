@@ -3,4 +3,7 @@
 .RData
 .Ruserdata
 scratch.R
-
+data_scrap.R
+data_gen.R
+add_inserts.R
+notes
