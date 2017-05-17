@@ -4,6 +4,5 @@
 .RData
 .Ruserdata
 data-raw/notes
-data-raw/*.R
 data-raw/*.RDS
 data-raw/*.csv
