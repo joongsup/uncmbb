@@ -37,8 +37,8 @@
 #' \item{Type}{match type, one of REG, CTOURN, NIT, or NCAA}
 #' \item{Where}{match location, one of H(ome), A(way), or N(eutral)}
 #' \item{Opponent_School}{match opponent}
-#' \item{Result}{match result, W for UNC win}
-#' \item{Tm}{UNC score in the match}
+#' \item{Result}{match result, W for Duke win}
+#' \item{Tm}{Duke score in the match}
 #' \item{Opp}{opponent's score in the match}
 #' \item{OT}{overtime indicator, one of OT, 2OT, or 3OT}
 #' }

@@ -1,9 +1,9 @@
+*.Rproj
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-data-raw/scratch.R
-data-raw/data_scrap.R
-data-raw/data_gen.R
-data-raw/add_inserts.R
 data-raw/notes
+data-raw/*.R
+data-raw/*.RDS
+data-raw/*.csv
