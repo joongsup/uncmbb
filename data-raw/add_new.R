@@ -37,11 +37,11 @@ df_results <- rbind(df_history, df_new)
 #----------------------------------------
 # save final results
 #----------------------------------------
-unc_results <- df_results %>%
+unc <- df_results %>%
                 select(Season, Game_Date, Game_Day, Type, Where, Opponent_School, Result, Tm, Opp, OT) %>% arrange(Game_Date)
 
-saveRDS(unc_results, file = paste0("data-raw/final_results_", school, "_", years[1], "_", new_years[length(new_years)], ".RDS"))
-write.table(unc_results, file = paste0("data-raw/final_results_", school, "_", years[1], "_", new_years[length(new_years)], ".csv"), sep = ",", col.names = TRUE, row.names = FALSE, quote = FALSE)
-devtools::use_data(unc_results, overwrite = TRUE)
+saveRDS(unc, file = paste0("data-raw/final_results_", school, "_", years[1], "_", new_years[length(new_years)], ".RDS"))
+write.table(unc, file = paste0("data-raw/final_results_", school, "_", years[1], "_", new_years[length(new_years)], ".csv"), sep = ",", col.names = TRUE, row.names = FALSE, quote = FALSE)
+devtools::use_data(unc, overwrite = TRUE)
 
 

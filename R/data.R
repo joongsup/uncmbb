@@ -19,7 +19,7 @@
 #' \item{OT}{overtime indicator, one of OT, 2OT, or 3OT}
 #' }
 #' @source \url{http://www.sports-reference.com/cbb/schools/north-carolina/}
-"unc_results"
+"unc"
 
 
 #' Duke Men's Basketball Match Results From 1949 - 1950 Season.
@@ -43,4 +43,4 @@
 #' \item{OT}{overtime indicator, one of OT, 2OT, or 3OT}
 #' }
 #' @source \url{http://www.sports-reference.com/cbb/schools/duke/}
-"duke_results"
+"duke"
