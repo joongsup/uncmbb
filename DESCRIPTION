@@ -1,13 +1,14 @@
 Package: uncmbb
 Type: Package
-Title: UNC Men's Basketball Match Results from 1949 - 1950 Season
+Title: UNC Men's Basketball Match Results since 1949-1950 Season
 Version: 0.1.0
-Author: Jay Lee
-Maintainer: Jay Lee <joongsup@gmail.com>
-Description: Dataset contains select attributes for each match result.
-Depends: R (>= 2.10)
+Authors@R: c(person("Jay", "Lee", email = "joongsup@gmail.com", role = c("aut", "cre")))
+Description: Dataset contains select attributes for each match result since 1949-1950 Season for UNC Men's Basketball Team.
+Depends: R (>= 3.3.2)
 License: CC0
 Encoding: UTF-8
 LazyData: true
+URL: http://github.com/joongsup/uncmbb
+BugReports: https://github.com/joongsup/uncmbb/issues
 RoxygenNote: 5.0.1
 Suggests: dplyr
