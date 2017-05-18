@@ -1,5 +1,9 @@
+## Resubmission
+This is a resubmission. In this version I have:
 
-Test environments
+- Converted the DESCRIPTION title to title case.
+
+## Test environments
 
 local OS X install, R 3.3.2
 win-builder (devel and release)
