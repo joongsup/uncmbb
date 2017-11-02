@@ -14,9 +14,10 @@ install.packages("uncmbb")
 
 ## Examples
 ```R
-# NCAA championship seasons
 library(uncmbb)
 library(dplyr)
+
+# NCAA championship seasons
 unc %>% 
       filter(Type == "NCAA") %>% 
       group_by(Season) %>% 
