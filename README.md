@@ -11,4 +11,19 @@ This package contains the University of North Carolina (UNC) Men's basketball te
 # Install the released version from CRAN
 install.packages("uncmbb")
 
+## Examples
+```R
+# NCAA championship seasons
+library(uncmbb)
+library(dplyr)
+unc %>% 
+      filter(Type == "NCAA") %>% 
+      group_by(Season) %>% 
+      summarize(wins = sum(Result == "W"), losses = sum(Result == "L")) %>% 
+      filter(losses == 0)
 
+duke %>% 
+      filter(Type == "NCAA") %>% 
+      group_by(Season) %>% 
+      summarize(wins = sum(Result == "W"), losses = sum(Result == "L")) %>% 
+      filter(losses == 0)
