@@ -2,9 +2,11 @@
 .Rproj.user
 .Rhistory
 .RData
+.RDS
 .Ruserdata
 */.DS_Store
 .DS_Store
 data-raw/notes
 data-raw/*.RDS
 data-raw/*.csv
+data-raw/explore.R

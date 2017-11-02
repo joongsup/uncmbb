@@ -1,12 +1,14 @@
 
-This package contains the University of North Carolin (UNC) Men's basketball team's (and their archrival Duke's) match results from 1949-1950 season with select match attributes. Match records are obtained and augmented from:
+# UNCMBB
+
+This package contains the University of North Carolina (UNC) Men's basketball team's (and their archrival Duke's) match results since 1949-1950 season with select match attributes. Base match records are obtained from the source (1) below and augmented from the source (2):
 
 1. http://www.sports-reference.com/cbb/schools/north-carolina/
 2. http://www.tarheeltimes.com/schedulebasketball-1949.aspx
 
-Data refresh steps
-1. generate_data.R to scrap base.
-2. fix_gaps.R, if necessary.
-3. add_new.R to add new year's data.
+## Installation
+```R
+# Install the released version from CRAN
+install.packages("uncmbb")
 
 
