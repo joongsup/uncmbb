@@ -23,8 +23,12 @@ unc %>%
       summarize(wins = sum(Result == "W"), losses = sum(Result == "L")) %>% 
       filter(losses == 0)
 
+# Highest season win percentage
 duke %>% 
-      filter(Type == "NCAA") %>% 
-      group_by(Season) %>% 
-      summarize(wins = sum(Result == "W"), losses = sum(Result == "L")) %>% 
-      filter(losses == 0)
+      group_by(Season) %>%
+      summarize(wins = sum(Result == "W"), losses = sum(Result == "L"), win_perc = round(wins/(wins + losses), 2)) %>%
+      arrange(desc(win_perc)) %>%
+      head(5)
+      
+      
+      
