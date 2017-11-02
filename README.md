@@ -10,6 +10,7 @@ This package contains the University of North Carolina (UNC) Men's basketball te
 ```R
 # Install the released version from CRAN
 install.packages("uncmbb")
+```
 
 ## Examples
 ```R
