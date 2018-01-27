@@ -11,4 +11,6 @@ LazyData: true
 URL: http://github.com/joongsup/uncmbb
 BugReports: https://github.com/joongsup/uncmbb/issues
 RoxygenNote: 5.0.1
-Suggests: dplyr
+Imports: dplyr,
+         rlang
+Suggests: testthat
