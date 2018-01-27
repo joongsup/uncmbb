@@ -8,7 +8,5 @@ unc_new[unc_new$Game_Date == "1955-03-03", "Type"] <- "CTOURN"
 unc <- unc_new
 devtools::use_data(unc, overwrite = TRUE)
 
-library(devtools)
-dev_mode(on = TRUE)
-install_github("joongsup/uncmbb")
-dev_mode(on = FALSE)
+
+
