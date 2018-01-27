@@ -1,7 +1,7 @@
 Package: uncmbb
 Type: Package
 Title: UNC Men's Basketball Match Results Since 1949-1950 Season
-Version: 0.1.1
+Version: 0.1.0.9000
 Authors@R: c(person("Jay", "Lee", email = "joongsup@gmail.com", role = c("aut", "cre")))
 Description: Dataset contains select attributes for each match result since 1949-1950 season for UNC men's basketball team.
 Depends: R (>= 3.3.2)
