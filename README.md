@@ -16,6 +16,12 @@ This package contains the University of North Carolina (UNC) Men's basketball te
 install.packages("uncmbb")
 ```
 
+Or install the development version from GitHub with:
+```R
+# install.packages("devtools")
+devtools::install_github("joongsup/uncmbb")
+```
+
 ## Examples
 ```R
 library(uncmbb)
