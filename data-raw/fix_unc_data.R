@@ -9,9 +9,6 @@ unc <- unc_new
 devtools::use_data(unc, overwrite = TRUE)
 
 library(devtools)
-
 dev_mode(on = TRUE)
-
 install_github("joongsup/uncmbb")
-
 dev_mode(on = FALSE)
