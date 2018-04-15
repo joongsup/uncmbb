@@ -1,7 +1,11 @@
+
 library(dplyr)
 library(tidyr)
+library(lubridate)
 library(readr)
-library(rvest)
+library(purrr)
+library(stringr)
+library(data.table)
 
 #------------------------------------
 # scrap base match results from 1950 to 2017
@@ -208,7 +212,44 @@ check_gaps <- function(results, overalls){
     gaps
   } else {
     print("No gaps found!")
+    gaps
   }
+
+}
+
+new_season <- function(school, year){
+
+  match_result_list <- take_snapshot(school, year)
+  list_yrs <- match_result_list[[1]]
+  overall_yrs <- match_result_list[[2]]
+
+  #----------------------------------------
+  # slice off the extra list layer
+  # and remove extra columns
+  #----------------------------------------
+
+  list_yrs_cleaned <- list_yrs %>%
+  slice_layer() %>%
+  remove_cols()
+
+  #----------------------------------------
+  # final prep
+  #----------------------------------------
+
+  d <- final_prep(list_yrs_cleaned)
+
+  #----------------------------------------
+  # check gaps
+  #----------------------------------------
+
+  check_gaps(d, overall_yrs)
+
+  #----------------------------------------
+  # save interim results
+  #----------------------------------------
+
+  saveRDS(d, file = paste0("data-raw/match_results_", school, "_", year, ".RDS"))
+  write.table(d, file = paste0("data-raw/match_results_", school, "_", year, ".csv"), col.names = TRUE, row.names = FALSE, quote = FALSE, sep = ",")
 
 }
 

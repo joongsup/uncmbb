@@ -11,3 +11,4 @@ data-raw/*.RDS
 data-raw/*.csv
 data-raw/*.tab
 data-raw/explore.R
+data-raw/rapid-reactions.R

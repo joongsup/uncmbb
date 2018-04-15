@@ -15,8 +15,12 @@ df_history <- readRDS(interim_file)
 #----------------------------
 school <- "north-carolina"
 new_years <- 2017
-#match_result_new <- take_snapshot(school, new_years)
-#saveRDS(match_result_new, file = paste0("data-raw/new_match_results_", school, "_", new_years[1], "_", new_years[length(new_years)], ".RDS"))
+
+
+match_result_new <- take_snapshot(school, new_years)
+
+# to prevent calling the site over and over again
+saveRDS(match_result_new, file = paste0("data-raw/new_match_results_", school, "_", new_years[1], "_", new_years[length(new_years)], ".RDS"))
 match_result_new <- readRDS(paste0("data-raw/new_match_results_", school, "_", new_years[1], "_", new_years[length(new_years)], ".RDS"))
 
 new_yr <- match_result_new[[1]]
