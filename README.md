@@ -31,13 +31,13 @@ library(dplyr)
 
 # Match data
 tail(unc)
-     Season  Game_Date Game_Day Type Where Opponent_School Result  Tm Opp   OT
-2150   2017 2017-03-17      Fri NCAA     N  Texas Southern      W 103  64 <NA>
-2151   2017 2017-03-19      Sun NCAA     N        Arkansas      W  72  65 <NA>
-2152   2017 2017-03-24      Fri NCAA     N          Butler      W  92  80 <NA>
-2153   2017 2017-03-26      Sun NCAA     N        Kentucky      W  75  73 <NA>
-2154   2017 2017-04-01      Sat NCAA     N          Oregon      W  77  76 <NA>
-2155   2017 2017-04-03      Mon NCAA     N         Gonzaga      W  71  65 <NA>
+     Season  Game_Date Game_Day   Type Where Opponent_School Result Tm Opp   OT
+2187   2018 2018-03-07      Wed CTOURN     N        Syracuse      W 78  59 <NA>
+2188   2018 2018-03-08      Thu CTOURN     N           Miami      W 82  65 <NA>
+2189   2018 2018-03-09      Fri CTOURN     N            Duke      W 74  69 <NA>
+2190   2018 2018-03-10      Sat CTOURN     N        Virginia      L 63  71 <NA>
+2191   2018 2018-03-16      Fri   NCAA     N        Lipscomb      W 84  66 <NA>
+2192   2018 2018-03-18      Sun   NCAA     N       Texas A&M      L 65  86 <NA>
 
 # NCAA championship seasons
 unc %>% 
