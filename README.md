@@ -10,6 +10,8 @@ This package contains the University of North Carolina (UNC) Men's basketball te
 1. http://www.sports-reference.com/cbb/schools/north-carolina/
 2. http://www.tarheeltimes.com/schedulebasketball-1949.aspx
 
+Any data discrepancies are fixed once they are identified. 
+
 ## Installation
 ```R
 # Install the released version from CRAN
