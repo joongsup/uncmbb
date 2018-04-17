@@ -30,4 +30,3 @@ may contain missing records especially for matches with non Div-1 teams
 prior to 1995 - 1996 season. Those missing records were later filled in using data from other source (http://www.tarheeltimes.com/schedulebasketball-1949.aspx)
 }
 \keyword{datasets}
-

@@ -253,3 +253,74 @@ new_season <- function(school, year){
 
 }
 
+#----------------------------------------
+# mbb_fns
+#----------------------------------------
+
+# #-----------------------------------------------------
+# df_pct <- unc %>%
+#   count(Season, Result) %>%
+#   group_by(Season) %>%
+#   mutate(pct = n/sum(n), games = sum(n)) %>%
+#   filter(Result == "W") %>%
+#   ungroup() %>%
+#   mutate(champ = ifelse(Season %in% df_ncaa$Season, 1, 0))
+#
+#
+# }
+#
+# #-----------------------------------------------------
+#
+#
+# #OR
+#
+# unc %>% filter(Type == "NCAA") %>%
+#         get_season_result %>%
+#         filter(losses == 0) %>%
+#         select(Season)
+#
+# #-----------------------------------------------------
+# uncts <- unc %>%
+#   group_by(Season) %>%
+#   summarize(wins = sum(Result == "W"), loses = sum(Result == "L"))
+#
+#
+# #-----------------------------------------------------
+# get_series_history <- function(records, min_games){
+#
+#   opponents <- records %>% count(Opponent_School, sort = TRUE) %>% add_percent(var = n)
+#   schools <- opponents %>% filter(n >= min_games)
+#
+#   results <- records %>%
+#     filter(Opponent_School %in% schools$Opponent_School) %>%
+#     group_by(Opponent_School) %>%
+#     summarize(wins = sum(Result == "W"), loses = sum(Result == "L"),
+#               first_game = min(Game_Date), last_game = max(Game_Date)) %>%
+#     mutate(games = wins + loses) %>%
+#     mutate(win_perc = round(wins/games, 4)) %>%
+#     arrange(desc(win_perc)) %>%
+#     select(Opponent_School, first_game, last_game, games, wins, loses, win_perc)
+#
+#   results
+# }
+#
+#
+# #-----------------------------------------------------
+# get_home_history <- function(records, min_home_games){
+#
+#   opponents <- records %>% filter(Where == "H") %>% count(Opponent_School, sort = TRUE) %>% add_percent(var = n)
+#   schools <- opponents %>% filter(n >= min_home_games)
+#
+#   results <- records %>%
+#     filter(Opponent_School %in% schools$Opponent_School) %>%
+#     group_by(Opponent_School) %>%
+#     summarize(wins = sum(Result == "W"), loses = sum(Result == "L"),
+#               first_game = min(Game_Date), last_game = max(Game_Date)) %>%
+#     mutate(games = wins + loses) %>%
+#     mutate(win_perc = round(wins/games, 4)) %>%
+#     arrange(desc(win_perc)) %>%
+#     select(Opponent_School, first_game, last_game, games, wins, loses, win_perc)
+#
+#   results
+# }
+#

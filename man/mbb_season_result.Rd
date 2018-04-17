@@ -2,20 +2,19 @@
 % Please edit documentation in R/mbb_fns.R
 \name{mbb_season_result}
 \alias{mbb_season_result}
-\title{Season match summary}
+\title{Get season's win/loss summary for all match types.}
 \usage{
 mbb_season_result(df)
 }
 \arguments{
-\item{df}{Input data frame containing a team's historical match data.}
+\item{df}{Input data frame containing a team's historical match data that are included in uncmbb package.}
 }
 \value{
 A data frame containing number of games, wins, losses, win %, and loss %.
 }
 \description{
-Season match summary
+Get season's win/loss summary for all match types.
 }
 \examples{
 mbb_season_result(unc)
 }
-

@@ -30,4 +30,3 @@ may contain missing records especially for matches with non Div-1 teams
 prior to 1995 - 1996 season. No missing records were found.
 }
 \keyword{datasets}
-
