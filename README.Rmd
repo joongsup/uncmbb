@@ -1,0 +1,57 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+[![Travis-CI Build Status](https://travis-ci.org/joongsup/uncmbb.svg?branch=master)](https://travis-ci.org/joongsup/uncmbb)
+[![Coverage Status](https://img.shields.io/codecov/c/github/joongsup/uncmbb/master.svg)](https://codecov.io/github/joongsup/uncmbb?branch=master)
+[![CRAN status](http://www.r-pkg.org/badges/version/uncmbb)](https://cran.r-project.org/package=uncmbb)
+
+# uncmbb
+
+This package contains the University of North Carolina (UNC) Men's basketball team's (and their archrival Duke's) match results since 1949-1950 season with select match attributes. Base match records are obtained from the source (1) below and augmented from the source (2):
+
+1. http://www.sports-reference.com/cbb/schools/north-carolina/
+2. http://www.tarheeltimes.com/schedulebasketball-1949.aspx
+
+Any data discrepancies are fixed once they are identified. 
+
+## Installation
+
+```{r cran-installation, eval = FALSE}
+install.packages("uncmbb")
+```
+
+Or install the development version from GitHub with:
+```{r gh-installation, eval = FALSE}
+# install.packages("devtools")
+devtools::install_github("joongsup/uncmbb")
+```
+
+## Example
+
+```{r example}
+library(uncmbb)
+library(dplyr)
+
+# Match data
+tail(unc)
+
+# NCAA championship seasons
+mbb_champ_season(unc)
+
+# Highest regular season win percentage
+unc %>% mbb_season_result() %>%
+        filter(Type == "REG") %>%
+        arrange(desc(pct_win)) %>%
+        head(5)
+```
