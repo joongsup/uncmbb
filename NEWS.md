@@ -1,4 +1,9 @@
 
+
+# uncmbb 0.2.1
+
+- Added 2018-2019 season results
+
 # uncmbb 0.2.0
 
 - Added 2017-2018 season results

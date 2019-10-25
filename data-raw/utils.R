@@ -6,6 +6,7 @@ library(readr)
 library(purrr)
 library(stringr)
 library(data.table)
+library(rvest) # rvest::read_html
 
 #------------------------------------
 # scrap base match results from 1950 to 2017
@@ -67,14 +68,20 @@ list_yrs_cleaned
 #----------------------------------------
 # last 2 seasons (2015, 2016) have
 # 2 additional fields (Time and Network)
+# for 2018-2019 season, there's no network column (hence column length = 15)
 #----------------------------------------
 
 remove_cols <- function(list){
 
   column_cnt <- list %>% map_int(function(x) length(x))
   for (num in seq_along(column_cnt)){
-    if (column_cnt[num] > 14){
-      list[[num]] <- list[[num]][, c(1, 2, 5:16)]
+    if (as.numeric(names(list)) < 2019){
+      if (column_cnt[num] > 14){
+        list[[num]] <- list[[num]][, c(1, 2, 5:length(list[[num]]))]
+        #list[[num]] <- list[[num]][, c(1, 2, 5:16)]
+      }
+    } else if (names(list) == "2019"){
+      list[[num]] <- list[[num]][, c(1, 2, 4, 5, 6, 8, 9, 10, 11)]
     }
   }
 
@@ -87,9 +94,12 @@ list
 
 add_column_name <- function(df){
   names_to_fill <- c("Where", "Result")
-
-  names(df)[4] <- names_to_fill[1]
-  names(df)[7] <- names_to_fill[2]
+  # pre 2018-19 season
+  #names(df)[4] <- names_to_fill[1]
+  #names(df)[7] <- names_to_fill[2]
+  # for 2018-19 season
+  names(df)[5] <- names_to_fill[1]
+  names(df)[8] <- names_to_fill[2]
   df
 }
 
@@ -98,7 +108,7 @@ add_column_name <- function(df){
 #----------------------------------------
 
 remove_mid_header <- function(df){
-  df <- df %>% filter(G != "G")
+  df <- df %>% dplyr::filter(G != "G")
   df
 }
 
@@ -191,6 +201,24 @@ final_prep <- function(list){
 df
 }
 
+
+save_data <- function(df, school, new_years){
+    if(school == "north-carolina"){
+    unc <- df %>% arrange(Game_Date)
+    saveRDS(f, file = paste0("data-raw/final_results_", school, "_", new_years[1], "_", new_years[length(new_years)], ".RDS"))
+    write.table(unc, file = paste0("data-raw/final_results_", school, "_", new_years[1], "_", new_years[length(new_years)], ".csv"), sep = ",", col.names = TRUE, row.names = FALSE, quote = FALSE)
+    usethis::use_data(unc, overwrite = TRUE) # usethis::use_data, not devtools::use_data
+  } else if(school == "duke"){
+    duke <- df %>% arrange(Game_Date)
+    saveRDS(df, file = paste0("data-raw/final_results_", school, "_", new_years[1], "_", new_years[length(new_years)], ".RDS"))
+    write.table(duke, file = paste0("data-raw/final_results_", school, "_", new_years[1], "_", new_years[length(new_years)], ".csv"), sep = ",", col.names = TRUE, row.names = FALSE, quote = FALSE)
+    usethis::use_data(duke, overwrite = TRUE) # usethis::use_data, not devtools::use_data
+  }
+}
+
+#----------------------------------------
+# final prep (a wrapper for most prep tasks)
+#----------------------------------------
 check_gaps <- function(results, overalls){
 
   a <- overalls %>%

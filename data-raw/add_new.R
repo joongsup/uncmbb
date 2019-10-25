@@ -1,20 +1,23 @@
 
 
 library(readr)
+library(rvest)
 
 #----------------------------
 # load historical data
 #----------------------------
 
-interim_file <- "data-raw/interim_match_results_gaps_fixed_north-carolina_1950_2016.RDS"
+#interim_file <- "data-raw/interim_match_results_gaps_fixed_north-carolina_1950_2016.RDS"
 #interim_file <- "data-raw/interim_match_results_north-carolina_1950_2016.RDS"
+interim_file <- "data-raw/final_results_north-carolina_2018.RDS"
+interim_file <- "data-raw/final_results_duke_2018.RDS"
 df_history <- readRDS(interim_file)
 
 #----------------------------
 # scrap new data and format to the existing (historical data)
 #----------------------------
-school <- "north-carolina"
-new_years <- 2017
+school <- "duke" #"north-carolina"
+new_years <- 2019
 
 
 match_result_new <- take_snapshot(school, new_years)
@@ -27,10 +30,11 @@ new_yr <- match_result_new[[1]]
 new_overall <- match_result_new[[2]]
 
 new_yr_cleaned <- new_yr %>%
-                      slice_layer() %>%
-                      remove_cols()
+                      slice_layer() #%>%
+                      #remove_mid_header() # why is this needed?
 
 df_new <- final_prep(new_yr_cleaned)
+df_new <- df_new %>% select(Season, Game_Date, Game_Day, Type, Where, Opponent_School, Result, Tm, Opp, OT)
 
 #----------------------------
 # append the new to the historical data
@@ -41,11 +45,7 @@ df_results <- rbind(df_history, df_new)
 #----------------------------------------
 # save final results
 #----------------------------------------
-unc <- df_results %>%
-                select(Season, Game_Date, Game_Day, Type, Where, Opponent_School, Result, Tm, Opp, OT) %>% arrange(Game_Date)
 
-saveRDS(unc, file = paste0("data-raw/final_results_", school, "_", years[1], "_", new_years[length(new_years)], ".RDS"))
-write.table(unc, file = paste0("data-raw/final_results_", school, "_", years[1], "_", new_years[length(new_years)], ".csv"), sep = ",", col.names = TRUE, row.names = FALSE, quote = FALSE)
-devtools::use_data(unc, overwrite = TRUE)
+df_results %>% save_data(school, new_years)
 
 
