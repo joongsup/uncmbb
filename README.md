@@ -50,19 +50,19 @@ library(dplyr)
 # Match data
 tail(unc)
 #>      Season  Game_Date Game_Day   Type Where Opponent_School Result Tm Opp
-#> 2187   2018 2018-03-07      Wed CTOURN     N        Syracuse      W 78  59
-#> 2188   2018 2018-03-08      Thu CTOURN     N           Miami      W 82  65
-#> 2189   2018 2018-03-09      Fri CTOURN     N            Duke      W 74  69
-#> 2190   2018 2018-03-10      Sat CTOURN     N        Virginia      L 63  71
-#> 2191   2018 2018-03-16      Fri   NCAA     N        Lipscomb      W 84  66
-#> 2192   2018 2018-03-18      Sun   NCAA     N       Texas A&M      L 65  86
+#> 2223   2019 2019-03-09      Sat    REG     H            Duke      W 79  70
+#> 2224   2019 2019-03-14      Thu CTOURN     N      Louisville      W 83  70
+#> 2225   2019 2019-03-15      Fri CTOURN     N            Duke      L 73  74
+#> 2226   2019 2019-03-22      Fri   NCAA     N            Iona      W 88  73
+#> 2227   2019 2019-03-24      Sun   NCAA     N      Washington      W 81  59
+#> 2228   2019 2019-03-29      Fri   NCAA     N          Auburn      L 80  97
 #>        OT
-#> 2187 <NA>
-#> 2188 <NA>
-#> 2189 <NA>
-#> 2190 <NA>
-#> 2191 <NA>
-#> 2192 <NA>
+#> 2223 <NA>
+#> 2224 <NA>
+#> 2225 <NA>
+#> 2226 <NA>
+#> 2227 <NA>
+#> 2228 <NA>
 
 # NCAA championship seasons
 mbb_champ_season(unc)
@@ -86,7 +86,7 @@ unc %>% mbb_season_result() %>%
 #> # Groups:   Season [5]
 #>   Season Type  games  wins losses pct_win pct_loss
 #>   <chr>  <chr> <int> <int>  <int>   <dbl>    <dbl>
-#> 1 1957   REG      24    24      0   1.00    0.    
+#> 1 1957   REG      24    24      0   1       0     
 #> 2 1984   REG      27    26      1   0.963   0.0370
 #> 3 2008   REG      31    29      2   0.935   0.0645
 #> 4 1987   REG      29    27      2   0.931   0.0690

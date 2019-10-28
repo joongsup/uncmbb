@@ -6,3 +6,4 @@ cran-comments.md
 ^codecov\.yml$
 ^README\.Rmd$
 ^README-.*\.png$
+^CRAN-RELEASE$
