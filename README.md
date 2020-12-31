@@ -49,20 +49,20 @@ library(dplyr)
 
 # Match data
 tail(unc)
-#>      Season  Game_Date Game_Day   Type Where Opponent_School Result Tm Opp
-#> 2223   2019 2019-03-09      Sat    REG     H            Duke      W 79  70
-#> 2224   2019 2019-03-14      Thu CTOURN     N      Louisville      W 83  70
-#> 2225   2019 2019-03-15      Fri CTOURN     N            Duke      L 73  74
-#> 2226   2019 2019-03-22      Fri   NCAA     N            Iona      W 88  73
-#> 2227   2019 2019-03-24      Sun   NCAA     N      Washington      W 81  59
-#> 2228   2019 2019-03-29      Fri   NCAA     N          Auburn      L 80  97
-#>        OT
-#> 2223 <NA>
-#> 2224 <NA>
-#> 2225 <NA>
-#> 2226 <NA>
-#> 2227 <NA>
-#> 2228 <NA>
+#>      Season  Game_Date Game_Day   Type Where      Opponent_School Result
+#> 2256   2020 2020-02-25      Tue    REG     H North Carolina State      W
+#> 2257   2020 2020-02-29      Sat    REG     A             Syracuse      W
+#> 2258   2020 2020-03-03      Tue    REG     H          Wake Forest      W
+#> 2259   2020 2020-03-07      Sat    REG     A                 Duke      L
+#> 2260   2020 2020-03-10      Tue CTOURN     N        Virginia Tech      W
+#> 2261   2020 2020-03-11      Wed CTOURN     N             Syracuse      L
+#>      Tm Opp   OT
+#> 2256 85  79 <NA>
+#> 2257 92  79 <NA>
+#> 2258 93  83 <NA>
+#> 2259 76  89 <NA>
+#> 2260 78  56 <NA>
+#> 2261 53  81 <NA>
 
 # NCAA championship seasons
 mbb_champ_season(unc)

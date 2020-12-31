@@ -1,5 +1,9 @@
 
 
+# uncmbb 0.2.2
+
+- Added 2019-2020 season results (cut short due to pandemic)
+
 # uncmbb 0.2.1
 
 - Added 2018-2019 season results

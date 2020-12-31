@@ -205,7 +205,7 @@ df
 save_data <- function(df, school, new_years){
     if(school == "north-carolina"){
     unc <- df %>% arrange(Game_Date)
-    saveRDS(f, file = paste0("data-raw/final_results_", school, "_", new_years[1], "_", new_years[length(new_years)], ".RDS"))
+    saveRDS(df, file = paste0("data-raw/final_results_", school, "_", new_years[1], "_", new_years[length(new_years)], ".RDS"))
     write.table(unc, file = paste0("data-raw/final_results_", school, "_", new_years[1], "_", new_years[length(new_years)], ".csv"), sep = ",", col.names = TRUE, row.names = FALSE, quote = FALSE)
     usethis::use_data(unc, overwrite = TRUE) # usethis::use_data, not devtools::use_data
   } else if(school == "duke"){
@@ -233,7 +233,7 @@ check_gaps <- function(results, overalls){
   a <- a %>% inner_join(b, by = c("year" = "Season"))
   overallrecords <- a %>% mutate(gaps_wins = WINS - wins, gaps_loses = LOSES - loses)
 
-  gaps <- overallrecords %>% filter(gaps_loses > 0 | gaps_wins > 0)
+  gaps <- overallrecords %>% dplyr::filter(gaps_loses > 0 | gaps_wins > 0)
 
   if(dim(gaps)[1] > 0){
     print("Following gaps are found: ")

@@ -9,15 +9,15 @@ library(rvest)
 
 #interim_file <- "data-raw/interim_match_results_gaps_fixed_north-carolina_1950_2016.RDS"
 #interim_file <- "data-raw/interim_match_results_north-carolina_1950_2016.RDS"
-interim_file <- "data-raw/final_results_north-carolina_2018.RDS"
-interim_file <- "data-raw/final_results_duke_2018.RDS"
+interim_file <- "data-raw/final_results_north-carolina_2019_2019.RDS"
+interim_file <- "data-raw/final_results_duke_2019_2019.RDS"
 df_history <- readRDS(interim_file)
 
 #----------------------------
 # scrap new data and format to the existing (historical data)
 #----------------------------
-school <- "duke" #"north-carolina"
-new_years <- 2019
+school <- "duke" #"north-carolina" or "duke"
+new_years <- 2020
 
 
 match_result_new <- take_snapshot(school, new_years)
@@ -35,12 +35,16 @@ new_yr_cleaned <- new_yr %>%
 
 df_new <- final_prep(new_yr_cleaned)
 df_new <- df_new %>% select(Season, Game_Date, Game_Day, Type, Where, Opponent_School, Result, Tm, Opp, OT)
+head(df_new)
+tail(df_new)
 
 #----------------------------
 # append the new to the historical data
 #----------------------------
 
 df_results <- rbind(df_history, df_new)
+head(df_results)
+tail(df_results)
 
 #----------------------------------------
 # save final results
