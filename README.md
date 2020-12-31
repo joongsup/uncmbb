@@ -14,8 +14,8 @@ basketball team’s (and their archrival Duke’s) match results since
 1949-1950 season with select match attributes. Base match records are
 obtained from the source (1) below and augmented from the source (2):
 
-1.  <http://www.sports-reference.com/cbb/schools/north-carolina/>
-2.  <http://www.tarheeltimes.com/schedulebasketball-1949.aspx>
+1.  <https://www.sports-reference.com/cbb/schools/north-carolina/>
+2.  <https://www.tarheeltimes.com/schedulebasketball-1949.aspx>
 
 Any data discrepancies are fixed once they are identified.
 
@@ -37,7 +37,6 @@ devtools::install_github("joongsup/uncmbb")
 ``` r
 library(uncmbb)
 library(dplyr)
-#> Warning: package 'dplyr' was built under R version 3.6.2
 #> 
 #> Attaching package: 'dplyr'
 #> The following objects are masked from 'package:stats':
@@ -49,20 +48,20 @@ library(dplyr)
 
 # Match data
 tail(unc)
-#>      Season  Game_Date Game_Day   Type Where      Opponent_School Result
-#> 2256   2020 2020-02-25      Tue    REG     H North Carolina State      W
-#> 2257   2020 2020-02-29      Sat    REG     A             Syracuse      W
-#> 2258   2020 2020-03-03      Tue    REG     H          Wake Forest      W
-#> 2259   2020 2020-03-07      Sat    REG     A                 Duke      L
-#> 2260   2020 2020-03-10      Tue CTOURN     N        Virginia Tech      W
-#> 2261   2020 2020-03-11      Wed CTOURN     N             Syracuse      L
-#>      Tm Opp   OT
-#> 2256 85  79 <NA>
-#> 2257 92  79 <NA>
-#> 2258 93  83 <NA>
-#> 2259 76  89 <NA>
-#> 2260 78  56 <NA>
-#> 2261 53  81 <NA>
+#>      Season  Game_Date Game_Day   Type Where      Opponent_School Result Tm Opp
+#> 2256   2020 2020-02-25      Tue    REG     H North Carolina State      W 85  79
+#> 2257   2020 2020-02-29      Sat    REG     A             Syracuse      W 92  79
+#> 2258   2020 2020-03-03      Tue    REG     H          Wake Forest      W 93  83
+#> 2259   2020 2020-03-07      Sat    REG     A                 Duke      L 76  89
+#> 2260   2020 2020-03-10      Tue CTOURN     N        Virginia Tech      W 78  56
+#> 2261   2020 2020-03-11      Wed CTOURN     N             Syracuse      L 53  81
+#>        OT
+#> 2256 <NA>
+#> 2257 <NA>
+#> 2258 <NA>
+#> 2259 <NA>
+#> 2260 <NA>
+#> 2261 <NA>
 
 # NCAA championship seasons
 mbb_champ_season(unc)

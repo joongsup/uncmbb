@@ -20,14 +20,14 @@ A data frame with variables:
 }
 }
 \source{
-\url{http://www.sports-reference.com/cbb/schools/duke/}
+\url{https://www.sports-reference.com/cbb/schools/duke/}
 }
 \usage{
 duke
 }
 \description{
 Duke men's basketball match results from 1949 - 1950 season. Data is scraped from
-http://www.sports-reference.com/cbb/schools/duke/, and according to the source,
+https://www.sports-reference.com/cbb/schools/duke/, and according to the source,
 may contain missing records especially for matches with non Div-1 teams
 prior to 1995 - 1996 season. No missing records were found.
 }
