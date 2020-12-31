@@ -4,7 +4,8 @@
 \name{unc}
 \alias{unc}
 \title{UNC Men's Basketball Match Results From 1949 - 1950 Season.}
-\format{A data frame with variables:
+\format{
+A data frame with variables:
 \describe{
 \item{Season}{season year, ending}
 \item{Game_Date}{date of match, yyyy-mm-dd}
@@ -16,7 +17,8 @@
 \item{Tm}{UNC score in the match}
 \item{Opp}{opponent's score in the match}
 \item{OT}{overtime indicator, one of NA, OT, 2OT, or 3OT}
-}}
+}
+}
 \source{
 \url{http://www.sports-reference.com/cbb/schools/north-carolina/}
 }

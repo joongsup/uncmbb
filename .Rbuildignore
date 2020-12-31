@@ -2,8 +2,8 @@
 ^\.Rproj\.user$
 ^data-raw$
 cran-comments.md
-^\.travis\.yml$
 ^codecov\.yml$
 ^README\.Rmd$
 ^README-.*\.png$
 ^CRAN-RELEASE$
+^\.github$
