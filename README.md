@@ -1,8 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-[![Travis-CI Build
-Status](https://travis-ci.org/joongsup/uncmbb.svg?branch=master)](https://travis-ci.org/joongsup/uncmbb)
+[![R-CMD-check](https://github.com/joongsup/uncmbb/workflows/R-CMD-check/badge.svg)](https://github.com/joongsup/uncmbb/actions)
 [![Coverage
 Status](https://img.shields.io/codecov/c/github/joongsup/uncmbb/master.svg)](https://codecov.io/github/joongsup/uncmbb?branch=master)
 [![CRAN
@@ -38,6 +37,7 @@ devtools::install_github("joongsup/uncmbb")
 ``` r
 library(uncmbb)
 library(dplyr)
+#> Warning: package 'dplyr' was built under R version 3.6.2
 #> 
 #> Attaching package: 'dplyr'
 #> The following objects are masked from 'package:stats':
