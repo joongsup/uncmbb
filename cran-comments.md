@@ -2,9 +2,9 @@
 ## Test environments
 
 local OS X install, R 4.0.3
-windows: release (github actions), devel (win-builder)
+windows: release (github actions), devel (win-builder, r-hub builder)
 ubuntu: 20.04 release/devel (github actions), 16.04 release (r-hub builder)
-fedora: devel (github actions)
+fedora: devel (r-hub builder)
 
 ## R CMD check results
 
